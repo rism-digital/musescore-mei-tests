@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.00">
+  <programVersion>4.0.2</programVersion>
+  <programRevision>dbe7c6d</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Division>480</Division>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <open>1</open>
+    <metaTag name="arranger">Arranger is me</metaTag>
+    <metaTag name="composer">Composer is me</metaTag>
+    <metaTag name="copyright">CC-By</metaTag>
+    <metaTag name="creationDate">2023-05-05</metaTag>
+    <metaTag name="lyricist">Another lyricist</metaTag>
+    <metaTag name="platform">Apple Macintosh</metaTag>
+    <metaTag name="source">Stolen</metaTag>
+    <metaTag name="subtitle"></metaTag>
+    <metaTag name="translator">Deepl</metaTag>
+    <metaTag name="workTitle">Work title</metaTag>
+    <Part id="1">
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        </Staff>
+      <trackName>MusicXML Part</trackName>
+      <Instrument id="strings">
+        <longName>Strings</longName>
+        <trackName>String Ensemble 1</trackName>
+        <minPitchP>24</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>24</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>strings.group</instrumentId>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel name="arco">
+          <program value="48"/>
+          <controller ctrl="7" value="101"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="tremolo">
+          <program value="44"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <linkedMain/>
+        </VBox>
+      <Measure>
+        <voice>
+          <Rest>
+            <linkedMain/>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      </Staff>
+    <Score>
+      <initialPartId>1</initialPartId>
+      <LayerTag id="0" tag="default"></LayerTag>
+      <currentLayer>0</currentLayer>
+      <Division>480</Division>
+      <Style>
+        <pageWidth>8.27</pageWidth>
+        <pageHeight>11.69</pageHeight>
+        <pagePrintableWidth>7.0889</pagePrintableWidth>
+        <lyricsOddFontFace>Arial Narrow</lyricsOddFontFace>
+        <lyricsOddFontSize>8.4</lyricsOddFontSize>
+        <lyricsEvenFontFace>Arial Narrow</lyricsEvenFontFace>
+        <lyricsEvenFontSize>8.4</lyricsEvenFontSize>
+        <chordSymbolAFontFace>Times New Roman</chordSymbolAFontFace>
+        <chordSymbolAFontSize>7.2</chordSymbolAFontSize>
+        <chordSymbolBFontFace>Times New Roman</chordSymbolBFontFace>
+        <chordSymbolBFontSize>7.2</chordSymbolBFontSize>
+        <nashvilleNumberFontFace>Times New Roman</nashvilleNumberFontFace>
+        <nashvilleNumberFontSize>7.2</nashvilleNumberFontSize>
+        <createMultiMeasureRests>1</createMultiMeasureRests>
+        <tupletFontFace>Times New Roman</tupletFontFace>
+        <tupletFontSize>7.2</tupletFontSize>
+        <fingeringFontFace>Times New Roman</fingeringFontFace>
+        <fingeringFontSize>7.2</fingeringFontSize>
+        <lhGuitarFingeringFontFace>Times New Roman</lhGuitarFingeringFontFace>
+        <lhGuitarFingeringFontSize>7.2</lhGuitarFingeringFontSize>
+        <rhGuitarFingeringFontFace>Times New Roman</rhGuitarFingeringFontFace>
+        <rhGuitarFingeringFontSize>7.2</rhGuitarFingeringFontSize>
+        <stringNumberFontFace>Times New Roman</stringNumberFontFace>
+        <stringNumberFontSize>7.2</stringNumberFontSize>
+        <longInstrumentFontFace>Times New Roman</longInstrumentFontFace>
+        <longInstrumentFontSize>7.2</longInstrumentFontSize>
+        <shortInstrumentFontFace>Times New Roman</shortInstrumentFontFace>
+        <shortInstrumentFontSize>7.2</shortInstrumentFontSize>
+        <partInstrumentFontFace>Times New Roman</partInstrumentFontFace>
+        <partInstrumentFontSize>7.2</partInstrumentFontSize>
+        <dynamicsFontFace>Times New Roman</dynamicsFontFace>
+        <dynamicsFontSize>7.2</dynamicsFontSize>
+        <expressionFontFace>Times New Roman</expressionFontFace>
+        <expressionFontSize>7.2</expressionFontSize>
+        <tempoFontFace>Times New Roman</tempoFontFace>
+        <tempoFontSize>7.2</tempoFontSize>
+        <metronomeFontFace>Times New Roman</metronomeFontFace>
+        <metronomeFontSize>7.2</metronomeFontSize>
+        <measureNumberFontFace>Times New Roman</measureNumberFontFace>
+        <measureNumberFontSize>7.2</measureNumberFontSize>
+        <measureNumberPosBelow x="0" y="1"/>
+        <mmRestRangeFontFace>Times New Roman</mmRestRangeFontFace>
+        <mmRestRangeFontSize>7.2</mmRestRangeFontSize>
+        <translatorFontFace>Times New Roman</translatorFontFace>
+        <translatorFontSize>7.2</translatorFontSize>
+        <systemFontFace>Times New Roman</systemFontFace>
+        <systemFontSize>7.2</systemFontSize>
+        <staffFontFace>Times New Roman</staffFontFace>
+        <staffFontSize>7.2</staffFontSize>
+        <rehearsalMarkFontFace>Times New Roman</rehearsalMarkFontFace>
+        <rehearsalMarkFontSize>7.2</rehearsalMarkFontSize>
+        <repeatLeftFontFace>Times New Roman</repeatLeftFontFace>
+        <repeatLeftFontSize>7.2</repeatLeftFontSize>
+        <repeatRightFontFace>Times New Roman</repeatRightFontFace>
+        <repeatRightFontSize>7.2</repeatRightFontSize>
+        <frameFontFace>Times New Roman</frameFontFace>
+        <frameFontSize>7.2</frameFontSize>
+        <glissandoFontFace>Times New Roman</glissandoFontFace>
+        <glissandoFontSize>7.2</glissandoFontSize>
+        <bendFontFace>Times New Roman</bendFontFace>
+        <bendFontSize>7.2</bendFontSize>
+        <headerFontFace>Times New Roman</headerFontFace>
+        <headerFontSize>7.2</headerFontSize>
+        <footerFontFace>Times New Roman</footerFontFace>
+        <footerFontSize>7.2</footerFontSize>
+        <instrumentChangeFontFace>Times New Roman</instrumentChangeFontFace>
+        <instrumentChangeFontSize>7.2</instrumentChangeFontSize>
+        <stickingFontFace>Times New Roman</stickingFontFace>
+        <stickingFontSize>7.2</stickingFontSize>
+        <user1FontFace>Times New Roman</user1FontFace>
+        <user1FontSize>7.2</user1FontSize>
+        <user2FontFace>Times New Roman</user2FontFace>
+        <user2FontSize>7.2</user2FontSize>
+        <user3FontFace>Times New Roman</user3FontFace>
+        <user3FontSize>7.2</user3FontSize>
+        <user4FontFace>Times New Roman</user4FontFace>
+        <user4FontSize>7.2</user4FontSize>
+        <user5FontFace>Times New Roman</user5FontFace>
+        <user5FontSize>7.2</user5FontSize>
+        <user6FontFace>Times New Roman</user6FontFace>
+        <user6FontSize>7.2</user6FontSize>
+        <user7FontFace>Times New Roman</user7FontFace>
+        <user7FontSize>7.2</user7FontSize>
+        <user8FontFace>Times New Roman</user8FontFace>
+        <user8FontSize>7.2</user8FontSize>
+        <user9FontFace>Times New Roman</user9FontFace>
+        <user9FontSize>7.2</user9FontSize>
+        <user10FontFace>Times New Roman</user10FontFace>
+        <user10FontSize>7.2</user10FontSize>
+        <user11FontFace>Times New Roman</user11FontFace>
+        <user11FontSize>7.2</user11FontSize>
+        <user12FontFace>Times New Roman</user12FontFace>
+        <user12FontSize>7.2</user12FontSize>
+        <Spatium>1.74978</Spatium>
+        </Style>
+      <showInvisible>1</showInvisible>
+      <showUnprintable>1</showUnprintable>
+      <showFrames>1</showFrames>
+      <showMargins>0</showMargins>
+      <metaTag name="partName">Violin</metaTag>
+      <Part id="1">
+        <Staff id="1">
+          <linkedTo>1</linkedTo>
+          <StaffType group="pitched">
+            <name>stdNormal</name>
+            </StaffType>
+          </Staff>
+        <trackName>MusicXML Part</trackName>
+        <Instrument id="strings">
+          <longName>Strings</longName>
+          <trackName>String Ensemble 1</trackName>
+          <minPitchP>24</minPitchP>
+          <maxPitchP>108</maxPitchP>
+          <minPitchA>24</minPitchA>
+          <maxPitchA>108</maxPitchA>
+          <instrumentId>strings.group</instrumentId>
+          <clef staff="2">F</clef>
+          <Articulation>
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Articulation name="staccatissimo">
+            <velocity>100</velocity>
+            <gateTime>33</gateTime>
+            </Articulation>
+          <Articulation name="staccato">
+            <velocity>100</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="portato">
+            <velocity>100</velocity>
+            <gateTime>67</gateTime>
+            </Articulation>
+          <Articulation name="tenuto">
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Articulation name="marcato">
+            <velocity>120</velocity>
+            <gateTime>67</gateTime>
+            </Articulation>
+          <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoTenuto">
+            <velocity>120</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Channel name="arco">
+            <program value="48"/>
+            <controller ctrl="7" value="101"/>
+            <controller ctrl="10" value="63"/>
+            <synti>Fluid</synti>
+            </Channel>
+          <Channel name="pizzicato">
+            <program value="45"/>
+            <synti>Fluid</synti>
+            </Channel>
+          <Channel name="tremolo">
+            <program value="44"/>
+            <synti>Fluid</synti>
+            </Channel>
+          </Instrument>
+        </Part>
+      <Staff id="1">
+        <VBox>
+          <height>10</height>
+          <linked>
+            <indexDiff>-2</indexDiff>
+            </linked>
+          <Text>
+            <style>instrument_excerpt</style>
+            <text>Violin</text>
+            </Text>
+          </VBox>
+        <Measure>
+          <voice>
+            <Rest>
+              <linked>
+                <indexDiff>-2</indexDiff>
+                </linked>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        </Staff>
+      <name>Violin</name>
+      </Score>
+    </Score>
+  </museScore>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-12" type="encoding-date">2023-05-12</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-h1ege2">
+         <appInfo xml:id="appinfo-y19our">
+            <application xml:id="application-kxai5w" isodate="2023-05-12T13:49:07" version="3.15.0">
+               <name xml:id="name-8yhgsu">Verovio</name>
+               <p xml:id="p-h0b22t">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1suabj">
+            <score xml:id="sikt2rk">
+               <scoreDef xml:id="s1bw3h3x">
+                  <pgHead xml:id="p1rlwqde">
+                     <rend xml:id="rx20znj" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="rm1kwco" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1756n47" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1l23mtc">
+                     <staffGrp xml:id="sqwke18" symbol="bracket">
+                        <staffDef xml:id="P1" n="1" lines="5" trans.diat="-4" trans.semi="-7" clef.shape="G" clef.line="2" key.sig="1s" meter.count="4" meter.unit="4">
+                           <label xml:id="lw29e56">Horn in F</label>
+                           <labelAbbr xml:id="l5k50y5">Hn. in F</labelAbbr>
+                           <instrDef xml:id="i19h1oee" midi.channel="0" midi.instrnum="60" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P2" n="2" lines="5" trans.diat="-1" trans.semi="-2" clef.shape="G" clef.line="2" key.sig="2s" meter.count="4" meter.unit="4">
+                           <label xml:id="lbilxpg">Trumpet in B♭</label>
+                           <labelAbbr xml:id="l26b8r3">Tpt. in B♭</labelAbbr>
+                           <instrDef xml:id="iz813o1" midi.channel="2" midi.instrnum="56" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P3" n="3" lines="5" trans.diat="-5" trans.semi="-9" clef.shape="G" clef.line="2" key.sig="3s" meter.count="4" meter.unit="4">
+                           <label xml:id="l1219gvl">Bass Trumpet in E♭</label>
+                           <labelAbbr xml:id="lvgz9xz">B. Tpt. in E♭</labelAbbr>
+                           <instrDef xml:id="i6ld5cl" midi.channel="4" midi.instrnum="56" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P4" n="4" lines="5" clef.shape="C" clef.line="3" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l6c8149">Alto Trombone</label>
+                           <labelAbbr xml:id="locaiv5">A. Tbn.</labelAbbr>
+                           <instrDef xml:id="i1jvfp5g" midi.channel="6" midi.instrnum="57" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P5" n="5" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l8sjz2y">Trombone</label>
+                           <labelAbbr xml:id="l11cb0gr">Tbn.</labelAbbr>
+                           <instrDef xml:id="i12kp9xi" midi.channel="8" midi.instrnum="57" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P6" n="6" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="lxdm4bz">Contrabass Trombone</label>
+                           <labelAbbr xml:id="l1sseo38">Cb. Tbn.</labelAbbr>
+                           <instrDef xml:id="i776bbn" midi.channel="11" midi.instrnum="57" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P7" n="7" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l1h5q3oi">Bass Trombone</label>
+                           <labelAbbr xml:id="l5qjohk">B. Tbn.</labelAbbr>
+                           <instrDef xml:id="i1b3pzmi" midi.channel="13" midi.instrnum="57" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P8" n="8" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l1o1zjh5">Tuba</label>
+                           <labelAbbr xml:id="l81kmed">Tba.</labelAbbr>
+                           <instrDef xml:id="ienuwj6" midi.channel="15" midi.instrnum="58" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P9" n="9" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l1d7b7vi">B♭ Contrabass Tuba</label>
+                           <labelAbbr xml:id="l1yafzj6">B♭ Cb. Tb.</labelAbbr>
+                           <instrDef xml:id="i17kwt5e" midi.channel="0" midi.instrnum="58" midi.volume="78.00%" />
+                        </staffDef>
+                     </staffGrp>
+                     <staffGrp xml:id="P10" bar.thru="true" symbol="brace">
+                        <label xml:id="lyfpaws">Celesta</label>
+                        <labelAbbr xml:id="l1fn9n95">Cel.</labelAbbr>
+                        <instrDef xml:id="iaeusqh" midi.channel="1" midi.instrnum="8" midi.volume="78.00%" />
+                        <staffDef xml:id="s1ul25w3" n="10" lines="5" trans.diat="7" trans.semi="12" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4" />
+                        <staffDef xml:id="s3vhzj2" n="11" lines="5" trans.diat="7" trans.semi="12" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4" />
+                     </staffGrp>
+                     <staffGrp xml:id="s1xr5n3q" symbol="bracket">
+                        <staffDef xml:id="P11" n="12" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="lbaqwe9">Violins</label>
+                           <labelAbbr xml:id="lcu5a8u">Vlns.</labelAbbr>
+                           <instrDef xml:id="ignew0d" midi.channel="2" midi.instrnum="48" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P12" n="13" lines="5" clef.shape="C" clef.line="3" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="lbydi3d">Viola</label>
+                           <labelAbbr xml:id="ln93kyr">Vla.</labelAbbr>
+                           <instrDef xml:id="ijov89p" midi.channel="5" midi.instrnum="41" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P13" n="14" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l10o53v6">Violoncello</label>
+                           <labelAbbr xml:id="l1mquby5">Vc.</labelAbbr>
+                           <instrDef xml:id="i1adllb7" midi.channel="8" midi.instrnum="42" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P14" n="15" lines="5" trans.diat="-7" trans.semi="-12" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l1rnu0xs">Contrabass</label>
+                           <labelAbbr xml:id="l1qhcaic">Cb.</labelAbbr>
+                           <instrDef xml:id="io3h9uj" midi.channel="12" midi.instrnum="43" midi.volume="78.00%" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s6suhfc">
+                  <measure xml:id="mbu0i3g" n="1">
+                     <staff xml:id="s2368y7" n="1">
+                        <layer xml:id="lwthz1a" n="1">
+                           <mRest xml:id="m1qwigwh" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s127gxrr" n="2">
+                        <layer xml:id="lotxto2" n="1">
+                           <mRest xml:id="m7dkf0o" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1qb4ilh" n="3">
+                        <layer xml:id="l1f1n65x" n="1">
+                           <mRest xml:id="m2wd1b1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="slxe0oc" n="4">
+                        <layer xml:id="l1l35w1f" n="1">
+                           <mRest xml:id="msnv62v" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s3tooaf" n="5">
+                        <layer xml:id="ln49cqa" n="1">
+                           <mRest xml:id="m1f3f4j6" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sl8n646" n="6">
+                        <layer xml:id="l1daizfp" n="1">
+                           <mRest xml:id="mgeeqqj" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sjibhei" n="7">
+                        <layer xml:id="l1xf48zn" n="1">
+                           <mRest xml:id="m1mlwels" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1dd2qsb" n="8">
+                        <layer xml:id="lx1goko" n="1">
+                           <mRest xml:id="muvwr3v" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1a87slf" n="9">
+                        <layer xml:id="lq6w991" n="1">
+                           <mRest xml:id="m2yza6y" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="snfh74n" n="10">
+                        <layer xml:id="l104n3mc" n="1">
+                           <mRest xml:id="ma2weby" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1ngttyu" n="11">
+                        <layer xml:id="leu4w2s" n="5">
+                           <mRest xml:id="m3xup0t" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1c3mc45" n="12">
+                        <layer xml:id="lkq2k10" n="1">
+                           <mRest xml:id="m8y9kdc" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1mvwexg" n="13">
+                        <layer xml:id="l1wrsw0q" n="1">
+                           <mRest xml:id="mck5xod" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sjtstx1" n="14">
+                        <layer xml:id="lggz2iz" n="1">
+                           <mRest xml:id="m19pvv88" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1324i95" n="15">
+                        <layer xml:id="lqit65x" n="1">
+                           <mRest xml:id="mme1d3y" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m2r3o3q" right="end" n="2">
+                     <staff xml:id="s1zwen0" n="1">
+                        <layer xml:id="l10tawtb" n="1">
+                           <mRest xml:id="m1uihn7u" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1aeg2p8" n="2">
+                        <layer xml:id="l1gtfx9m" n="1">
+                           <mRest xml:id="m6eoy5i" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sid4rya" n="3">
+                        <layer xml:id="lxa86f4" n="1">
+                           <mRest xml:id="mj0z9d0" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sqwjosw" n="4">
+                        <layer xml:id="l89i2kd" n="1">
+                           <mRest xml:id="m10y66y0" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1gzwx5p" n="5">
+                        <layer xml:id="l1887wqd" n="1">
+                           <mRest xml:id="m1ydhg8e" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sph6xdq" n="6">
+                        <layer xml:id="l1rjgauc" n="1">
+                           <mRest xml:id="mum7m8z" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s15ow9g0" n="7">
+                        <layer xml:id="lkhra1a" n="1">
+                           <mRest xml:id="m1ezhh5y" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sw94vn4" n="8">
+                        <layer xml:id="lwmvcvf" n="1">
+                           <mRest xml:id="m186e5xm" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1wn93x7" n="9">
+                        <layer xml:id="l15i0q55" n="1">
+                           <mRest xml:id="m11dz3a0" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s7tvdii" n="10">
+                        <layer xml:id="l8g2zdi" n="1">
+                           <mRest xml:id="mouafzj" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sqy319i" n="11">
+                        <layer xml:id="l1vl2ln8" n="5">
+                           <mRest xml:id="my363ic" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1c14u5" n="12">
+                        <layer xml:id="l1xpuleg" n="1">
+                           <mRest xml:id="m1k9b6wx" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s3ap45n" n="13">
+                        <layer xml:id="l1nw0yoj" n="1">
+                           <mRest xml:id="m1l7365" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1e5i4pc" n="14">
+                        <layer xml:id="l1tvll5n" n="1">
+                           <mRest xml:id="mbj5o32" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s14zeanf" n="15">
+                        <layer xml:id="lw8ycpt" n="1">
+                           <mRest xml:id="mj2drpc" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Work title</title>
+            <respStmt>
+               <persName role="arranger">Arranger is me</persName>
+               <persName role="composer">Composer is me</persName>
+               <persName role="lyricist">Another lyricist</persName>
+               <persName role="translator">Deepl</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-12" type="encoding-date">2023-05-12</date>
+            <availability>
+               <distributor>CC-By</distributor>
+            </availability>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-fnpylu">
+         <appInfo xml:id="appinfo-znv3bm">
+            <application xml:id="application-w08qhn" isodate="2023-05-12T13:48:15" version="3.15.0">
+               <name xml:id="name-1sjvc9k">Verovio</name>
+               <p xml:id="p-1jvof2b">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mbdv4cp">
+            <score xml:id="skcefns">
+               <scoreDef xml:id="s1uur7xu">
+                  <pgFoot xml:id="pvwnhrd">
+                     <rend xml:id="r1sj6037" halign="center" valign="bottom">CC-By</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="sjvsngs">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0">
+                        <label xml:id="lb1x4hg">Strings</label>
+                        <instrDef xml:id="i1sqrq0u" midi.channel="0" midi.instrnum="48" midi.volume="79.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1t2yvjb">
+                  <measure xml:id="m1piu1zy" right="end" n="1">
+                     <staff xml:id="s1dyk06i" n="1">
+                        <layer xml:id="l1qd8c50" n="1">
+                           <mRest xml:id="mhl5rp5" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
