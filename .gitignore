@@ -1,2 +1,6 @@
 *.rt.*
 *.ms.mei
+*.vrv.*.pdf
+*.vrv.*.svg
+/test.*
+all.sh
