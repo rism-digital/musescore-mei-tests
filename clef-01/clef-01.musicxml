@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Clefs</work-title>
+    </work>
+  <identification>
+    <encoding>
+      <software>MuseScore 4.0.2</software>
+      <encoding-date>2023-05-23</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99912</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1696.93</page-height>
+      <page-width>1200.48</page-width>
+      <page-margins type="even">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="600.241" default-y="1611.21" justify="center" valign="top" font-size="22">Clefs</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Staff 1</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name>Staff 1</instrument-name>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="145.47">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <note default-x="75.12" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="2" width="83.36">
+      <attributes>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="3" width="83.36">
+      <attributes>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>2</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>6</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="4" width="83.36">
+      <attributes>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="5" width="83.36">
+      <attributes>
+        <clef>
+          <sign>G</sign>
+          <line>1</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-40.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="6" width="83.36">
+      <attributes>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="7" width="83.36">
+      <attributes>
+        <clef>
+          <sign>C</sign>
+          <line>1</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-40.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="8" width="83.36">
+      <attributes>
+        <clef>
+          <sign>C</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-30.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="9" width="83.36">
+      <attributes>
+        <clef>
+          <sign>C</sign>
+          <line>3</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-20.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="10" width="83.36">
+      <attributes>
+        <clef>
+          <sign>C</sign>
+          <line>4</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-10.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="11" width="83.36">
+      <attributes>
+        <clef>
+          <sign>C</sign>
+          <line>5</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="0.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="12" width="183.85">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>235.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          </clef>
+        </attributes>
+      <note default-x="58.10" default-y="-10.00">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="13" width="138.75">
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          <clef-octave-change>1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-10.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="14" width="138.75">
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          <clef-octave-change>2</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-10.00">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="15" width="138.75">
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-10.00">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="16" width="138.75">
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          <clef-octave-change>-2</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-10.00">
+        <pitch>
+          <step>F</step>
+          <octave>1</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="17" width="138.75">
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>3</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="-20.00">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="18" width="151.45">
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>5</line>
+          </clef>
+        </attributes>
+      <note default-x="13.00" default-y="0.00">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>

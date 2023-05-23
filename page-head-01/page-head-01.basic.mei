@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-23" type="encoding-date">2023-05-23</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1u6fsj">
+         <appInfo xml:id="appinfo-7d7s0f">
+            <application xml:id="application-1bz4tbw" isodate="2023-05-23T19:19:51" version="3.15.0">
+               <name xml:id="name-1aigrz3">Verovio</name>
+               <p xml:id="p-fetm8">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mnxz3pj">
+            <score xml:id="s1rgk5px">
+               <scoreDef xml:id="s11yuvs3">
+                  <pgHead xml:id="p19qqcr5">
+                     <rend xml:id="rm5vucr" halign="center" valign="top">Title of the score
+</rend>
+                     <rend xml:id="r1bltysf" halign="right" valign="bottom">Composer
+</rend>
+                  </pgHead>
+                  <pgFoot xml:id="p1204kxh">
+                     <rend xml:id="rq3qvvt">with a second line
+</rend>
+                     <rend xml:id="rpm6tcv">and a third one</rend>
+                     <rend xml:id="ra16tmb">Arranger (second line)</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="s1d3a8ub">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="l1f2r7gs">Flute</label>
+                        <labelAbbr xml:id="l8nrkf2">Fl.</labelAbbr>
+                        <instrDef xml:id="iamz57x" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1vir5lr">
+                  <measure xml:id="m5mn8ex" n="1">
+                     <staff xml:id="sdapbzm" n="1">
+                        <layer xml:id="lf7wwe3" n="1">
+                           <mRest xml:id="ml1u2a8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mlmrd7i" n="2">
+                     <staff xml:id="s9lcqu5" n="1">
+                        <layer xml:id="l1wbxwhu" n="1">
+                           <mRest xml:id="m3d4lsr" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1mqdjxr" right="end" n="3">
+                     <staff xml:id="s480tmb" n="1">
+                        <layer xml:id="lf8g1lg" n="1">
+                           <mRest xml:id="myiz59v" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

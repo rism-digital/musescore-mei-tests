@@ -13,41 +13,41 @@
                <persName role="translator">Deepl</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2023-05-12" type="encoding-date">2023-05-12</date>
+         <pubStmt><date isodate="2023-05-23" type="encoding-date">2023-05-23</date>
             <availability>
                <distributor>CC-By</distributor>
             </availability>
          </pubStmt>
       </fileDesc>
-      <encodingDesc xml:id="encodingdesc-fnpylu">
-         <appInfo xml:id="appinfo-znv3bm">
-            <application xml:id="application-w08qhn" isodate="2023-05-12T13:48:15" version="3.15.0">
-               <name xml:id="name-1sjvc9k">Verovio</name>
-               <p xml:id="p-1jvof2b">Transcoded from MusicXML</p>
+      <encodingDesc xml:id="encodingdesc-o2wfww">
+         <appInfo xml:id="appinfo-13ol3y3">
+            <application xml:id="application-1ih0bqd" isodate="2023-05-23T19:19:45" version="3.15.0">
+               <name xml:id="name-12ijybo">Verovio</name>
+               <p xml:id="p-mzox9v">Transcoded from MusicXML</p>
             </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
    <music>
       <body>
-         <mdiv xml:id="mbdv4cp">
-            <score xml:id="skcefns">
-               <scoreDef xml:id="s1uur7xu">
-                  <pgFoot xml:id="pvwnhrd">
-                     <rend xml:id="r1sj6037" halign="center" valign="bottom">CC-By</rend>
+         <mdiv xml:id="m1s8cgkl">
+            <score xml:id="s1vm4txi">
+               <scoreDef xml:id="sgzutew">
+                  <pgFoot xml:id="pyqxkfy">
+                     <rend xml:id="rd31s6d" halign="center" valign="bottom">CC-By</rend>
                   </pgFoot>
-                  <staffGrp xml:id="sjvsngs">
+                  <staffGrp xml:id="s107gvli">
                      <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0">
-                        <label xml:id="lb1x4hg">Strings</label>
-                        <instrDef xml:id="i1sqrq0u" midi.channel="0" midi.instrnum="48" midi.volume="79.00%" />
+                        <label xml:id="l1e75tb0">Strings</label>
+                        <instrDef xml:id="i1qtymwz" midi.channel="0" midi.instrnum="48" midi.volume="79.00%" />
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section xml:id="s1t2yvjb">
-                  <measure xml:id="m1piu1zy" right="end" n="1">
-                     <staff xml:id="s1dyk06i" n="1">
-                        <layer xml:id="l1qd8c50" n="1">
-                           <mRest xml:id="mhl5rp5" />
+               <section xml:id="s80gfmy">
+                  <measure xml:id="mx7mv9h" right="end" n="1">
+                     <staff xml:id="s13k5ds8" n="1">
+                        <layer xml:id="ls57hts" n="1">
+                           <mRest xml:id="m1fouef4" />
                         </layer>
                      </staff>
                   </measure>

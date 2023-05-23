@@ -10,69 +10,69 @@
                <persName role="composer">Composer / arranger</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2023-05-12" type="encoding-date">2023-05-12</date>
+         <pubStmt><date isodate="2023-05-23" type="encoding-date">2023-05-23</date>
          </pubStmt>
       </fileDesc>
-      <encodingDesc xml:id="encodingdesc-d017zf">
-         <appInfo xml:id="appinfo-d5ef6z">
-            <application xml:id="application-nlwwxr" isodate="2023-05-12T13:48:32" version="3.15.0">
-               <name xml:id="name-q577so">Verovio</name>
-               <p xml:id="p-18fwfp1">Transcoded from MusicXML</p>
+      <encodingDesc xml:id="encodingdesc-1dqv56k">
+         <appInfo xml:id="appinfo-7bv714">
+            <application xml:id="application-fa55k7" isodate="2023-05-23T19:18:53" version="3.15.0">
+               <name xml:id="name-16upttl">Verovio</name>
+               <p xml:id="p-4fd9u1">Transcoded from MusicXML</p>
             </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
    <music>
       <body>
-         <mdiv xml:id="m1pg4gxq">
-            <score xml:id="s121yr9i">
-               <scoreDef xml:id="s1fmr31u">
-                  <pgHead xml:id="p1c8sl4q">
-                     <rend xml:id="r1v064b9" halign="center" valign="top">Untitled score</rend>
-                     <rend xml:id="r1l76qv8" halign="center" valign="top">Subtitle</rend>
-                     <rend xml:id="rv05iei" halign="right" valign="bottom">Composer / arranger</rend>
+         <mdiv xml:id="md30tql">
+            <score xml:id="s1j8h4rp">
+               <scoreDef xml:id="sytnqay">
+                  <pgHead xml:id="p169trxw">
+                     <rend xml:id="rrt4yhv" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="r7wpy0z" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="rar4pml" halign="right" valign="bottom">Composer / arranger</rend>
                   </pgHead>
-                  <staffGrp xml:id="sjppl07">
+                  <staffGrp xml:id="sw16vlk">
                      <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="3s" meter.count="4" meter.unit="4">
-                        <label xml:id="lmuz9q1">Voice</label>
-                        <labelAbbr xml:id="l1d2xo3b">Vo.</labelAbbr>
-                        <instrDef xml:id="i1i59abn" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <label xml:id="l926u60">Voice</label>
+                        <labelAbbr xml:id="l1e26eeq">Vo.</labelAbbr>
+                        <instrDef xml:id="i1ltdfsz" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section xml:id="safgodt">
-                  <measure xml:id="mgqjovy" n="1">
-                     <staff xml:id="s5l92bt" n="1">
-                        <layer xml:id="lp014ji" n="1">
-                           <note xml:id="n1kwqw2t" dur="4" oct="4" pname="f" stem.dir="up">
-                              <accid xml:id="a17qyubu" accid.ges="s" />
+               <section xml:id="sczpw39">
+                  <measure xml:id="mr3pw8n" n="1">
+                     <staff xml:id="s16zhm8k" n="1">
+                        <layer xml:id="l10pjuk8" n="1">
+                           <note xml:id="n1029k5n" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="a1vpko7a" accid.ges="s" />
                            </note>
-                           <note xml:id="n1agcd2l" dur="4" oct="4" pname="f" stem.dir="up">
-                              <accid xml:id="a1dqssuz" accid="s" />
+                           <note xml:id="nf9lyj8" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="a1forxvt" accid="s" />
                            </note>
-                           <note xml:id="n1mrsapx" dur="4" oct="4" pname="f" stem.dir="up">
-                              <accid xml:id="a1xzf2kf" accid="x" accid.ges="ss" />
+                           <note xml:id="n1uzeqgv" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="a1op69h8" accid="x" accid.ges="ss" />
                            </note>
-                           <note xml:id="nuynsrr" dur="4" oct="4" pname="f" stem.dir="up">
-                              <accid xml:id="a4xdnxt" accid.ges="ss" />
+                           <note xml:id="n7ifa6p" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="aam6emg" accid.ges="ss" />
                            </note>
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m17cz91t" right="end" n="2">
-                     <staff xml:id="sfcnelq" n="1">
-                        <layer xml:id="lmfasqf" n="1">
-                           <note xml:id="n1eou293" dur="4" oct="4" pname="a" stem.dir="up">
-                              <accid xml:id="aq2lre7" accid="n" />
+                  <measure xml:id="mu049in" right="end" n="2">
+                     <staff xml:id="s930vld" n="1">
+                        <layer xml:id="l2v93d1" n="1">
+                           <note xml:id="ni9go9d" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="a1tz1lxt" accid="n" />
                            </note>
-                           <note xml:id="nvh5qkr" dur="4" oct="4" pname="a" stem.dir="up">
-                              <accid xml:id="a1etzmvd" accid="f" />
+                           <note xml:id="nppigkq" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="aqv46mf" accid="f" />
                            </note>
-                           <note xml:id="n8omj43" dur="4" oct="4" pname="a" stem.dir="up">
-                              <accid xml:id="a1pptd3x" accid="nf" accid.ges="f" />
+                           <note xml:id="nbwk7ff" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="a3zsokm" accid="nf" accid.ges="f" />
                            </note>
-                           <note xml:id="n1y9msj3" dur="4" oct="4" pname="a" stem.dir="up">
-                              <accid xml:id="a1kezlo2" accid="tf" />
+                           <note xml:id="n10n1394" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="a1jj1ssz" accid="tf" />
                            </note>
                         </layer>
                      </staff>

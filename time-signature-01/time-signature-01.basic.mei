@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Time Signature 1</title>
+            <title type="subordinate">MuseScore testfile</title>
+            <respStmt>
+               <persName role="composer">Leon Vinken</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-23" type="encoding-date">2023-05-23</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-3glgp2">
+         <appInfo xml:id="appinfo-7jfzwe">
+            <application xml:id="application-1749n2m" isodate="2023-05-23T19:20:17" version="3.15.0">
+               <name xml:id="name-lsi60k">Verovio</name>
+               <p xml:id="p-1eubfif">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1g0x19c">
+            <score xml:id="si0fjnp">
+               <scoreDef xml:id="s1eom1h">
+                  <pgHead xml:id="p10hphz3">
+                     <rend xml:id="r1pw1g6z" halign="center" valign="top">Time Signatures</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sq9k5o2">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="2" meter.unit="2">
+                        <label xml:id="l4icd38">Staff 1</label>
+                        <instrDef xml:id="i60xfu6" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1rcqq4s">
+                  <pb xml:id="pywbxxn" />
+                  <measure xml:id="m22j4xg" n="1">
+                     <staff xml:id="s1ue1shs" n="1">
+                        <layer xml:id="l1rfc23n" n="1">
+                           <note xml:id="nh3p2s0" dur="1" oct="4" pname="g" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1b0xgcb" meter.count="2" meter.unit="4" />
+                  <measure xml:id="ml2wwh5" n="2">
+                     <staff xml:id="s16n52mq" n="1">
+                        <layer xml:id="ljfkhye" n="1">
+                           <note xml:id="nfn0smt" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1u7828v" meter.count="3" meter.unit="4" />
+                  <measure xml:id="m8pt0dg" n="3">
+                     <staff xml:id="scc6icp" n="1">
+                        <layer xml:id="l8s4djz" n="1">
+                           <note xml:id="n1v7e0ly" dots="1" dur="2" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="szmqync" meter.count="4" meter.unit="4" />
+                  <measure xml:id="m1arp22y" n="4">
+                     <staff xml:id="s1t900a" n="1">
+                        <layer xml:id="l265wmt" n="1">
+                           <note xml:id="n16rm5xf" dur="1" oct="5" pname="c" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="sgbjgaw" meter.count="5" meter.unit="4" />
+                  <measure xml:id="m58zztj" n="5">
+                     <staff xml:id="s142a2zo" n="1">
+                        <layer xml:id="l1b0xir7" n="1">
+                           <note xml:id="nc1bikz" dur="1" oct="4" pname="g" />
+                           <note xml:id="n14zjq1z" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s5p32p2" meter.count="6" meter.unit="4" />
+                  <measure xml:id="m3gzs1f" n="6">
+                     <staff xml:id="s16yf7m8" n="1">
+                        <layer xml:id="l1xhdmxw" n="1">
+                           <note xml:id="nvavz5e" dur="1" oct="4" pname="a" />
+                           <note xml:id="ne6onf" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1g2c1n2" meter.count="3" meter.unit="8" />
+                  <measure xml:id="m4on3nj" n="7">
+                     <staff xml:id="s1b6m20a" n="1">
+                        <layer xml:id="lqtjapj" n="1">
+                           <note xml:id="n1v8sk6b" dots="1" dur="4" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1ysktaj" meter.count="6" meter.unit="8" />
+                  <measure xml:id="mdtqpiw" n="8">
+                     <staff xml:id="swe0ozo" n="1">
+                        <layer xml:id="lwmn2kl" n="1">
+                           <note xml:id="ndwfvn7" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="s19umlpm" />
+                  <scoreDef xml:id="s1pqxk12" meter.count="9" meter.unit="8" />
+                  <measure xml:id="m1t05vaz" n="9">
+                     <staff xml:id="s1wtmbdy" n="1">
+                        <layer xml:id="l1qop3vr" n="1">
+                           <note xml:id="nvejqyx" dur="1" oct="4" pname="g" />
+                           <note xml:id="npi1ut" dur="8" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="spjqamk" meter.count="12" meter.unit="8" />
+                  <measure xml:id="m1yucdds" n="10">
+                     <staff xml:id="s1tz51j2" n="1">
+                        <layer xml:id="lzbxa3g" n="1">
+                           <note xml:id="n150l53j" dur="1" oct="4" pname="a" />
+                           <note xml:id="nfuxfrl" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
