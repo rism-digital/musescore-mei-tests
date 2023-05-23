@@ -27,6 +27,11 @@ These files are store in the repository.
 
 Assumes MuseScore to be built following [these](https://github.com/rism-digital/MuseScore/wiki/Building-instruction-memo) building instructions.
 
+Needs the environment variable `INKSCAPE` to be set to the `inkscape` binary. E.g.:
+```bash
+export INKSCAPE="/Applications/Inkscape.app/Contents/MacOS/inkscape"
+```
+
 Needs the environment variable `MSCOREMEI` to be set to the root of the MuseScore repository. E.g.:
 ```bash
 export MSCOREMEI="/Users/laurent/tools/musescore-mei"      

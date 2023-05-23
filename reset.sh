@@ -9,4 +9,6 @@ rm $test/$test.musicxml
 
 # Round-trip files
 rm $test/$test.ms.mei
+rm $test/$test.*.rt.*
 rm $test/$test.rt.*
+rm $test/$test.vrv.*
