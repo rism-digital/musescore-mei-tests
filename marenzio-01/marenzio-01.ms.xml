@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.00">
-  <programVersion>4.1.0</programVersion>
-  <programRevision></programRevision>
+  <programVersion>4.0.2</programVersion>
+  <programRevision>dbe7c6d</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -16,29 +16,12 @@
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-05-10</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="meiHead">&lt;meiHead&gt;&lt;fileDesc&gt;&lt;titleStmt&gt;&lt;title/&gt;&lt;respStmt&gt;&lt;persName&gt;Giuseppe Gerbino&lt;/persName&gt;&lt;persName&gt;Laurent Pugin&lt;/persName&gt;&lt;/respStmt&gt;&lt;/titleStmt&gt;&lt;pubStmt&gt;&lt;unpub/&gt;&lt;/pubStmt&gt;&lt;sourceDesc&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Angelo Gardano, Venezia 1580&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci novamente
-                                composti, &amp;amp; dati in luce. Angelo Gardano, Venezia 1580.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Bc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;P-Kj&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;TB&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;GB-Lwa&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;D-Mbs&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Nf&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;[unavailable]&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Rsc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;AQ incomplete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Vnm&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;B&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Angelo Gardano, Venezia 1582&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci novamente
-                                con ogni diligentia ristampati. Angelo Gardano, Venezia 1582.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Bc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Ricciardo Amadino compagni, Venezia 1586&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci, novamente
-                                con ogni diligentia ristampati. Giacomo Vincenzi &amp;amp; Ricciardo
-                                Amadino compagni, Venezia 1586.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Bc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Angelo Gardano, Venezia 1587&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci novamente
-                                con ogni diligentia ristampati. Angelo Gardano, Venezia 1587.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;A-Wn&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Giacomo Vincenzi, Venezia 1588&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci, novamente
-                                con ogni diligentia ristampati. Giacomo Vincenzi, Venezia 1588.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Bc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Q&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;US-BEm&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;T&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-PS&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;CAB; TQ incomplete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Pierre Phalèse and Jean Bellère, Antwerp 1593&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Madrigali a cinque voci ridotti in un corpo. Pierre Phalèse and Jean
-                                Bellère, Antwerp 1593.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Erede di Girolamo Scotto, Venezia 1600&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci, novamente
-                                ristampati. Erede di Girolamo Scotto, Venezia 1600&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;GB-Lbl&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;BQ&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Vnm&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;A&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Paul Kauffmann, Nuremberg 1601&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Lucae Marentii, musicii celeberrimi, madrigalia quinque vocum, anteà
-                                Venetiis, diversis temporibus, novem separatis edita libris, jam
-                                verò, commodioris usus caussâ, uno volumine conjunctim excusa [sic].
-                                Paul Kauffmann, Nuremberg 1601.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Angelo Gardano, Venezia 1602&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci novamente
-                                con ogni diligentia ristampati. Angelo Gardano, Venezia 1602.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-Bc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;Complete&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Erede di Girolamo Scotto, Venezia 1608&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Di Luca Marenzio il primo libro de madrigali a cinque voci, novamente
-                                ristampati. Erede di Girolamo Scotto, Venezia 1608.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;itemList&gt;&lt;item&gt;&lt;physLoc&gt;&lt;repository&gt;&lt;identifier authURI=&quot;http://www.rism.info/&quot; authority=&quot;RISM&quot;&gt;I-PAmc&lt;/identifier&gt;&lt;/repository&gt;&lt;/physLoc&gt;&lt;notesStmt&gt;&lt;annot&gt;CATB&lt;/annot&gt;&lt;/notesStmt&gt;&lt;/item&gt;&lt;/itemList&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Alessandro Raveri, Venezia 1608&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Il primo libro de madrigali a cinque voci di Luca Marenzio novamente
-                                con ogni diligenza ristampati. Alessandro Raveri, Venezia 1608.&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;/source&gt;&lt;source&gt;&lt;editionStmt&gt;&lt;edition&gt;Pierre Phalèse, Antwerp 1609&lt;/edition&gt;&lt;/editionStmt&gt;&lt;physDesc&gt;&lt;titlePage&gt;&lt;p&gt;Il primo, secondo, terzo, quarto &amp;amp; quinto libro de madrigali a
-                                cinque voci. Pierre Phalèse, Antwerp 1609 (does not contain “O tu
-                                che fra le selve occulta vivi”).&lt;/p&gt;&lt;/titlePage&gt;&lt;/physDesc&gt;&lt;/source&gt;&lt;/sourceDesc&gt;&lt;/fileDesc&gt;&lt;workDesc&gt;&lt;work/&gt;&lt;/workDesc&gt;&lt;/meiHead&gt;</metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
-    <metaTag name="originalFormat">mei</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
+    <metaTag name="subtitle"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -47,12 +30,14 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="0" span="5" col="0" visible="1"/>
+        <bracket type="0" span="5" col="0"/>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Channel>
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -64,9 +49,11 @@
           </StaffType>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Channel>
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -78,9 +65,11 @@
           </StaffType>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Channel>
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -92,9 +81,11 @@
           </StaffType>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Channel>
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -106,9 +97,11 @@
           </StaffType>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Channel>
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -119,11 +112,7 @@
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
-            <isHeader>1</isHeader>
             </Clef>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -1436,11 +1425,7 @@
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
-            <isHeader>1</isHeader>
             </Clef>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -2717,11 +2702,7 @@
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
-            <isHeader>1</isHeader>
             </Clef>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -3933,13 +3914,9 @@
       <Measure>
         <voice>
           <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <isHeader>1</isHeader>
+            <concertClefType>G8vb</concertClefType>
+            <transposingClefType>G8vb</transposingClefType>
             </Clef>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -4923,11 +4900,7 @@
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
-            <isHeader>1</isHeader>
             </Clef>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
