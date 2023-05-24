@@ -1,6 +1,8 @@
-*.rt.*
-*.ms.mei
-*.vrv.*.pdf
-*.vrv.*.svg
+*-*/*.rt.*
+*-*/*.ms.mei
+*-*/*.vrv.*.pdf
+*-*/*.vrv.*.svg
+*-*/diff.txt
+*-*/result.txt
 /test.*
-all.sh
+results.txt

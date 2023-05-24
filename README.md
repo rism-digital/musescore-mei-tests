@@ -47,14 +47,28 @@ will produce:
 * A PDF version of the reimported file in `score-01.rt.pdf`
 * The round-trip MEI export from MuseScore in `score-01.rt.mei`
 
-The script also runs `xmldiff` on the two MEI files.
+The script also runs `xmldiff` on the two MEI files stored into a `diff.txt` file and the number of changes in `result.txt`
 
 These files are not stored in the repository
 
+## Running all tests
+
+All round-trip tests can be run with:
+```
+./run.sh
+```
+
+This will generate a `results.txt` file indicating failure or the number of changes detected for each test
+
 ## Clean-up
+
+All round-trip files can be removed with:
+```bash
+./reset.sh score-01
+```
 
 All files but the original MuseScore file can be removed with:
 ```bash
-./reset.sh score-01
+./reset-convert.sh score-01
 ```
 
