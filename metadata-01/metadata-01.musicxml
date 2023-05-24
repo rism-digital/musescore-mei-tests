@@ -12,7 +12,7 @@
     <rights>CC-By</rights>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-05-23</encoding-date>
+      <encoding-date>2023-05-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -72,7 +72,7 @@
             <left-margin>50.00</left-margin>
             <right-margin>853.94</right-margin>
             </system-margins>
-          <top-system-distance>170.00</top-system-distance>
+          <top-system-distance>70.00</top-system-distance>
           </system-layout>
         </print>
       <attributes>
