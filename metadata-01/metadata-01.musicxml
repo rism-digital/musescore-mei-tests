@@ -2,24 +2,24 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <work>
-    <work-title>Work title</work-title>
+    <work-title>Metadata test (title)</work-title>
     </work>
   <identification>
-    <creator type="arranger">Arranger is me</creator>
-    <creator type="composer">Composer is me</creator>
-    <creator type="lyricist">Another lyricist</creator>
+    <creator type="arranger">Arranger of the piece</creator>
+    <creator type="composer">Composer of the piece</creator>
+    <creator type="lyricist">Metastasio</creator>
     <creator type="translator">Deepl</creator>
-    <rights>CC-By</rights>
+    <rights>Public domain</rights>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-05-24</encoding-date>
+      <encoding-date>2023-05-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
-    <source>Stolen</source>
+    <source>Born digital</source>
     </identification>
   <defaults>
     <scaling>
@@ -42,37 +42,50 @@
         <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
-    <word-font font-family="Times New Roman" font-size="7.2"/>
-    <lyric-font font-family="Arial Narrow" font-size="8.4"/>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
   <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="600.241" default-y="1611.21" justify="center" valign="top" font-size="22">Metadata test</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>subtitle</credit-type>
+    <credit-words default-x="600.241" default-y="1554.06" justify="center" valign="top" font-size="14">Subtitle</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1114.76" default-y="1511.21" justify="right" valign="bottom">Composer / arranger</credit-words>
+    </credit>
+  <credit page="1">
     <credit-type>rights</credit-type>
-    <credit-words default-x="600.241" default-y="85.725" justify="center" valign="bottom">CC-By</credit-words>
+    <credit-words default-x="600.241" default-y="85.725" justify="center" valign="bottom" font-size="9">Public domain</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
-      <part-name>Strings</part-name>
+      <part-name>Oboe</part-name>
+      <part-abbreviation>Ob.</part-abbreviation>
       <score-instrument id="P1-I1">
-        <instrument-name>String Ensemble 1</instrument-name>
+        <instrument-name>Oboe</instrument-name>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
-        <midi-program>49</midi-program>
-        <volume>79.5276</volume>
+        <midi-program>69</midi-program>
+        <volume>78.7402</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="125.10">
+    <measure number="1" width="147.22">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50.00</left-margin>
-            <right-margin>853.94</right-margin>
+            <right-margin>831.82</right-margin>
             </system-margins>
-          <top-system-distance>70.00</top-system-distance>
+          <top-system-distance>170.00</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -80,12 +93,16 @@
         <key>
           <fifths>0</fifths>
           </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
         <clef>
           <sign>G</sign>
           <line>2</line>
           </clef>
         </attributes>
-      <note default-x="67.10" default-y="-10.00">
+      <note default-x="91.72" default-y="-10.00">
         <rest measure="yes"/>
         <duration>4</duration>
         <voice>1</voice>
