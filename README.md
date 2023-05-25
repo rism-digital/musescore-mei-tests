@@ -46,6 +46,7 @@ will produce:
 * The MuseScore file reimported from MEI in `score-01.rt.mscz`
 * A PDF version of the reimported file in `score-01.rt.pdf`
 * The round-trip MEI export from MuseScore in `score-01.rt.mei`
+* A PDF version of the exported and re-exported MEI file rendered with Verovio
 
 The script also runs `xmldiff` on the two MEI files stored into a `diff.txt` file and the number of changes in `result.txt`
 
