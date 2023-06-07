@@ -1,5 +1,12 @@
+#! /bin/zsh
+
 mscoremei="$MSCOREMEI/applebuild/src/app/Debug/mscore.app/Contents/MacOS/mscore"
 inkscape="$INKSCAPE"
+
+RED="\033[1;31m"
+YELLOW="\033[1;33m"
+GREEN="\033[1;32m"
+NOCOLOR="\033[0m"
 
 # directory with corresponding test file
 test=$1
@@ -33,9 +40,26 @@ unzip -p $test.rt.mscz $test.rt.mscx > $test.ms.rt.xml
 if [ -e $test.rt.mei ]; then
     # grep to remove empty lines (when no differences)
     xmldiff $test.ms.mei $test.rt.mei | grep -v "^$" > diff.txt
-    echo `cat diff.txt | wc -l` "\t$test" > result.txt 
+    echo `cat diff.txt | wc -l` "\t$test" > result.txt
+
+    echo "#####################"
+    if [ -s diff.txt ]; then
+    echo -e "${YELLOW}CHANGES [$test]${NOCOLOR}"
+    echo "–––––––––––––––––––––"
+    cat result.txt
+    echo "–––––––––––––––––––––"
+    echo "#####################"
+    cat diff.txt
+    else
+    echo -e "${GREEN}SUCCESS [$test]${NOCOLOR}"
+    fi
+    echo "#####################"
 else
     echo "FAILED\t$test" > result.txt
+
+    echo "#####################"
+    echo -e "${RED}FAILURE [$test]${NOCOLOR}"
+    echo "#####################"
 fi
 
 cd ..
