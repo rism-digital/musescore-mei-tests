@@ -43,7 +43,6 @@
   <part-list>
     <score-part id="P1">
       <part-name print-object="no">Piano</part-name>
-      <part-abbreviation>Pno.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Piano</instrument-name>
         </score-instrument>
