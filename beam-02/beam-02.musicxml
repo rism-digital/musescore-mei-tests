@@ -42,7 +42,7 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="600.241" default-y="1611.21" justify="center" valign="top" font-size="22">Beam styles</credit-words>
+    <credit-words default-x="600.241" default-y="1611.21" justify="center" valign="top" font-size="22">Beam with custom grouping</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>

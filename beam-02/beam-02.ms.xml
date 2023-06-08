@@ -97,7 +97,7 @@
         <height>10</height>
         <Text>
           <style>title</style>
-          <text>Beam styles</text>
+          <text>Beam with custom grouping</text>
           </Text>
         <Text>
           <style>subtitle</style>
@@ -110,9 +110,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
