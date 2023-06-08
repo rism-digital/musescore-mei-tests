@@ -89,7 +89,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -99,7 +98,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -111,7 +109,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -119,7 +116,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>74</pitch>
@@ -129,7 +125,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -137,7 +132,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -145,7 +139,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -157,7 +150,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -175,7 +167,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -190,7 +181,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -200,7 +190,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -208,7 +197,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -220,7 +208,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -238,7 +225,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>69</pitch>
@@ -246,7 +232,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -265,7 +250,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -273,7 +257,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>62</pitch>
@@ -281,7 +264,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -289,7 +271,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -297,7 +278,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -312,7 +292,6 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>69</pitch>
@@ -320,7 +299,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -330,7 +308,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>66</pitch>
@@ -338,7 +315,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -350,7 +326,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>74</pitch>
@@ -358,7 +333,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>72</pitch>
@@ -368,7 +342,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -376,7 +349,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -384,7 +356,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>66</pitch>
@@ -396,7 +367,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -404,7 +374,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>69</pitch>
@@ -414,7 +383,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -422,7 +390,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>66</pitch>
@@ -438,7 +405,6 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -448,7 +414,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -461,7 +426,6 @@
         <irregular>1</irregular>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -471,7 +435,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -492,7 +455,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -509,7 +471,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -524,7 +485,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>74</pitch>
@@ -536,7 +496,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -551,7 +510,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -559,7 +517,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -567,7 +524,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -575,7 +531,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -597,7 +552,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -615,7 +569,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -630,7 +583,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -642,7 +594,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -658,7 +609,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>69</pitch>
@@ -666,7 +616,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -674,7 +623,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -682,7 +630,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -698,7 +645,6 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>69</pitch>
@@ -706,7 +652,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -716,7 +661,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>66</pitch>
@@ -724,7 +668,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -736,7 +679,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>71</pitch>
@@ -744,7 +686,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>72</pitch>
@@ -754,7 +695,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -764,7 +704,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -772,7 +711,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -780,7 +718,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>69</pitch>
@@ -792,7 +729,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>74</pitch>
@@ -800,7 +736,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>72</pitch>
@@ -810,7 +745,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>69</pitch>
@@ -818,7 +752,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -827,7 +760,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -839,7 +771,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
@@ -850,7 +781,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -858,7 +788,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
@@ -876,7 +805,6 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -884,7 +812,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -894,7 +821,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>64</pitch>
@@ -902,7 +828,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -914,7 +839,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>74</pitch>
@@ -922,7 +846,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>72</pitch>
@@ -932,7 +855,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -941,7 +863,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -949,7 +870,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>66</pitch>
@@ -961,7 +881,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>71</pitch>
@@ -969,7 +888,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>69</pitch>
@@ -979,7 +897,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -987,7 +904,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -1009,7 +925,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -1027,7 +942,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>69</pitch>
@@ -1035,7 +949,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1054,7 +967,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1070,7 +982,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -1078,7 +989,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -1086,7 +996,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -1094,7 +1003,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -1109,7 +1017,6 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>69</pitch>
@@ -1117,7 +1024,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -1127,7 +1033,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>66</pitch>
@@ -1135,7 +1040,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -1147,7 +1051,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>74</pitch>
@@ -1155,7 +1058,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>72</pitch>
@@ -1165,7 +1067,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>69</pitch>
@@ -1175,7 +1076,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -1183,7 +1083,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>66</pitch>
@@ -1195,7 +1094,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>71</pitch>
@@ -1203,7 +1101,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>69</pitch>
@@ -1213,7 +1110,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -1221,7 +1117,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>66</pitch>
@@ -1236,7 +1131,6 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
@@ -1249,7 +1143,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1270,7 +1163,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1280,7 +1172,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1292,7 +1183,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1302,7 +1192,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1310,7 +1199,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1318,7 +1206,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>57</pitch>
@@ -1328,7 +1215,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
@@ -1336,7 +1222,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>52</pitch>
@@ -1344,7 +1229,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>54</pitch>
@@ -1356,7 +1240,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
@@ -1364,7 +1247,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>54</pitch>
@@ -1372,7 +1254,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
@@ -1382,7 +1263,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
@@ -1390,7 +1270,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
@@ -1398,7 +1277,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>52</pitch>
@@ -1412,7 +1290,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1420,7 +1297,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1428,7 +1304,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1436,7 +1311,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1446,7 +1320,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>48</pitch>
@@ -1456,7 +1329,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>47</pitch>
@@ -1464,7 +1336,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>45</pitch>
@@ -1472,7 +1343,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1484,7 +1354,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1492,7 +1361,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1505,7 +1373,6 @@
             <subtype>fermataBelow</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>50</pitch>
@@ -1513,7 +1380,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1525,7 +1391,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>57</pitch>
@@ -1533,7 +1398,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1541,7 +1405,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1551,7 +1414,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>42</pitch>
@@ -1559,7 +1421,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1567,7 +1428,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>45</pitch>
@@ -1579,7 +1439,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1587,7 +1446,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -1597,7 +1455,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1605,7 +1462,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1615,7 +1471,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>47</pitch>
@@ -1623,7 +1478,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>48</pitch>
@@ -1631,7 +1485,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
@@ -1643,7 +1496,6 @@
       <Measure len="2/4">
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1656,7 +1508,6 @@
             <subtype>fermataBelow</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1668,7 +1519,6 @@
       <Measure len="1/4">
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1678,7 +1528,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1690,7 +1539,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1698,7 +1546,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1708,7 +1555,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1716,7 +1562,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>57</pitch>
@@ -1726,7 +1571,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1734,7 +1578,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>45</pitch>
@@ -1742,7 +1585,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>47</pitch>
@@ -1756,7 +1598,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1764,7 +1605,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1772,7 +1612,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1780,7 +1619,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1790,7 +1628,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -1799,7 +1636,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>45</pitch>
@@ -1807,7 +1643,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -1819,7 +1654,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1827,7 +1661,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1840,7 +1673,6 @@
             <subtype>fermataBelow</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>50</pitch>
@@ -1848,7 +1680,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -1870,7 +1701,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
@@ -1878,7 +1708,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -1886,7 +1715,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -1896,7 +1724,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1912,7 +1739,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
@@ -1920,7 +1746,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>48</pitch>
@@ -1932,7 +1757,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1940,7 +1764,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -1950,7 +1773,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -1959,7 +1781,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>48</pitch>
@@ -1967,7 +1788,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
@@ -1979,7 +1799,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
@@ -1992,7 +1811,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>43</pitch>
@@ -2000,7 +1818,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>45</pitch>
@@ -2008,7 +1825,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>47</pitch>
@@ -2016,7 +1832,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -2028,7 +1843,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>60</pitch>
@@ -2036,7 +1850,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2049,7 +1862,6 @@
             <subtype>fermataBelow</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>48</pitch>
@@ -2057,7 +1869,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -2071,7 +1882,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2079,7 +1889,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -2087,7 +1896,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -2095,7 +1903,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>60</pitch>
@@ -2105,7 +1912,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>42</pitch>
@@ -2113,7 +1919,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -2121,7 +1926,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>45</pitch>
@@ -2133,7 +1937,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2143,7 +1946,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2151,7 +1953,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -2161,7 +1962,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>47</pitch>
@@ -2169,7 +1969,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>43</pitch>
@@ -2177,7 +1976,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
@@ -2189,7 +1987,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>59</pitch>
@@ -2197,7 +1994,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>60</pitch>
@@ -2205,7 +2001,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2217,7 +2012,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>52</pitch>
@@ -2225,7 +2019,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>50</pitch>
@@ -2233,7 +2026,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>48</pitch>
@@ -2241,7 +2033,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>47</pitch>
@@ -2249,7 +2040,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>45</pitch>
@@ -2257,7 +2047,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>43</pitch>
@@ -2269,7 +2058,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2277,7 +2065,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2290,7 +2077,6 @@
             <subtype>fermataBelow</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>50</pitch>
@@ -2298,7 +2084,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -2320,7 +2105,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2328,7 +2112,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>64</pitch>
@@ -2338,7 +2121,6 @@
           </voice>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2354,7 +2136,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>54</pitch>
@@ -2362,7 +2143,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -2384,7 +2164,6 @@
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>64</pitch>
@@ -2394,7 +2173,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>62</pitch>
@@ -2402,7 +2180,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -2414,7 +2191,6 @@
           <Beam>
             </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2430,7 +2206,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>50</pitch>
@@ -2438,7 +2213,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>48</pitch>
@@ -2446,7 +2220,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
@@ -2458,7 +2231,6 @@
       <Measure len="2/4">
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>59</pitch>
@@ -2474,7 +2246,6 @@
             <subtype>fermataBelow</subtype>
             </Fermata>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <pitch>43</pitch>
