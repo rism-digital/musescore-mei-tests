@@ -2,65 +2,65 @@
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
-	<meiHead>
-		<fileDesc>
-			<titleStmt>
-				<title>Untitled score</title>
-				<respStmt>
-					<persName role="composer">Composer / arranger</persName>
-				</respStmt>
-			</titleStmt>
-			<pubStmt>
-				<date isodate="2023-06-12-18:14:32" />
-			</pubStmt>
-		</fileDesc>
-	</meiHead>
-	<music>
-		<body>
-			<mdiv>
-				<score>
-					<scoreDef>
-						<pgHead>
-							<rend halign="center" valign="top">
-								<rend type="title" fontsize="x-large">Title of the score<lb />with a second line<lb />and a third one</rend>
-							</rend>
-							<rend halign="right" valign="bottom">
-								<rend type="composer">Composer<lb />Arranger (second line)</rend>
-							</rend>
-						</pgHead>
-						<staffGrp>
-							<staffDef n="1" lines="5" meter.count="4" meter.unit="4">
-								<label>Flute</label>
-								<labelAbbr>Fl.</labelAbbr>
-								<clef shape="G" line="2" />
-							</staffDef>
-						</staffGrp>
-					</scoreDef>
-					<section>
-						<measure n="1">
-							<staff n="1">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-						</measure>
-						<measure n="2">
-							<staff n="1">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-						</measure>
-						<measure right="end" n="3">
-							<staff n="1">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-						</measure>
-					</section>
-				</score>
-			</mdiv>
-		</body>
-	</music>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2023-06-14-21:48:37" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Title of the score<lb />with a second line<lb />and a third one</rend>
+                     </rend>
+                     <rend halign="right" valign="bottom">
+                        <rend type="composer">Composer<lb />Arranger (second line)</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="4" meter.unit="4">
+                        <label>Flute</label>
+                        <labelAbbr>Fl.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure right="end" n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>

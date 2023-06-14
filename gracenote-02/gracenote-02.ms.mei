@@ -2,164 +2,164 @@
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
-	<meiHead>
-		<fileDesc>
-			<titleStmt>
-				<title>Untitled score</title>
-				<respStmt>
-					<persName role="composer">Composer / arranger</persName>
-				</respStmt>
-			</titleStmt>
-			<pubStmt>
-				<date isodate="2023-06-12-18:13:59" />
-			</pubStmt>
-		</fileDesc>
-	</meiHead>
-	<music>
-		<body>
-			<mdiv>
-				<score>
-					<scoreDef>
-						<pgHead>
-							<rend halign="center" valign="top">
-								<rend type="title" fontsize="x-large">Untitled score</rend>
-								<lb />
-								<rend type="subtitle" fontsize="large">Subtitle</rend>
-							</rend>
-							<rend halign="right" valign="bottom">
-								<rend type="composer">Composer / arranger</rend>
-							</rend>
-						</pgHead>
-						<staffGrp>
-							<staffDef n="1" lines="5" meter.count="4" meter.unit="4">
-								<label>Oboe</label>
-								<labelAbbr>Ob.</labelAbbr>
-								<clef shape="G" line="2" />
-							</staffDef>
-						</staffGrp>
-					</scoreDef>
-					<section>
-						<measure n="1">
-							<staff n="1">
-								<layer n="1">
-									<graceGrp grace="unacc">
-										<note dur="8" pname="d" oct="5" />
-									</graceGrp>
-									<note dur="4" pname="c" oct="5" />
-									<graceGrp attach="pre" grace="unknown">
-										<beam>
-											<note dur="8" pname="g" oct="4" />
-											<note dur="16" pname="a" oct="4" />
-											<note dur="16" pname="b" oct="4" />
-										</beam>
-									</graceGrp>
-									<graceGrp grace="acc">
-										<chord dur="8">
-											<note pname="d" oct="5" />
-											<note pname="f" oct="5">
-												<accid accid="s" />
-											</note>
-											<note pname="a" oct="5" />
-										</chord>
-									</graceGrp>
-									<note dur="4" pname="c" oct="5" />
-									<graceGrp grace="acc">
-										<note dur="4" pname="d" oct="5" />
-									</graceGrp>
-									<note dur="4" pname="c" oct="5" />
-									<graceGrp grace="acc">
-										<note dur="16" pname="b" oct="4" />
-									</graceGrp>
-									<note dur="4" pname="c" oct="5" />
-								</layer>
-							</staff>
-						</measure>
-						<measure n="2">
-							<staff n="1">
-								<layer n="1">
-									<chord dur="2">
-										<note pname="c" oct="5" />
-										<note pname="e" oct="5" />
-									</chord>
-									<graceGrp grace="acc">
-										<chord dur="8">
-											<note pname="d" oct="5" />
-											<note pname="f" oct="5" />
-										</chord>
-									</graceGrp>
-									<chord dur="2">
-										<note pname="c" oct="5" />
-										<note pname="e" oct="5" />
-									</chord>
-								</layer>
-								<layer n="2">
-									<graceGrp grace="unacc">
-										<chord dur="8">
-											<note pname="e" oct="4" />
-											<note pname="g" oct="4" />
-										</chord>
-									</graceGrp>
-									<chord dur="2">
-										<note pname="d" oct="4" />
-										<note pname="f" oct="4" />
-									</chord>
-									<chord dur="2">
-										<note pname="d" oct="4" />
-										<note pname="f" oct="4" />
-									</chord>
-								</layer>
-							</staff>
-						</measure>
-						<measure n="3">
-							<staff n="1">
-								<layer n="1">
-									<graceGrp grace="acc">
-										<beam>
-											<note dur="16" pname="e" oct="5" />
-											<note dur="16" pname="d" oct="5" />
-										</beam>
-									</graceGrp>
-									<note dur="2" pname="c" oct="5" />
-									<graceGrp grace="acc">
-										<beam>
-											<note dur="32" pname="a" oct="5">
-												<accid accid="s" />
-											</note>
-											<note dur="32" pname="g" oct="5">
-												<accid accid="s" />
-											</note>
-											<note dur="32" pname="f" oct="5">
-												<accid accid="s" />
-											</note>
-											<note dur="32" pname="d" oct="5">
-												<accid accid="s" />
-											</note>
-										</beam>
-									</graceGrp>
-									<note dur="2" pname="c" oct="5" />
-								</layer>
-								<layer n="2">
-									<note dur="1" pname="f" oct="4" />
-								</layer>
-							</staff>
-						</measure>
-						<measure n="4">
-							<staff n="1">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-						</measure>
-						<measure right="end" n="5">
-							<staff n="1">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-						</measure>
-					</section>
-				</score>
-			</mdiv>
-		</body>
-	</music>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2023-06-14-21:48:00" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Untitled score</rend>
+                        <lb />
+                        <rend type="subtitle" fontsize="large">Subtitle</rend>
+                     </rend>
+                     <rend halign="right" valign="bottom">
+                        <rend type="composer">Composer / arranger</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="4" meter.unit="4">
+                        <label>Oboe</label>
+                        <labelAbbr>Ob.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <graceGrp grace="unacc">
+                              <note dur="8" pname="d" oct="5" />
+                           </graceGrp>
+                           <note dur="4" pname="c" oct="5" />
+                           <graceGrp attach="pre" grace="unknown">
+                              <beam>
+                                 <note dur="8" pname="g" oct="4" />
+                                 <note dur="16" pname="a" oct="4" />
+                                 <note dur="16" pname="b" oct="4" />
+                              </beam>
+                           </graceGrp>
+                           <graceGrp grace="acc">
+                              <chord dur="8">
+                                 <note pname="d" oct="5" />
+                                 <note pname="f" oct="5">
+                                    <accid accid="s" />
+                                 </note>
+                                 <note pname="a" oct="5" />
+                              </chord>
+                           </graceGrp>
+                           <note dur="4" pname="c" oct="5" />
+                           <graceGrp grace="acc">
+                              <note dur="4" pname="d" oct="5" />
+                           </graceGrp>
+                           <note dur="4" pname="c" oct="5" />
+                           <graceGrp grace="acc">
+                              <note dur="16" pname="b" oct="4" />
+                           </graceGrp>
+                           <note dur="4" pname="c" oct="5" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <chord dur="2">
+                              <note pname="c" oct="5" />
+                              <note pname="e" oct="5" />
+                           </chord>
+                           <graceGrp grace="acc">
+                              <chord dur="8">
+                                 <note pname="d" oct="5" />
+                                 <note pname="f" oct="5" />
+                              </chord>
+                           </graceGrp>
+                           <chord dur="2">
+                              <note pname="c" oct="5" />
+                              <note pname="e" oct="5" />
+                           </chord>
+                        </layer>
+                        <layer n="2">
+                           <graceGrp grace="unacc">
+                              <chord dur="8">
+                                 <note pname="e" oct="4" />
+                                 <note pname="g" oct="4" />
+                              </chord>
+                           </graceGrp>
+                           <chord dur="2">
+                              <note pname="d" oct="4" />
+                              <note pname="f" oct="4" />
+                           </chord>
+                           <chord dur="2">
+                              <note pname="d" oct="4" />
+                              <note pname="f" oct="4" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <graceGrp grace="acc">
+                              <beam>
+                                 <note dur="16" pname="e" oct="5" />
+                                 <note dur="16" pname="d" oct="5" />
+                              </beam>
+                           </graceGrp>
+                           <note dur="2" pname="c" oct="5" />
+                           <graceGrp grace="acc">
+                              <beam>
+                                 <note dur="32" pname="a" oct="5">
+                                    <accid accid="s" />
+                                 </note>
+                                 <note dur="32" pname="g" oct="5">
+                                    <accid accid="s" />
+                                 </note>
+                                 <note dur="32" pname="f" oct="5">
+                                    <accid accid="s" />
+                                 </note>
+                                 <note dur="32" pname="d" oct="5">
+                                    <accid accid="s" />
+                                 </note>
+                              </beam>
+                           </graceGrp>
+                           <note dur="2" pname="c" oct="5" />
+                        </layer>
+                        <layer n="2">
+                           <note dur="1" pname="f" oct="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="4">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure right="end" n="5">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>

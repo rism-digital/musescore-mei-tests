@@ -2,82 +2,82 @@
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
-	<meiHead>
-		<fileDesc>
-			<titleStmt>
-				<title>Untitled score</title>
-				<respStmt>
-					<persName role="composer">Composer / arranger</persName>
-				</respStmt>
-			</titleStmt>
-			<pubStmt>
-				<date isodate="2023-06-12-18:13:16" />
-			</pubStmt>
-		</fileDesc>
-	</meiHead>
-	<music>
-		<body>
-			<mdiv>
-				<score>
-					<scoreDef>
-						<pgHead>
-							<rend halign="center" valign="top">
-								<rend type="title" fontsize="x-large">Untitled score</rend>
-								<lb />
-								<rend type="subtitle" fontsize="large">Subtitle</rend>
-							</rend>
-							<rend halign="right" valign="bottom">
-								<rend type="composer">Composer / arranger</rend>
-							</rend>
-						</pgHead>
-						<staffGrp>
-							<staffDef n="1" lines="5" keysig="3s" meter.count="4" meter.unit="4">
-								<label>Voice</label>
-								<labelAbbr>Vo.</labelAbbr>
-								<clef shape="G" line="2" />
-							</staffDef>
-						</staffGrp>
-					</scoreDef>
-					<section>
-						<measure n="1">
-							<staff n="1">
-								<layer n="1">
-									<note dur="4" pname="f" oct="4">
-										<accid accid.ges="s" />
-									</note>
-									<note dur="4" pname="f" oct="4">
-										<accid accid="s" />
-									</note>
-									<note dur="4" pname="f" oct="4">
-										<accid accid="x" />
-									</note>
-									<note dur="4" pname="f" oct="4">
-										<accid accid="ss" />
-									</note>
-								</layer>
-							</staff>
-						</measure>
-						<measure right="end" n="2">
-							<staff n="1">
-								<layer n="1">
-									<note dur="4" pname="a" oct="4">
-										<accid accid="n" />
-									</note>
-									<note dur="4" pname="a" oct="4">
-										<accid accid="f" />
-									</note>
-									<note dur="4" pname="a" oct="4">
-										<accid accid="nf" />
-									</note>
-									<note dur="4" pname="a" oct="4">
-										<accid accid="tf" />
-									</note>
-								</layer>
-							</staff>
-						</measure>
-					</section>
-				</score>
-			</mdiv>
-		</body>
-	</music>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2023-06-14-21:47:06" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Untitled score</rend>
+                        <lb />
+                        <rend type="subtitle" fontsize="large">Subtitle</rend>
+                     </rend>
+                     <rend halign="right" valign="bottom">
+                        <rend type="composer">Composer / arranger</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" keysig="3s" meter.count="4" meter.unit="4">
+                        <label>Voice</label>
+                        <labelAbbr>Vo.</labelAbbr>
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" pname="f" oct="4">
+                              <accid accid.ges="s" />
+                           </note>
+                           <note dur="4" pname="f" oct="4">
+                              <accid accid="s" />
+                           </note>
+                           <note dur="4" pname="f" oct="4">
+                              <accid accid="x" />
+                           </note>
+                           <note dur="4" pname="f" oct="4">
+                              <accid accid="ss" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure right="end" n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" pname="a" oct="4">
+                              <accid accid="n" />
+                           </note>
+                           <note dur="4" pname="a" oct="4">
+                              <accid accid="f" />
+                           </note>
+                           <note dur="4" pname="a" oct="4">
+                              <accid accid="nf" />
+                           </note>
+                           <note dur="4" pname="a" oct="4">
+                              <accid accid="tf" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>

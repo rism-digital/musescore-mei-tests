@@ -2,130 +2,130 @@
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
-	<meiHead>
-		<fileDesc>
-			<titleStmt>
-				<title />
-			</titleStmt>
-			<pubStmt>
-				<date isodate="2023-06-12-18:15:15" />
-			</pubStmt>
-		</fileDesc>
-	</meiHead>
-	<music>
-		<body>
-			<mdiv>
-				<score>
-					<scoreDef>
-						<pgHead>
-							<rend halign="center" valign="top">
-								<rend type="title" fontsize="x-large">Tuplet and beam example</rend>
-							</rend>
-						</pgHead>
-						<staffGrp>
-							<staffDef n="1" lines="5" meter.count="4" meter.unit="4">
-								<clef shape="G" line="2" />
-							</staffDef>
-						</staffGrp>
-					</scoreDef>
-					<section>
-						<measure n="1">
-							<staff n="1">
-								<layer n="1">
-									<beam>
-										<tuplet num="3" numbase="2">
-											<note dur="8" pname="c" oct="5" />
-											<note dur="8" pname="d" oct="5" />
-											<note dur="8" pname="b" oct="4" />
-										</tuplet>
-									</beam>
-									<beam>
-										<tuplet num="5" numbase="4">
-											<note dur="16" pname="c" oct="5" />
-											<note dur="16" pname="d" oct="5" />
-											<note dur="16" pname="c" oct="5" />
-											<note dur="16" pname="b" oct="4" />
-											<note dur="16" pname="d" oct="5" />
-										</tuplet>
-									</beam>
-									<tuplet num="3" numbase="2">
-										<note dur="4" pname="c" oct="5" />
-										<note dur="4" pname="b" oct="4" />
-										<beam>
-											<note dur="8" pname="c" oct="5" />
-											<note dur="8" pname="d" oct="5" />
-										</beam>
-									</tuplet>
-								</layer>
-							</staff>
-						</measure>
-						<measure n="2">
-							<staff n="1">
-								<layer n="1">
-									<beam>
-										<tuplet num="6" numbase="4">
-											<note dur="32" pname="a" oct="4" />
-											<note dur="32" pname="g" oct="4" />
-											<note dur="32" pname="a" oct="4" />
-											<note dur="32" pname="b" oct="4" />
-											<note dur="32" pname="c" oct="5" />
-											<note dur="32" pname="b" oct="4" />
-										</tuplet>
-										<tuplet num="6" numbase="4">
-											<note dur="32" pname="a" oct="4" />
-											<note dur="32" pname="g" oct="4" />
-											<note dur="32" pname="a" oct="4" />
-											<note dur="32" pname="b" oct="4" />
-											<note dur="32" pname="c" oct="5" />
-											<note dur="32" pname="b" oct="4" />
-										</tuplet>
-									</beam>
-									<tuplet num="6" numbase="4">
-										<beam>
-											<note dur="32" pname="a" oct="4" />
-											<note dur="32" pname="g" oct="4" />
-											<note dur="32" pname="a" oct="4" />
-										</beam>
-										<beam type="mscore-begin">
-											<note dur="32" pname="b" oct="4" />
-											<note dur="32" pname="c" oct="5" />
-											<note dur="32" pname="b" oct="4" />
-										</beam>
-									</tuplet>
-									<tuplet num="6" numbase="4">
-										<beam type="mscore-begin">
-											<note dur="32" pname="a" oct="4" />
-											<note dur="32" pname="g" oct="4" />
-											<note dur="32" pname="a" oct="4" />
-										</beam>
-										<beam type="mscore-begin">
-											<note dur="32" pname="b" oct="4" />
-											<note dur="32" pname="c" oct="5" />
-											<note dur="32" pname="b" oct="4" />
-										</beam>
-									</tuplet>
-									<tuplet num="3" numbase="2">
-										<note dur="4" pname="c" oct="5" />
-										<rest type="mscore-beam-none" dur="4" />
-										<beam>
-											<note dur="8" pname="c" oct="5" />
-											<note dur="8" pname="b" oct="4" />
-										</beam>
-									</tuplet>
-								</layer>
-							</staff>
-						</measure>
-						<measure right="end" n="3">
-							<staff n="1">
-								<layer n="1">
-									<note dur="2" pname="c" oct="5" />
-									<rest type="mscore-beam-none" dur="2" />
-								</layer>
-							</staff>
-						</measure>
-					</section>
-				</score>
-			</mdiv>
-		</body>
-	</music>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2023-06-14-21:49:19" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Tuplet and beam example</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" meter.count="4" meter.unit="4">
+                        <clef shape="G" line="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <tuplet num="3" numbase="2">
+                                 <note dur="8" pname="c" oct="5" />
+                                 <note dur="8" pname="d" oct="5" />
+                                 <note dur="8" pname="b" oct="4" />
+                              </tuplet>
+                           </beam>
+                           <beam>
+                              <tuplet num="5" numbase="4">
+                                 <note dur="16" pname="c" oct="5" />
+                                 <note dur="16" pname="d" oct="5" />
+                                 <note dur="16" pname="c" oct="5" />
+                                 <note dur="16" pname="b" oct="4" />
+                                 <note dur="16" pname="d" oct="5" />
+                              </tuplet>
+                           </beam>
+                           <tuplet num="3" numbase="2">
+                              <note dur="4" pname="c" oct="5" />
+                              <note dur="4" pname="b" oct="4" />
+                              <beam>
+                                 <note dur="8" pname="c" oct="5" />
+                                 <note dur="8" pname="d" oct="5" />
+                              </beam>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <tuplet num="6" numbase="4">
+                                 <note dur="32" pname="a" oct="4" />
+                                 <note dur="32" pname="g" oct="4" />
+                                 <note dur="32" pname="a" oct="4" />
+                                 <note dur="32" pname="b" oct="4" />
+                                 <note dur="32" pname="c" oct="5" />
+                                 <note dur="32" pname="b" oct="4" />
+                              </tuplet>
+                              <tuplet num="6" numbase="4">
+                                 <note dur="32" pname="a" oct="4" />
+                                 <note dur="32" pname="g" oct="4" />
+                                 <note dur="32" pname="a" oct="4" />
+                                 <note dur="32" pname="b" oct="4" />
+                                 <note dur="32" pname="c" oct="5" />
+                                 <note dur="32" pname="b" oct="4" />
+                              </tuplet>
+                           </beam>
+                           <tuplet num="6" numbase="4">
+                              <beam>
+                                 <note dur="32" pname="a" oct="4" />
+                                 <note dur="32" pname="g" oct="4" />
+                                 <note dur="32" pname="a" oct="4" />
+                              </beam>
+                              <beam type="mscore-begin">
+                                 <note dur="32" pname="b" oct="4" />
+                                 <note dur="32" pname="c" oct="5" />
+                                 <note dur="32" pname="b" oct="4" />
+                              </beam>
+                           </tuplet>
+                           <tuplet num="6" numbase="4">
+                              <beam type="mscore-begin">
+                                 <note dur="32" pname="a" oct="4" />
+                                 <note dur="32" pname="g" oct="4" />
+                                 <note dur="32" pname="a" oct="4" />
+                              </beam>
+                              <beam type="mscore-begin">
+                                 <note dur="32" pname="b" oct="4" />
+                                 <note dur="32" pname="c" oct="5" />
+                                 <note dur="32" pname="b" oct="4" />
+                              </beam>
+                           </tuplet>
+                           <tuplet num="3" numbase="2">
+                              <note dur="4" pname="c" oct="5" />
+                              <rest type="mscore-beam-none" dur="4" />
+                              <beam>
+                                 <note dur="8" pname="c" oct="5" />
+                                 <note dur="8" pname="b" oct="4" />
+                              </beam>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure right="end" n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="2" pname="c" oct="5" />
+                           <rest type="mscore-beam-none" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>

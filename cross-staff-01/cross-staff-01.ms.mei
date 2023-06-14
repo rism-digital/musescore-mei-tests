@@ -2,125 +2,125 @@
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
-	<meiHead>
-		<fileDesc>
-			<titleStmt>
-				<title>Untitled score</title>
-				<respStmt>
-					<persName role="composer">Composer / arranger</persName>
-				</respStmt>
-			</titleStmt>
-			<pubStmt>
-				<date isodate="2023-06-12-18:49:03" />
-			</pubStmt>
-		</fileDesc>
-	</meiHead>
-	<music>
-		<body>
-			<mdiv>
-				<score>
-					<scoreDef>
-						<pgHead>
-							<rend halign="center" valign="top">
-								<rend type="title" fontsize="x-large">Cross-staff</rend>
-								<lb />
-								<rend type="subtitle" fontsize="large">Subtitle</rend>
-							</rend>
-							<rend halign="right" valign="bottom">
-								<rend type="composer">Composer / arranger</rend>
-							</rend>
-						</pgHead>
-						<staffGrp>
-							<staffGrp bar.thru="true" symbol="brace">
-								<label>Piano</label>
-								<labelAbbr>Pno.</labelAbbr>
-								<staffDef n="1" lines="5" meter.count="4" meter.unit="4">
-									<clef shape="G" line="2" />
-								</staffDef>
-								<staffDef n="2" lines="5" meter.count="4" meter.unit="4">
-									<clef shape="F" line="4" />
-								</staffDef>
-							</staffGrp>
-						</staffGrp>
-					</scoreDef>
-					<section>
-						<measure n="1">
-							<staff n="1">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-							<staff n="2">
-								<layer n="1">
-									<beam>
-										<note dur="16" staff="1" pname="b" oct="4" />
-										<note dur="16" pname="b" oct="2" />
-										<note dur="16" pname="b" oct="2" />
-										<note dur="16" staff="1" pname="d" oct="4" />
-									</beam>
-									<beam>
-										<note dur="16" staff="1" pname="b" oct="4" />
-										<note dur="16" pname="b" oct="2" />
-										<note dur="16" pname="b" oct="2" />
-										<note dur="16" staff="1" pname="d" oct="4" />
-									</beam>
-									<beam>
-										<note dur="16" staff="1" pname="b" oct="4" />
-										<note dur="16" pname="b" oct="2" />
-										<note dur="16" staff="1" pname="d" oct="4" />
-									</beam>
-									<rest type="mscore-beam-none" dur="16" staff="1" />
-									<beam>
-										<note dur="16" staff="1" pname="b" oct="4" />
-										<note dur="16" pname="b" oct="2" />
-									</beam>
-									<rest type="mscore-beam-none" dur="16" staff="1" />
-									<chord dur="16" staff="1" stem.dir="up">
-										<note pname="g" oct="3" />
-										<note pname="b" oct="3" />
-										<note pname="d" oct="4" />
-									</chord>
-								</layer>
-							</staff>
-						</measure>
-						<measure right="end" n="2">
-							<staff n="1">
-								<layer n="1">
-									<beam>
-										<note dur="16" pname="b" oct="4" />
-										<note dur="16" staff="2" pname="b" oct="3" />
-										<note dur="16" pname="b" oct="4" />
-										<note dur="16" staff="2" pname="b" oct="3" />
-									</beam>
-									<beam>
-										<note dur="16" staff="2" pname="b" oct="3" />
-										<note dur="16" pname="b" oct="4" />
-										<note dur="16" staff="2" pname="b" oct="3" />
-										<note dur="16" pname="b" oct="4" />
-									</beam>
-									<beam>
-										<note dur="16" pname="b" oct="4" />
-										<note dur="16" staff="2" pname="b" oct="3" />
-										<note dur="16" staff="2" pname="b" oct="3" />
-										<note dur="16" pname="b" oct="4" />
-									</beam>
-									<beam>
-										<note dur="16" staff="2" pname="b" oct="3" />
-										<note dur="16" pname="b" oct="4" />
-										<note dur="16" pname="b" oct="4" />
-										<note dur="16" staff="2" pname="b" oct="3" />
-									</beam>
-								</layer>
-							</staff>
-							<staff n="2">
-								<layer n="1">
-									<mRest />
-								</layer>
-							</staff>
-						</measure>
-					</section>
-				</score>
-			</mdiv>
-		</body>
-	</music>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2023-06-14-21:47:44" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <pgHead>
+                     <rend halign="center" valign="top">
+                        <rend type="title" fontsize="x-large">Cross-staff</rend>
+                        <lb />
+                        <rend type="subtitle" fontsize="large">Subtitle</rend>
+                     </rend>
+                     <rend halign="right" valign="bottom">
+                        <rend type="composer">Composer / arranger</rend>
+                     </rend>
+                  </pgHead>
+                  <staffGrp>
+                     <staffGrp bar.thru="true" symbol="brace">
+                        <label>Piano</label>
+                        <labelAbbr>Pno.</labelAbbr>
+                        <staffDef n="1" lines="5" meter.count="4" meter.unit="4">
+                           <clef shape="G" line="2" />
+                        </staffDef>
+                        <staffDef n="2" lines="5" meter.count="4" meter.unit="4">
+                           <clef shape="F" line="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="1">
+                           <beam>
+                              <note dur="16" staff="1" pname="b" oct="4" />
+                              <note dur="16" pname="b" oct="2" />
+                              <note dur="16" pname="b" oct="2" />
+                              <note dur="16" staff="1" pname="d" oct="4" />
+                           </beam>
+                           <beam>
+                              <note dur="16" staff="1" pname="b" oct="4" />
+                              <note dur="16" pname="b" oct="2" />
+                              <note dur="16" pname="b" oct="2" />
+                              <note dur="16" staff="1" pname="d" oct="4" />
+                           </beam>
+                           <beam>
+                              <note dur="16" staff="1" pname="b" oct="4" />
+                              <note dur="16" pname="b" oct="2" />
+                              <note dur="16" staff="1" pname="d" oct="4" />
+                           </beam>
+                           <rest type="mscore-beam-none" dur="16" staff="1" />
+                           <beam>
+                              <note dur="16" staff="1" pname="b" oct="4" />
+                              <note dur="16" pname="b" oct="2" />
+                           </beam>
+                           <rest type="mscore-beam-none" dur="16" staff="1" />
+                           <chord dur="16" staff="1" stem.dir="up">
+                              <note pname="g" oct="3" />
+                              <note pname="b" oct="3" />
+                              <note pname="d" oct="4" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure right="end" n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="16" pname="b" oct="4" />
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                              <note dur="16" pname="b" oct="4" />
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                           </beam>
+                           <beam>
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                              <note dur="16" pname="b" oct="4" />
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                              <note dur="16" pname="b" oct="4" />
+                           </beam>
+                           <beam>
+                              <note dur="16" pname="b" oct="4" />
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                              <note dur="16" pname="b" oct="4" />
+                           </beam>
+                           <beam>
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                              <note dur="16" pname="b" oct="4" />
+                              <note dur="16" pname="b" oct="4" />
+                              <note dur="16" staff="2" pname="b" oct="3" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="1">
+                           <mRest />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>
