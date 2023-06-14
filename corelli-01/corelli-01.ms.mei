@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+	<meiHead>
+		<fileDesc>
+			<titleStmt>
+				<title>Sonata da chiesa</title>
+				<respStmt>
+					<persName role="composer">Arcangelo Corelli</persName>
+				</respStmt>
+			</titleStmt>
+			<pubStmt>
+				<date isodate="2023-06-13-12:42:04" />
+				<availability>
+					<distributor>CC BY-NC-SA 4.0; CCARH; DCML</distributor>
+				</availability>
+			</pubStmt>
+		</fileDesc>
+	</meiHead>
+	<music>
+		<body>
+			<mdiv>
+				<score>
+					<scoreDef>
+						<pgHead>
+							<rend halign="center" valign="top">
+								<rend type="title" fontsize="x-large">Sonata da chiesa op. 1, no. 1</rend>
+								<lb />
+								<rend type="subtitle" fontsize="large">1. Grave</rend>
+							</rend>
+							<rend halign="right" valign="bottom">
+								<rend type="composer">Arcangelo Corelli</rend>
+							</rend>
+						</pgHead>
+						<staffGrp>
+							<staffDef n="1" lines="5" keysig="1f" meter.count="4" meter.unit="4">
+								<label>StringInstrument</label>
+								<labelAbbr>Str</labelAbbr>
+								<clef shape="G" line="2" />
+							</staffDef>
+							<staffDef n="2" lines="5" keysig="1f" meter.count="4" meter.unit="4">
+								<label>StringInstrument</label>
+								<labelAbbr>Str</labelAbbr>
+								<clef shape="G" line="2" />
+							</staffDef>
+							<staffDef n="3" lines="5" keysig="1f" meter.count="4" meter.unit="4">
+								<label>StringInstrument</label>
+								<labelAbbr>Str</labelAbbr>
+								<clef shape="F" line="4" />
+							</staffDef>
+							<staffDef n="4" lines="5" keysig="1f" meter.count="4" meter.unit="4">
+								<label>Keyboard</label>
+								<labelAbbr>Kb</labelAbbr>
+								<clef shape="F" line="4" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section>
+						<measure n="1">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="c" oct="6" />
+									<note dur="4" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+									<note dots="1" dur="4" pname="a" oct="5" />
+									<note dur="8" pname="c" oct="6" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="4" pname="a" oct="5" />
+									<note dur="4" pname="g" oct="5" />
+									<note dots="1" dur="4" pname="f" oct="5" />
+									<note dur="8" pname="c" oct="5" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="f" oct="3" />
+									<note dur="4" pname="g" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="8" pname="a" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="b" oct="3">
+											<accid accid.ges="f" />
+										</note>
+										<note type="mscore-beam-mid" dur="8" pname="c" oct="4" />
+										<note dur="8" pname="a" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="f" oct="3" />
+									<note dur="4" pname="g" oct="3" />
+									<note dots="1" dur="4" pname="a" oct="3" />
+									<note dur="8" pname="a" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="2">
+							<staff n="1">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="b" oct="5">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="8" pname="a" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dots="1" dur="8" pname="g" oct="5" />
+										<note dur="16" pname="g" oct="5" />
+									</beam>
+									<note dur="2" pname="f" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="16" pname="d" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+										<note dur="8" pname="f" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dots="1" dur="8" pname="f" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+									</beam>
+									<note dur="2" pname="f" oct="5" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="b" oct="3">
+											<accid accid.ges="f" />
+										</note>
+										<note type="mscore-beam-mid" dur="8" pname="f" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="c" oct="4" />
+										<note dur="8" pname="c" oct="3" />
+									</beam>
+									<note dur="2" pname="f" oct="3" />
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="b" oct="3">
+											<accid accid.ges="f" />
+										</note>
+										<note type="mscore-beam-mid" dur="8" pname="f" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="c" oct="4" />
+										<note dur="8" pname="c" oct="3" />
+									</beam>
+									<note dur="2" pname="f" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="3">
+							<staff n="1">
+								<layer n="1">
+									<note dots="1" dur="4" pname="a" oct="5" />
+									<note dur="8" pname="a" oct="5" />
+									<note type="mscore-beam-none" dur="8" pname="g" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="5" />
+										<note dur="16" pname="g" oct="5" />
+									</beam>
+									<note dur="4" pname="a" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dots="1" dur="4" pname="f" oct="5" />
+									<note dur="8" pname="f" oct="5" />
+									<note dots="1" dur="4" pname="e" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="d" oct="5" />
+										<note dur="16" pname="c" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="f" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="g" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="a" oct="3" />
+										<note dur="8" pname="b" oct="3">
+											<accid accid="n" />
+										</note>
+									</beam>
+									<note dots="1" dur="4" pname="c" oct="4" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="3">
+											<accid accid="f" />
+										</note>
+										<note dur="16" pname="a" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="f" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="g" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="a" oct="3" />
+										<note dur="8" pname="b" oct="3">
+											<accid accid="n" />
+										</note>
+									</beam>
+									<note dots="1" dur="4" pname="c" oct="4" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="3">
+											<accid accid="f" />
+										</note>
+										<note dur="16" pname="a" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="4">
+							<staff n="1">
+								<layer n="1">
+									<note type="mscore-beam-none" dur="8" pname="a" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="g" oct="5" />
+										<note dur="16" pname="f" oct="5" />
+									</beam>
+									<note dur="4" pname="g" oct="5" />
+									<note type="mscore-beam-none" dur="8" pname="g" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="f" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+									</beam>
+									<note dur="4" pname="f" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dots="1" dur="4" pname="d" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="c" oct="5" />
+										<note dur="16" pname="b" oct="4">
+											<accid accid="n" />
+										</note>
+									</beam>
+									<note dots="1" dur="4" pname="c" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="4" />
+										<note dur="16" pname="a" oct="4" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dots="1" dur="4" pname="b" oct="3">
+										<accid accid.ges="f" />
+									</note>
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="3" />
+										<note dur="16" pname="g" oct="3" />
+									</beam>
+									<note dots="1" dur="4" pname="a" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="g" oct="3" />
+										<note dur="16" pname="f" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dots="1" dur="4" pname="b" oct="3">
+										<accid accid.ges="f" />
+									</note>
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="3" />
+										<note dur="16" pname="g" oct="3" />
+									</beam>
+									<note dots="1" dur="4" pname="a" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="g" oct="3" />
+										<note dur="16" pname="f" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="5">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="f" oct="5" />
+									<note dur="4" pname="e" oct="5" />
+									<note dur="2" pname="d" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="b" oct="4">
+											<accid accid="n" />
+										</note>
+										<note dur="8" pname="g" oct="4" />
+									</beam>
+									<note dur="2" pname="c" oct="5" />
+									<note dur="4" pname="b" oct="4" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="g" oct="3" />
+									<note dur="4" pname="a" oct="3" />
+									<note dur="4" pname="f" oct="3" />
+									<note dur="4" pname="g" oct="3" />
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="g" oct="3" />
+									<note dur="4" pname="a" oct="3" />
+									<note dur="4" pname="f" oct="3" />
+									<note dur="4" pname="g" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="6">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="e" oct="5" />
+									<note dur="2" pname="c" oct="6" />
+									<note dur="4" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="2" pname="c" oct="5" />
+									<note dur="2" pname="d" oct="5" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="a" oct="2" />
+									<note dur="2" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="a" oct="2" />
+									<note dur="2" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="7">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="a" oct="5" />
+									<note dur="2" pname="g" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="4" pname="e" oct="5" />
+									<note dur="2" pname="f" oct="5" />
+									<note dur="4" pname="e" oct="5" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="d" oct="3" />
+									<note dur="4" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="g" oct="2" />
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="d" oct="3" />
+									<note dur="4" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="g" oct="2" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="8">
+							<staff n="1">
+								<layer n="1">
+									<note dur="2" pname="f" oct="5" />
+									<note dur="2" pname="e" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="e" oct="5" />
+										<note dur="8" pname="a" oct="4" />
+									</beam>
+									<note dur="2" pname="d" oct="5" />
+									<note dur="4" pname="c" oct="5">
+										<accid accid="s" />
+									</note>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="a" oct="2" />
+									<note dur="4" pname="f" oct="2" />
+									<note dur="4" pname="g" oct="2" />
+									<note dur="4" pname="a" oct="2" />
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="a" oct="2" />
+									<note dur="4" pname="f" oct="2" />
+									<note dur="4" pname="g" oct="2" />
+									<note dur="4" pname="a" oct="2" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="9">
+							<staff n="1">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="d" oct="5" />
+										<note dur="8" pname="f" oct="5" />
+									</beam>
+									<note dur="4" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+									<note type="mscore-beam-none" dur="8" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="5" />
+										<note dur="16" pname="g" oct="5" />
+									</beam>
+									<note dur="4" pname="a" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dots="1" dur="4" pname="d" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="e" oct="5" />
+										<note dur="16" pname="d" oct="5" />
+									</beam>
+									<note dots="1" dur="4" pname="e" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="d" oct="5" />
+										<note dur="16" pname="c" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dots="1" dur="4" pname="d" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="c" oct="3" />
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+									<note dots="1" dur="4" pname="c" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="a" oct="2" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dots="1" dur="4" pname="d" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="c" oct="3" />
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+									<note dots="1" dur="4" pname="c" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="a" oct="2" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="10">
+							<staff n="1">
+								<layer n="1">
+									<note type="mscore-beam-none" dur="8" pname="a" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="g" oct="5" />
+										<note dur="16" pname="f" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dur="8" pname="g" oct="5" />
+										<note dur="8" pname="f" oct="5" />
+									</beam>
+									<note dur="4" pname="e" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="8" pname="c" oct="6" />
+										<note dur="8" pname="b" oct="5">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dots="1" dur="4" pname="d" oct="5" />
+									<note dur="8" pname="d" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="8" pname="g" oct="4" />
+										<note dur="8" pname="g" oct="5" />
+									</beam>
+									<note type="mscore-beam-none" dur="8" pname="c" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="d" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="b" oct="2">
+										<accid accid="n" />
+									</note>
+									<note dur="4" pname="c" oct="3" />
+									<note type="mscore-beam-none" dur="8" pname="a" oct="2" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid="f" />
+										</note>
+										<note dur="16" pname="c" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="b" oct="2">
+										<accid accid="n" />
+									</note>
+									<note dur="4" pname="c" oct="3" />
+									<note type="mscore-beam-none" dur="8" pname="a" oct="2" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid="f" />
+										</note>
+										<note dur="16" pname="c" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="11">
+							<staff n="1">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="5" />
+										<note type="mscore-beam-mid" dur="16" pname="g" oct="5" />
+										<note type="mscore-beam-mid" dur="16" pname="b" oct="5">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="a" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dots="1" dur="8" pname="g" oct="5" />
+										<note dur="16" pname="g" oct="5" />
+									</beam>
+									<note type="mscore-beam-none" dur="8" pname="f" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="g" oct="5" />
+										<note dur="16" pname="a" oct="5" />
+									</beam>
+									<note dur="4" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="f" oct="5" />
+										<note dur="8" pname="f" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dots="1" dur="8" pname="f" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+									</beam>
+									<note dots="1" dur="4" pname="f" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="e" oct="5" />
+										<note dur="16" pname="d" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="d" oct="3" />
+										<note dur="8" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="f" oct="3" />
+									<note type="mscore-beam-none" dur="8" pname="d" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="c" oct="3" />
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="d" oct="3" />
+										<note dur="8" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="f" oct="3" />
+									<note type="mscore-beam-none" dur="8" pname="d" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="c" oct="3" />
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="12">
+							<staff n="1">
+								<layer n="1">
+									<note type="mscore-beam-none" dur="8" pname="b" oct="5">
+										<accid accid.ges="f" />
+									</note>
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="5" />
+										<note dur="16" pname="g" oct="5" />
+									</beam>
+									<note dur="4" pname="a" oct="5" />
+									<note type="mscore-beam-none" dur="8" pname="a" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="g" oct="5" />
+										<note dur="16" pname="f" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dur="8" pname="g" oct="5" />
+										<note dur="8" pname="f" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dots="1" dur="4" pname="e" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="d" oct="5" />
+										<note dur="16" pname="c" oct="5" />
+									</beam>
+									<note dots="1" dur="4" pname="d" oct="5" />
+									<note dur="8" pname="d" oct="5" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dots="1" dur="4" pname="c" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="a" oct="2" />
+									</beam>
+									<note dur="4" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="b" oct="2">
+										<accid accid="n" />
+									</note>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dots="1" dur="4" pname="c" oct="3" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="a" oct="2" />
+									</beam>
+									<note dur="4" pname="b" oct="2">
+										<accid accid.ges="f" />
+									</note>
+									<note dur="4" pname="b" oct="2">
+										<accid accid="n" />
+									</note>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="13">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="e" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="8" pname="c" oct="6" />
+										<note dur="8" pname="b" oct="5">
+											<accid accid.ges="f" />
+										</note>
+									</beam>
+									<beam type="mscore-begin">
+										<note dur="16" pname="a" oct="5" />
+										<note type="mscore-beam-mid" dur="16" pname="g" oct="5" />
+										<note type="mscore-beam-mid" dur="16" pname="b" oct="5">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="a" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dots="1" dur="8" pname="g" oct="5" />
+										<note dur="16" pname="g" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<beam type="mscore-begin">
+										<note dur="8" pname="g" oct="4" />
+										<note dur="8" pname="g" oct="5" />
+									</beam>
+									<note type="mscore-beam-none" dur="8" pname="c" oct="5" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="d" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dur="8" pname="f" oct="5" />
+										<note dur="8" pname="f" oct="5" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dots="1" dur="8" pname="f" oct="5" />
+										<note dur="16" pname="e" oct="5" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="4" pname="c" oct="3" />
+									<note type="mscore-beam-none" dur="8" pname="a" oct="2" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="c" oct="3" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dur="8" pname="d" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note type="mscore-beam-mid" dur="8" pname="c" oct="3" />
+										<note dur="8" pname="c" oct="2" />
+									</beam>
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="4" pname="c" oct="3" />
+									<note type="mscore-beam-none" dur="8" pname="a" oct="2" />
+									<beam type="mscore-begin">
+										<note dur="16" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note dur="16" pname="c" oct="3" />
+									</beam>
+									<beam type="mscore-begin">
+										<note dur="8" pname="d" oct="3" />
+										<note type="mscore-beam-mid" dur="8" pname="b" oct="2">
+											<accid accid.ges="f" />
+										</note>
+										<note type="mscore-beam-mid" dur="8" pname="c" oct="3" />
+										<note dur="8" pname="c" oct="2" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure right="dbl" n="14">
+							<staff n="1">
+								<layer n="1">
+									<note dur="1" pname="f" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="1" pname="f" oct="5" />
+								</layer>
+							</staff>
+							<staff n="3">
+								<layer n="1">
+									<note dur="1" pname="f" oct="2" />
+								</layer>
+							</staff>
+							<staff n="4">
+								<layer n="1">
+									<note dur="1" pname="f" oct="2" />
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

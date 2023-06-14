@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+	<meiHead>
+		<fileDesc>
+			<titleStmt>
+				<title>Ach Gott und Herr</title>
+				<respStmt>
+					<persName role="composer">Rein</persName>
+				</respStmt>
+			</titleStmt>
+			<pubStmt>
+				<date isodate="2023-06-12-18:13:32" />
+			</pubStmt>
+		</fileDesc>
+	</meiHead>
+	<music>
+		<body>
+			<mdiv>
+				<score>
+					<scoreDef>
+						<pgHead>
+							<rend halign="center" valign="top">
+								<rend type="title" fontsize="x-large">Ach Gott und Herr</rend>
+							</rend>
+						</pgHead>
+						<staffGrp>
+							<staffGrp bar.thru="true" symbol="brace">
+								<label>Piano</label>
+								<labelAbbr>Pno.</labelAbbr>
+								<staffDef n="1" lines="5" meter.sym="common">
+									<clef shape="C" line="1" />
+								</staffDef>
+								<staffDef n="2" lines="5" meter.sym="common">
+									<clef shape="F" line="4" />
+								</staffDef>
+							</staffGrp>
+						</staffGrp>
+					</scoreDef>
+					<section>
+						<measure n="1">
+							<staff n="1">
+								<layer n="1">
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="c" oct="5" />
+									<note dur="4" pname="b" oct="4" />
+									<note dur="4" pname="a" oct="4" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="g" oct="3" />
+									<note dur="4" pname="d" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="2">
+							<staff n="1">
+								<layer n="1">
+									<note dur="2" pname="g" oct="4" />
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="g" oct="4" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="2" pname="g" oct="2" />
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="c" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="3">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="a" oct="4" />
+									<note dur="4" pname="b" oct="4" />
+									<note dur="2" pname="c" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<beam>
+										<note dur="8" pname="f" oct="3" />
+										<note dur="8" pname="e" oct="3" />
+									</beam>
+									<note dur="4" pname="d" oct="3" />
+									<note dur="2" pname="c" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="4">
+							<staff n="1">
+								<layer n="1">
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="d" oct="5" />
+									<note dur="4" pname="c" oct="5" />
+									<note dur="4" pname="b" oct="4" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="g" oct="2" />
+									<note dur="4" pname="a" oct="2" />
+									<beam>
+										<note dur="8" pname="b" oct="2" />
+										<note dur="8" pname="c" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="5">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="a" oct="4" />
+									<note dur="4" pname="b" oct="4" />
+									<note dur="2" pname="a" oct="4" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="4" pname="d" oct="3" />
+									<note dur="4" pname="g" oct="2" />
+									<note dur="4" pname="c" oct="3" />
+									<note dur="4" pname="d" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="6">
+							<staff n="1">
+								<layer n="1">
+									<note dur="2" pname="g" oct="4" />
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="c" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="2" pname="g" oct="2" />
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="e" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="7">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="b" oct="4" />
+									<note dur="4" pname="c" oct="5" />
+									<note dur="2" pname="d" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="4" pname="d" oct="3" />
+									<note dur="4" pname="c" oct="3" />
+									<note dur="2" pname="g" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="8">
+							<staff n="1">
+								<layer n="1">
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="d" oct="5" />
+									<beam>
+										<note dur="8" pname="e" oct="5" />
+										<note dur="8" pname="d" oct="5" />
+									</beam>
+									<note dur="4" pname="c" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="g" oct="2" />
+									<note dur="4" pname="c" oct="3" />
+									<beam>
+										<note dur="8" pname="e" oct="3" />
+										<note dur="8" pname="c" oct="3" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure n="9">
+							<staff n="1">
+								<layer n="1">
+									<note dur="2" pname="d" oct="5" />
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="g" oct="4" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="2" pname="g" oct="3" />
+									<rest type="mscore-beam-none" dur="4" />
+									<note dur="4" pname="c" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure n="10">
+							<staff n="1">
+								<layer n="1">
+									<note dur="4" pname="a" oct="4" />
+									<note dur="4" pname="b" oct="4" />
+									<note dur="4" pname="c" oct="5" />
+									<note dur="4" pname="e" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="4" pname="f" oct="3" />
+									<note dur="4" pname="d" oct="3" />
+									<note dur="4" pname="e" oct="3" />
+									<note dur="4" pname="c" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+						<measure right="end" n="11">
+							<staff n="1">
+								<layer n="1">
+									<note dur="2" pname="d" oct="5" />
+									<note dur="2" pname="c" oct="5" />
+								</layer>
+							</staff>
+							<staff n="2">
+								<layer n="1">
+									<note dur="4" pname="f" oct="3" />
+									<note dur="4" pname="g" oct="3" />
+									<note dur="2" pname="c" oct="3" />
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

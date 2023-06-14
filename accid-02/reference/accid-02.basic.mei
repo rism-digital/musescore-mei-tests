@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-06-14" type="encoding-date">2023-06-14</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-gdbpkh">
+         <appInfo xml:id="appinfo-3rm2ys">
+            <application xml:id="application-yujkaw" isodate="2023-06-14T21:30:20" version="3.15.0">
+               <name xml:id="name-1h5clnv">Verovio</name>
+               <p xml:id="p-1b8ywdc">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1dhth27">
+            <score xml:id="s1rzm7i2">
+               <scoreDef xml:id="s1qlyxla">
+                  <pgHead xml:id="p885g1v">
+                     <rend xml:id="r1gbmqjt" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="rn0t11n" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1i3mpqd" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sajgefx">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="3s" meter.count="4" meter.unit="4">
+                        <label xml:id="ls1fxev">Voice</label>
+                        <labelAbbr xml:id="l100t273">Vo.</labelAbbr>
+                        <instrDef xml:id="iqihf01" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1n60xtt">
+                  <measure xml:id="m1q1jlft" n="1">
+                     <staff xml:id="s13lpkru" n="1">
+                        <layer xml:id="lw0pguv" n="1">
+                           <note xml:id="nsb0lzk" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="abwn67b" accid.ges="s" />
+                           </note>
+                           <note xml:id="n1dcjpom" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="ammewbv" accid="s" />
+                           </note>
+                           <note xml:id="n1vsju1j" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="a11rk0kf" accid="x" accid.ges="ss" />
+                           </note>
+                           <note xml:id="n1pgnw1s" dur="4" oct="4" pname="f" stem.dir="up">
+                              <accid xml:id="amgyl" accid.ges="ss" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mit9xym" right="end" n="2">
+                     <staff xml:id="s6cmxxq" n="1">
+                        <layer xml:id="l1i2079b" n="1">
+                           <note xml:id="nh9y9v" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="acsft58" accid="n" />
+                           </note>
+                           <note xml:id="ntavhpp" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="a1ooas9v" accid="f" />
+                           </note>
+                           <note xml:id="ndnnqww" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="a14hwgjx" accid="nf" accid.ges="f" />
+                           </note>
+                           <note xml:id="niiadya" dur="4" oct="4" pname="a" stem.dir="up">
+                              <accid xml:id="amwhwf" accid="tf" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
