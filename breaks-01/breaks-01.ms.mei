@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:47:22" />
+            <date isodate="2023-06-15-08:11:10" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -42,7 +42,7 @@
                   <measure n="1">
                      <staff n="1">
                         <layer n="1">
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="c" oct="5" />
                            <note dur="4" pname="b" oct="4" />
                            <note dur="4" pname="a" oct="4" />
@@ -50,7 +50,7 @@
                      </staff>
                      <staff n="2">
                         <layer n="1">
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="c" oct="3" />
                            <note dur="4" pname="g" oct="3" />
                            <note dur="4" pname="d" oct="3" />
@@ -61,14 +61,14 @@
                      <staff n="1">
                         <layer n="1">
                            <note dur="2" pname="g" oct="4" />
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="g" oct="4" />
                         </layer>
                      </staff>
                      <staff n="2">
                         <layer n="1">
                            <note dur="2" pname="g" oct="2" />
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="c" oct="3" />
                         </layer>
                      </staff>
@@ -95,7 +95,7 @@
                   <measure n="4">
                      <staff n="1">
                         <layer n="1">
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="d" oct="5" />
                            <note dur="4" pname="c" oct="5" />
                            <note dur="4" pname="b" oct="4" />
@@ -103,7 +103,7 @@
                      </staff>
                      <staff n="2">
                         <layer n="1">
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="g" oct="2" />
                            <note dur="4" pname="a" oct="2" />
                            <beam>
@@ -134,14 +134,14 @@
                      <staff n="1">
                         <layer n="1">
                            <note dur="2" pname="g" oct="4" />
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="c" oct="5" />
                         </layer>
                      </staff>
                      <staff n="2">
                         <layer n="1">
                            <note dur="2" pname="g" oct="2" />
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="e" oct="3" />
                         </layer>
                      </staff>
@@ -165,7 +165,7 @@
                   <measure n="8">
                      <staff n="1">
                         <layer n="1">
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="d" oct="5" />
                            <beam>
                               <note dur="8" pname="e" oct="5" />
@@ -176,7 +176,7 @@
                      </staff>
                      <staff n="2">
                         <layer n="1">
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="g" oct="2" />
                            <note dur="4" pname="c" oct="3" />
                            <beam>
@@ -190,14 +190,14 @@
                      <staff n="1">
                         <layer n="1">
                            <note dur="2" pname="d" oct="5" />
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="g" oct="4" />
                         </layer>
                      </staff>
                      <staff n="2">
                         <layer n="1">
                            <note dur="2" pname="g" oct="3" />
-                           <rest type="mscore-beam-none" dur="4" />
+                           <rest dur="4" />
                            <note dur="4" pname="c" oct="3" />
                         </layer>
                      </staff>

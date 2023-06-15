@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:47:00" />
+            <date isodate="2023-06-15-08:10:49" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -42,20 +42,20 @@
                   <measure n="1">
                      <staff n="1">
                         <layer n="1">
-                           <note type="mscore-beam-none" dur="4" pname="a" oct="4" />
-                           <note type="mscore-beam-none" dur="4" pname="a" oct="4" />
-                           <note type="mscore-beam-none" dur="4" pname="a" oct="4" />
-                           <note type="mscore-beam-none" dur="4" pname="b" oct="4" />
+                           <note dur="4" pname="a" oct="4" />
+                           <note dur="4" pname="a" oct="4" />
+                           <note dur="4" pname="a" oct="4" />
+                           <note dur="4" pname="b" oct="4" />
                         </layer>
                         <layer n="2">
-                           <note type="mscore-beam-none" dur="4" pname="f" oct="4">
+                           <note dur="4" pname="f" oct="4">
                               <accid accid.ges="s" />
                            </note>
-                           <note type="mscore-beam-none" dur="4" pname="e" oct="4" />
-                           <note type="mscore-beam-none" dur="4" pname="f" oct="4">
+                           <note dur="4" pname="e" oct="4" />
+                           <note dur="4" pname="f" oct="4">
                               <accid accid.ges="s" />
                            </note>
-                           <note type="mscore-beam-none" dur="4" pname="f" oct="4">
+                           <note dur="4" pname="f" oct="4">
                               <accid accid.ges="s" />
                            </note>
                         </layer>
@@ -64,22 +64,22 @@
                   <measure right="end" n="2">
                      <staff n="1">
                         <layer n="1">
-                           <note type="mscore-beam-none" dur="4" pname="g" oct="4">
+                           <note dur="4" pname="g" oct="4">
                               <accid accid="n" />
                            </note>
-                           <note type="mscore-beam-none" dur="4" pname="f" oct="4">
+                           <note dur="4" pname="f" oct="4">
                               <accid accid.ges="s" />
                            </note>
-                           <note type="mscore-beam-none" dur="4" pname="e" oct="4" />
-                           <note type="mscore-beam-none" dur="4" pname="b" oct="4" />
+                           <note dur="4" pname="e" oct="4" />
+                           <note dur="4" pname="b" oct="4" />
                         </layer>
                         <layer n="2">
-                           <note type="mscore-beam-none" dur="4" pname="e" oct="4" />
-                           <note type="mscore-beam-none" dur="4" pname="d" oct="4">
+                           <note dur="4" pname="e" oct="4" />
+                           <note dur="4" pname="d" oct="4">
                               <accid accid="s" />
                            </note>
-                           <note type="mscore-beam-none" dur="4" pname="b" oct="3" />
-                           <note type="mscore-beam-none" dur="4" pname="g" oct="4">
+                           <note dur="4" pname="b" oct="3" />
+                           <note dur="4" pname="g" oct="4">
                               <accid accid="s" />
                            </note>
                         </layer>

@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:49:19" />
+            <date isodate="2023-06-15-08:13:08" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -106,7 +106,7 @@
                            </tuplet>
                            <tuplet num="3" numbase="2">
                               <note dur="4" pname="c" oct="5" />
-                              <rest type="mscore-beam-none" dur="4" />
+                              <rest dur="4" />
                               <beam>
                                  <note dur="8" pname="c" oct="5" />
                                  <note dur="8" pname="b" oct="4" />
@@ -119,7 +119,7 @@
                      <staff n="1">
                         <layer n="1">
                            <note dur="2" pname="c" oct="5" />
-                           <rest type="mscore-beam-none" dur="2" />
+                           <rest dur="2" />
                         </layer>
                      </staff>
                   </measure>
