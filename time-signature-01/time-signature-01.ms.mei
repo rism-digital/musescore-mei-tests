@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:49:03" />
+            <date isodate="2023-06-15-18:44:49" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -32,87 +32,87 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section>
-                  <measure n="1">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="1" pname="g" oct="4" />
+               <section xml:id="s1">
+                  <measure xml:id="m1" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="m1s1l1n1" dur="1" pname="g" oct="4" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="2" meter.unit="4" />
-                  <measure n="2">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="2" pname="a" oct="4" stem.dir="up" />
+                  <measure xml:id="m2" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <note xml:id="m2s1l1n1" dur="2" pname="a" oct="4" stem.dir="up" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="3" meter.unit="4" />
-                  <measure n="3">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dots="1" dur="2" pname="b" oct="4" stem.dir="down" />
+                  <measure xml:id="m3" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="m3s1l1n1" dots="1" dur="2" pname="b" oct="4" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="4" meter.unit="4" />
-                  <measure n="4">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="1" pname="c" oct="5" />
+                  <measure xml:id="m4" n="4">
+                     <staff xml:id="m4s1" n="1">
+                        <layer xml:id="m4s1l1" n="1">
+                           <note xml:id="m4s1l1n1" dur="1" pname="c" oct="5" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="5" meter.unit="4" />
-                  <measure n="5">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="1" pname="g" oct="4" />
-                           <note dur="4" pname="g" oct="4" stem.dir="up" />
+                  <measure xml:id="m5" n="5">
+                     <staff xml:id="m5s1" n="1">
+                        <layer xml:id="m5s1l1" n="1">
+                           <note xml:id="m5s1l1n1" dur="1" pname="g" oct="4" />
+                           <note xml:id="m5s1l1n2" dur="4" pname="g" oct="4" stem.dir="up" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="6" meter.unit="4" />
-                  <measure n="6">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="1" pname="a" oct="4" />
-                           <note dur="2" pname="a" oct="4" stem.dir="up" />
+                  <measure xml:id="m6" n="6">
+                     <staff xml:id="m6s1" n="1">
+                        <layer xml:id="m6s1l1" n="1">
+                           <note xml:id="m6s1l1n1" dur="1" pname="a" oct="4" />
+                           <note xml:id="m6s1l1n2" dur="2" pname="a" oct="4" stem.dir="up" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="3" meter.unit="8" />
-                  <measure n="7">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dots="1" dur="4" pname="b" oct="4" stem.dir="down" />
+                  <measure xml:id="m7" n="7">
+                     <staff xml:id="m7s1" n="1">
+                        <layer xml:id="m7s1l1" n="1">
+                           <note xml:id="m7s1l1n1" dots="1" dur="4" pname="b" oct="4" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="6" meter.unit="8" />
-                  <measure n="8">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dots="1" dur="2" pname="c" oct="5" stem.dir="down" />
+                  <measure xml:id="m8" n="8">
+                     <staff xml:id="m8s1" n="1">
+                        <layer xml:id="m8s1l1" n="1">
+                           <note xml:id="m8s1l1n1" dots="1" dur="2" pname="c" oct="5" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="9" meter.unit="8" />
-                  <measure n="9">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="1" pname="g" oct="4" />
-                           <note dur="8" pname="g" oct="4" stem.dir="up" />
+                  <measure xml:id="m9" n="9">
+                     <staff xml:id="m9s1" n="1">
+                        <layer xml:id="m9s1l1" n="1">
+                           <note xml:id="m9s1l1n1" dur="1" pname="g" oct="4" />
+                           <note xml:id="m9s1l1n2" dur="8" pname="g" oct="4" stem.dir="up" />
                         </layer>
                      </staff>
                   </measure>
                   <scoreDef meter.count="12" meter.unit="8" />
-                  <measure n="10">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="1" pname="a" oct="4" />
-                           <note dur="2" pname="a" oct="4" stem.dir="up" />
+                  <measure xml:id="m10" n="10">
+                     <staff xml:id="m10s1" n="1">
+                        <layer xml:id="m10s1l1" n="1">
+                           <note xml:id="m10s1l1n1" dur="1" pname="a" oct="4" />
+                           <note xml:id="m10s1l1n2" dur="2" pname="a" oct="4" stem.dir="up" />
                         </layer>
                      </staff>
                   </measure>

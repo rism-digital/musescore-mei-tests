@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:47:06" />
+            <date isodate="2023-06-15-18:42:50" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -38,39 +38,39 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section>
-                  <measure n="1">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="4" pname="f" oct="4">
-                              <accid accid.ges="s" />
+               <section xml:id="s1">
+                  <measure xml:id="m1" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <note xml:id="m1s1l1n1" dur="4" pname="f" oct="4">
+                              <accid xml:id="m1s1l1a1" accid.ges="s" />
                            </note>
-                           <note dur="4" pname="f" oct="4">
-                              <accid accid="s" />
+                           <note xml:id="m1s1l1n2" dur="4" pname="f" oct="4">
+                              <accid xml:id="m1s1l1a2" accid="s" />
                            </note>
-                           <note dur="4" pname="f" oct="4">
-                              <accid accid="x" />
+                           <note xml:id="m1s1l1n3" dur="4" pname="f" oct="4">
+                              <accid xml:id="m1s1l1a3" accid="x" />
                            </note>
-                           <note dur="4" pname="f" oct="4">
-                              <accid accid="ss" />
+                           <note xml:id="m1s1l1n4" dur="4" pname="f" oct="4">
+                              <accid xml:id="m1s1l1a4" accid="ss" />
                            </note>
                         </layer>
                      </staff>
                   </measure>
-                  <measure right="end" n="2">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="4" pname="a" oct="4">
-                              <accid accid="n" />
+                  <measure xml:id="m2" right="end" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <note xml:id="m2s1l1n1" dur="4" pname="a" oct="4">
+                              <accid xml:id="m2s1l1a1" accid="n" />
                            </note>
-                           <note dur="4" pname="a" oct="4">
-                              <accid accid="f" />
+                           <note xml:id="m2s1l1n2" dur="4" pname="a" oct="4">
+                              <accid xml:id="m2s1l1a2" accid="f" />
                            </note>
-                           <note dur="4" pname="a" oct="4">
-                              <accid accid="nf" />
+                           <note xml:id="m2s1l1n3" dur="4" pname="a" oct="4">
+                              <accid xml:id="m2s1l1a3" accid="nf" />
                            </note>
-                           <note dur="4" pname="a" oct="4">
-                              <accid accid="tf" />
+                           <note xml:id="m2s1l1n4" dur="4" pname="a" oct="4">
+                              <accid xml:id="m2s1l1a4" accid="tf" />
                            </note>
                         </layer>
                      </staff>

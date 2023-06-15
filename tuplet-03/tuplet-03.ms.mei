@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-15-08:13:18" />
+            <date isodate="2023-06-15-18:45:16" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -28,100 +28,100 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section>
-                  <measure n="1">
-                     <staff n="1">
-                        <layer n="1">
-                           <beam>
-                              <tuplet num="3" numbase="2" bracket.place="below" num.format="ratio" num.place="below">
-                                 <note dur="8" pname="c" oct="5" />
-                                 <note dur="8" pname="d" oct="5" />
-                                 <note dur="8" pname="b" oct="4" />
+               <section xml:id="s1">
+                  <measure xml:id="m1" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <beam xml:id="m1s1l1b1">
+                              <tuplet xml:id="m1s1l1t1" num="3" numbase="2" bracket.place="below" num.format="ratio" num.place="below">
+                                 <note xml:id="m1s1l1n1" dur="8" pname="c" oct="5" />
+                                 <note xml:id="m1s1l1n2" dur="8" pname="d" oct="5" />
+                                 <note xml:id="m1s1l1n3" dur="8" pname="b" oct="4" />
                               </tuplet>
                            </beam>
-                           <beam>
-                              <tuplet num="3" numbase="2" bracket.place="above" num.place="above">
-                                 <note dur="8" pname="c" oct="5" />
-                                 <note dur="8" pname="d" oct="5" />
-                                 <note dur="8" pname="b" oct="4" />
+                           <beam xml:id="m1s1l1b2">
+                              <tuplet xml:id="m1s1l1t2" num="3" numbase="2" bracket.place="above" num.place="above">
+                                 <note xml:id="m1s1l1n4" dur="8" pname="c" oct="5" />
+                                 <note xml:id="m1s1l1n5" dur="8" pname="d" oct="5" />
+                                 <note xml:id="m1s1l1n6" dur="8" pname="b" oct="4" />
                               </tuplet>
                            </beam>
-                           <beam>
-                              <tuplet num="3" numbase="2" bracket.visible="true">
-                                 <note dur="8" pname="c" oct="5" />
-                                 <note dur="8" pname="d" oct="5" />
-                                 <note dur="8" pname="b" oct="4" />
+                           <beam xml:id="m1s1l1b3">
+                              <tuplet xml:id="m1s1l1t3" num="3" numbase="2" bracket.visible="true">
+                                 <note xml:id="m1s1l1n7" dur="8" pname="c" oct="5" />
+                                 <note xml:id="m1s1l1n8" dur="8" pname="d" oct="5" />
+                                 <note xml:id="m1s1l1n9" dur="8" pname="b" oct="4" />
                               </tuplet>
                            </beam>
-                           <tuplet num="3" numbase="2" bracket.visible="false">
-                              <note type="mscore-beam-none" dur="8" pname="c" oct="5" />
-                              <note type="mscore-beam-none" dur="8" pname="d" oct="5" />
-                              <note dur="8" pname="b" oct="4" />
+                           <tuplet xml:id="m1s1l1t4" num="3" numbase="2" bracket.visible="false">
+                              <note xml:id="m1s1l1n10" type="mscore-beam-none" dur="8" pname="c" oct="5" />
+                              <note xml:id="m1s1l1n11" type="mscore-beam-none" dur="8" pname="d" oct="5" />
+                              <note xml:id="m1s1l1n12" dur="8" pname="b" oct="4" />
                            </tuplet>
                         </layer>
                      </staff>
                   </measure>
-                  <measure n="2">
-                     <staff n="1">
-                        <layer n="1">
-                           <beam>
-                              <tuplet num="6" numbase="4" bracket.visible="true">
-                                 <note dur="32" pname="a" oct="4" />
-                                 <note dur="32" pname="g" oct="4" />
-                                 <note dur="32" pname="a" oct="4" />
-                                 <note dur="32" pname="b" oct="4" />
-                                 <note dur="32" pname="c" oct="5" />
-                                 <note dur="32" pname="b" oct="4" />
+                  <measure xml:id="m2" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <beam xml:id="m2s1l1b1">
+                              <tuplet xml:id="m2s1l1t1" num="6" numbase="4" bracket.visible="true">
+                                 <note xml:id="m2s1l1n1" dur="32" pname="a" oct="4" />
+                                 <note xml:id="m2s1l1n2" dur="32" pname="g" oct="4" />
+                                 <note xml:id="m2s1l1n3" dur="32" pname="a" oct="4" />
+                                 <note xml:id="m2s1l1n4" dur="32" pname="b" oct="4" />
+                                 <note xml:id="m2s1l1n5" dur="32" pname="c" oct="5" />
+                                 <note xml:id="m2s1l1n6" dur="32" pname="b" oct="4" />
                               </tuplet>
-                              <tuplet num="6" numbase="4" bracket.place="below" bracket.visible="true" num.place="below" num.visible="false">
-                                 <note dur="32" pname="a" oct="4" />
-                                 <note dur="32" pname="g" oct="4" />
-                                 <note dur="32" pname="a" oct="4" />
-                                 <note dur="32" pname="b" oct="4" />
-                                 <note dur="32" pname="c" oct="5" />
-                                 <note dur="32" pname="b" oct="4" />
+                              <tuplet xml:id="m2s1l1t2" num="6" numbase="4" bracket.place="below" bracket.visible="true" num.place="below" num.visible="false">
+                                 <note xml:id="m2s1l1n7" dur="32" pname="a" oct="4" />
+                                 <note xml:id="m2s1l1n8" dur="32" pname="g" oct="4" />
+                                 <note xml:id="m2s1l1n9" dur="32" pname="a" oct="4" />
+                                 <note xml:id="m2s1l1n10" dur="32" pname="b" oct="4" />
+                                 <note xml:id="m2s1l1n11" dur="32" pname="c" oct="5" />
+                                 <note xml:id="m2s1l1n12" dur="32" pname="b" oct="4" />
                               </tuplet>
                            </beam>
-                           <tuplet num="6" numbase="4" num.format="ratio">
-                              <beam>
-                                 <note dur="32" pname="a" oct="4" />
-                                 <note dur="32" pname="g" oct="4" />
-                                 <note dur="32" pname="a" oct="4" />
+                           <tuplet xml:id="m2s1l1t3" num="6" numbase="4" num.format="ratio">
+                              <beam xml:id="m2s1l1b2">
+                                 <note xml:id="m2s1l1n13" dur="32" pname="a" oct="4" />
+                                 <note xml:id="m2s1l1n14" dur="32" pname="g" oct="4" />
+                                 <note xml:id="m2s1l1n15" dur="32" pname="a" oct="4" />
                               </beam>
-                              <beam type="mscore-begin">
-                                 <note dur="32" pname="b" oct="4" />
-                                 <note dur="32" pname="c" oct="5" />
-                                 <note dur="32" pname="b" oct="4" />
-                              </beam>
-                           </tuplet>
-                           <tuplet num="6" numbase="4" bracket.place="below" bracket.visible="false" num.place="below" num.visible="false">
-                              <beam type="mscore-begin">
-                                 <note dur="32" pname="a" oct="4" />
-                                 <note dur="32" pname="g" oct="4" />
-                                 <note dur="32" pname="a" oct="4" />
-                              </beam>
-                              <beam type="mscore-begin">
-                                 <note dur="32" pname="b" oct="4" />
-                                 <note dur="32" pname="c" oct="5" />
-                                 <note dur="32" pname="b" oct="4" />
+                              <beam xml:id="m2s1l1b3" type="mscore-begin">
+                                 <note xml:id="m2s1l1n16" dur="32" pname="b" oct="4" />
+                                 <note xml:id="m2s1l1n17" dur="32" pname="c" oct="5" />
+                                 <note xml:id="m2s1l1n18" dur="32" pname="b" oct="4" />
                               </beam>
                            </tuplet>
-                           <tuplet num="3" numbase="2" bracket.place="above" num.format="ratio" num.place="above">
-                              <note dur="4" pname="c" oct="5" />
-                              <rest dur="4" />
-                              <beam>
-                                 <note dur="8" pname="c" oct="5" />
-                                 <note dur="8" pname="b" oct="4" />
+                           <tuplet xml:id="m2s1l1t4" num="6" numbase="4" bracket.place="below" bracket.visible="false" num.place="below" num.visible="false">
+                              <beam xml:id="m2s1l1b4" type="mscore-begin">
+                                 <note xml:id="m2s1l1n19" dur="32" pname="a" oct="4" />
+                                 <note xml:id="m2s1l1n20" dur="32" pname="g" oct="4" />
+                                 <note xml:id="m2s1l1n21" dur="32" pname="a" oct="4" />
+                              </beam>
+                              <beam xml:id="m2s1l1b5" type="mscore-begin">
+                                 <note xml:id="m2s1l1n22" dur="32" pname="b" oct="4" />
+                                 <note xml:id="m2s1l1n23" dur="32" pname="c" oct="5" />
+                                 <note xml:id="m2s1l1n24" dur="32" pname="b" oct="4" />
+                              </beam>
+                           </tuplet>
+                           <tuplet xml:id="m2s1l1t5" num="3" numbase="2" bracket.place="above" num.format="ratio" num.place="above">
+                              <note xml:id="m2s1l1n25" dur="4" pname="c" oct="5" />
+                              <rest xml:id="m2s1l1r1" dur="4" />
+                              <beam xml:id="m2s1l1b6">
+                                 <note xml:id="m2s1l1n26" dur="8" pname="c" oct="5" />
+                                 <note xml:id="m2s1l1n27" dur="8" pname="b" oct="4" />
                               </beam>
                            </tuplet>
                         </layer>
                      </staff>
                   </measure>
-                  <measure right="end" n="3">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="2" pname="c" oct="5" />
-                           <rest dur="2" />
+                  <measure xml:id="m3" right="end" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="m3s1l1n1" dur="2" pname="c" oct="5" />
+                           <rest xml:id="m3s1l1r1" dur="2" />
                         </layer>
                      </staff>
                   </measure>

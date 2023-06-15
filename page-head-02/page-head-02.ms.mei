@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:48:42" />
+            <date isodate="2023-06-15-18:44:27" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -44,25 +44,25 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section>
-                  <measure n="1">
-                     <staff n="1">
-                        <layer n="1">
-                           <mRest />
+               <section xml:id="s1">
+                  <measure xml:id="m1" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <mRest xml:id="m1s1l1z1" />
                         </layer>
                      </staff>
                   </measure>
-                  <measure n="2">
-                     <staff n="1">
-                        <layer n="1">
-                           <mRest />
+                  <measure xml:id="m2" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <mRest xml:id="m2s1l1z1" />
                         </layer>
                      </staff>
                   </measure>
-                  <measure right="end" n="3">
-                     <staff n="1">
-                        <layer n="1">
-                           <mRest />
+                  <measure xml:id="m3" right="end" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <mRest xml:id="m3s1l1z1" />
                         </layer>
                      </staff>
                   </measure>

@@ -14,7 +14,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:48:32" />
+            <date isodate="2023-06-15-18:44:17" />
             <availability>
                <distributor>Public domain</distributor>
             </availability>
@@ -44,11 +44,11 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section>
-                  <measure right="end" n="1">
-                     <staff n="1">
-                        <layer n="1">
-                           <mRest />
+               <section xml:id="s1">
+                  <measure xml:id="m1" right="end" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <mRest xml:id="m1s1l1z1" />
                         </layer>
                      </staff>
                   </measure>

@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-14-21:48:58" />
+            <date isodate="2023-06-15-18:44:43" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -28,63 +28,63 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section>
-                  <measure n="1">
-                     <staff n="1">
-                        <layer n="1">
-                           <beam>
-                              <note dur="16" pname="c" oct="5" />
-                              <note dur="16" pname="b" oct="4" />
-                              <note dur="16" pname="c" oct="5" />
-                              <note dur="16" pname="d" oct="5" />
+               <section xml:id="s1">
+                  <measure xml:id="m1" n="1">
+                     <staff xml:id="m1s1" n="1">
+                        <layer xml:id="m1s1l1" n="1">
+                           <beam xml:id="m1s1l1b1">
+                              <note xml:id="m1s1l1n1" dur="16" pname="c" oct="5" />
+                              <note xml:id="m1s1l1n2" dur="16" pname="b" oct="4" />
+                              <note xml:id="m1s1l1n3" dur="16" pname="c" oct="5" />
+                              <note xml:id="m1s1l1n4" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam>
-                              <note dur="16" pname="c" oct="5" stem.dir="up" />
-                              <note dur="16" pname="b" oct="4" stem.dir="up" />
-                              <note dur="16" pname="c" oct="5" stem.dir="up" />
-                              <note dur="16" pname="d" oct="5" stem.dir="up" />
+                           <beam xml:id="m1s1l1b2">
+                              <note xml:id="m1s1l1n5" dur="16" pname="c" oct="5" stem.dir="up" />
+                              <note xml:id="m1s1l1n6" dur="16" pname="b" oct="4" stem.dir="up" />
+                              <note xml:id="m1s1l1n7" dur="16" pname="c" oct="5" stem.dir="up" />
+                              <note xml:id="m1s1l1n8" dur="16" pname="d" oct="5" stem.dir="up" />
                            </beam>
-                           <note dur="4" pname="e" oct="5" />
-                           <note dur="4" pname="e" oct="4" />
+                           <note xml:id="m1s1l1n9" dur="4" pname="e" oct="5" />
+                           <note xml:id="m1s1l1n10" dur="4" pname="e" oct="4" />
                         </layer>
                      </staff>
                   </measure>
-                  <measure n="2">
-                     <staff n="1">
-                        <layer n="1">
-                           <beam>
-                              <note dur="8" pname="e" oct="5" stem.dir="down" />
-                              <note dur="8" pname="e" oct="4" stem.dir="down" />
+                  <measure xml:id="m2" n="2">
+                     <staff xml:id="m2s1" n="1">
+                        <layer xml:id="m2s1l1" n="1">
+                           <beam xml:id="m2s1l1b1">
+                              <note xml:id="m2s1l1n1" dur="8" pname="e" oct="5" stem.dir="down" />
+                              <note xml:id="m2s1l1n2" dur="8" pname="e" oct="4" stem.dir="down" />
                            </beam>
-                           <note type="mscore-beam-none" dur="8" pname="e" oct="5" />
-                           <note type="mscore-beam-none" dur="8" pname="e" oct="4" />
-                           <note type="mscore-beam-none" dur="8" pname="e" oct="5" stem.dir="down" />
-                           <note type="mscore-beam-none" dur="8" pname="e" oct="4" stem.dir="up" />
-                           <note type="mscore-beam-none" dur="8" pname="e" oct="5" stem.dir="up" />
-                           <note dur="8" pname="e" oct="4" stem.dir="down" />
+                           <note xml:id="m2s1l1n3" type="mscore-beam-none" dur="8" pname="e" oct="5" />
+                           <note xml:id="m2s1l1n4" type="mscore-beam-none" dur="8" pname="e" oct="4" />
+                           <note xml:id="m2s1l1n5" type="mscore-beam-none" dur="8" pname="e" oct="5" stem.dir="down" />
+                           <note xml:id="m2s1l1n6" type="mscore-beam-none" dur="8" pname="e" oct="4" stem.dir="up" />
+                           <note xml:id="m2s1l1n7" type="mscore-beam-none" dur="8" pname="e" oct="5" stem.dir="up" />
+                           <note xml:id="m2s1l1n8" dur="8" pname="e" oct="4" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
-                  <measure right="end" n="3">
-                     <staff n="1">
-                        <layer n="1">
-                           <note dur="4" pname="e" oct="4" stem.len="0.000000" />
-                           <note dur="4" pname="e" oct="5" stem.len="0.000000" />
-                           <chord type="mscore-beam-none" dur="8">
-                              <note pname="e" oct="5" />
-                              <note pname="g" oct="5" />
+                  <measure xml:id="m3" right="end" n="3">
+                     <staff xml:id="m3s1" n="1">
+                        <layer xml:id="m3s1l1" n="1">
+                           <note xml:id="m3s1l1n1" dur="4" pname="e" oct="4" stem.len="0.000000" />
+                           <note xml:id="m3s1l1n2" dur="4" pname="e" oct="5" stem.len="0.000000" />
+                           <chord xml:id="m3s1l1c1" type="mscore-beam-none" dur="8">
+                              <note xml:id="m3s1l1n3" pname="e" oct="5" />
+                              <note xml:id="m3s1l1n4" pname="g" oct="5" />
                            </chord>
-                           <chord type="mscore-beam-none" dur="8">
-                              <note pname="e" oct="4" />
-                              <note pname="g" oct="4" />
+                           <chord xml:id="m3s1l1c2" type="mscore-beam-none" dur="8">
+                              <note xml:id="m3s1l1n5" pname="e" oct="4" />
+                              <note xml:id="m3s1l1n6" pname="g" oct="4" />
                            </chord>
-                           <chord type="mscore-beam-none" dur="8" stem.dir="up">
-                              <note pname="e" oct="5" />
-                              <note pname="g" oct="5" />
+                           <chord xml:id="m3s1l1c3" type="mscore-beam-none" dur="8" stem.dir="up">
+                              <note xml:id="m3s1l1n7" pname="e" oct="5" />
+                              <note xml:id="m3s1l1n8" pname="g" oct="5" />
                            </chord>
-                           <chord type="mscore-beam-none" dur="8" stem.dir="down">
-                              <note pname="e" oct="4" />
-                              <note pname="g" oct="4" />
+                           <chord xml:id="m3s1l1c4" type="mscore-beam-none" dur="8" stem.dir="down">
+                              <note xml:id="m3s1l1n9" pname="e" oct="4" />
+                              <note xml:id="m3s1l1n10" pname="g" oct="4" />
                            </chord>
                         </layer>
                      </staff>
