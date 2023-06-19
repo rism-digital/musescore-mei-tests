@@ -75,3 +75,12 @@ All files but the original MuseScore file can be removed with:
 ./reset-convert.sh score-01
 ```
 
+## Adding new tests
+
+Before adding new tests, please be sure to:
+
+* save the `./mscz` file with MuseScore 4 (not 3 or earlier);
+* reset style settings to default values (`Format > Style`);
+* reset page settings to default values (`Format > Page settings`);
+* remove all system breaks (`Format > Add/remove system breaks`);
+* reset shapes and positions (`Format > Reset shapes and positions`).
