@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-18-16:50:21" />
+            <date isodate="2023-06-19-13:09:28" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -54,11 +54,11 @@
                            <note xml:id="m1s1l2n1" dur="1" pname="c" oct="4" />
                         </layer>
                      </staff>
-                     <dynam xml:id="m1z1" label="p" startid="#m1s1l1n1" place="above">p</dynam>
-                     <dynam xml:id="m1z2" label="mp" startid="#m1s1l1n2">mp</dynam>
-                     <dynam xml:id="m1z3" label="sffz" startid="#m1s1l1n3">sffz</dynam>
-                     <dynam xml:id="m1z4" label="sfz" startid="#m1s1l1n4">sfz</dynam>
-                     <dynam xml:id="m1z5" label="pp" startid="#m1s1l2n1">pp</dynam>
+                     <dynam xml:id="m1dn1" label="p" startid="#m1s1l1n1" place="above">p</dynam>
+                     <dynam xml:id="m1dn2" label="mp" startid="#m1s1l1n2">mp</dynam>
+                     <dynam xml:id="m1dn3" label="sffz" startid="#m1s1l1n3">sffz</dynam>
+                     <dynam xml:id="m1dn4" label="sfz" startid="#m1s1l1n4">sfz</dynam>
+                     <dynam xml:id="m1dn5" label="pp" startid="#m1s1l2n1">pp</dynam>
                   </measure>
                   <measure xml:id="m2" right="end" n="2">
                      <staff xml:id="m2s1" n="1">
@@ -76,9 +76,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dynam xml:id="m2z1" label="mp" startid="#m2s1l1n1">sempre mp e <lb />dolce</dynam>
-                     <dynam xml:id="m2z2" label="p" startid="#m2s1l1c1">p e sempre<lb />dolce</dynam>
-                     <dynam xml:id="m2z3" label="ff" startid="#m2s1l1c2">molto ff</dynam>
+                     <dynam xml:id="m2dn1" label="mp" startid="#m2s1l1n1">sempre mp e <lb />dolce</dynam>
+                     <dynam xml:id="m2dn2" label="p" startid="#m2s1l1c1">p e sempre<lb />dolce</dynam>
+                     <dynam xml:id="m2dn3" label="ff" startid="#m2s1l1c2">molto ff</dynam>
                   </measure>
                </section>
             </score>
