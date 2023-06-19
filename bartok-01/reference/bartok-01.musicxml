@@ -12,7 +12,7 @@
     <rights>©</rights>
     <encoding>
       <software>MuseScore 4.1.0</software>
-      <encoding-date>2023-06-15</encoding-date>
+      <encoding-date>2023-06-19</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
@@ -97,10 +97,10 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" placement="below" number="1"/>
           </notations>
         </note>
-      <direction placement="below">
+      <direction placement="above">
         <direction-type>
           <words font-style="italic">sempre leggiero e legato</words>
           </direction-type>
@@ -988,7 +988,7 @@
         <staff>2</staff>
         <sound dynamics="83.33"/>
         </direction>
-      <direction placement="below">
+      <direction placement="above">
         <direction-type>
           <words font-style="italic">espress.</words>
           </direction-type>
@@ -4878,7 +4878,7 @@
         <staff>2</staff>
         <sound dynamics="54.44"/>
         </direction>
-      <direction placement="below">
+      <direction placement="above">
         <direction-type>
           <words font-style="italic">più</words>
           </direction-type>
@@ -4902,7 +4902,7 @@
         <staff>2</staff>
         <notations>
           <tied type="start"/>
-          <slur type="start" placement="below" number="2"/>
+          <slur type="start" placement="above" number="2"/>
           </notations>
         </note>
       </measure>
@@ -5233,7 +5233,7 @@
         <function>iio/bII</function>
         <kind text="">none</kind>
         </harmony>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
           <wedge type="crescendo" number="1"/>
           </direction-type>
@@ -5874,7 +5874,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
           <wedge type="stop" number="1"/>
           </direction-type>
@@ -6529,7 +6529,7 @@
         <function>i</function>
         <kind text="">none</kind>
         </harmony>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1"/>
           </direction-type>
@@ -6582,7 +6582,7 @@
           <slur type="stop" number="2"/>
           </notations>
         </note>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
           <wedge type="stop" number="1"/>
           </direction-type>
@@ -6887,7 +6887,7 @@
         <function>V64(+6)</function>
         <kind text="">none</kind>
         </harmony>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1"/>
           </direction-type>
@@ -7007,7 +7007,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <direction placement="below">
+      <direction placement="above">
         <direction-type>
           <words font-style="italic">ritard.</words>
           </direction-type>
@@ -7258,7 +7258,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
           <wedge type="stop" number="1"/>
           </direction-type>
