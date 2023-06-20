@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-19-13:08:35" />
+            <date isodate="2023-06-20-14:06:53" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -810,7 +810,7 @@
                                  <accid xml:id="m12s1l1a5" accid.ges="f" />
                               </note>
                            </beam>
-                           <note xml:id="m12s1l1n8" dur="4" pname="c" oct="5" stem.dir="up" />
+                           <note xml:id="m12s1l1n8" dur="4" pname="c" oct="5" />
                            <beam xml:id="m12s1l1b4">
                               <note xml:id="m12s1l1n9" dur="16" pname="b" oct="4">
                                  <accid xml:id="m12s1l1a6" accid.ges="f" />
@@ -1080,7 +1080,7 @@
                         </layer>
                         <layer xml:id="m15s1l2" n="2">
                            <beam xml:id="m15s1l2b1">
-                              <note xml:id="m15s1l2n1" dur="8" staff="2" pname="g" oct="3" stem.dir="up" />
+                              <note xml:id="m15s1l2n1" dur="8" staff="2" pname="g" oct="3" />
                               <note xml:id="m15s1l2n2" dur="16" pname="g" oct="4" />
                               <note xml:id="m15s1l2n3" dur="16" pname="f" oct="4">
                                  <accid xml:id="m15s1l2a1" accid="s" />
@@ -1410,7 +1410,7 @@
                                  <accid xml:id="m19s1l1a3" accid="n" />
                               </note>
                            </beam>
-                           <note xml:id="m19s1l1n6" type="mscore-beam-none" dur="8" pname="b" oct="4" stem.dir="up" />
+                           <note xml:id="m19s1l1n6" type="mscore-beam-none" dur="8" pname="b" oct="4" />
                            <rest xml:id="m19s1l1r4" type="mscore-beam-none" dur="8" />
                         </layer>
                         <layer xml:id="m19s1l2" n="2">
@@ -1521,7 +1521,7 @@
                               <note xml:id="m20s1l2n4" dur="16" pname="d" oct="4" />
                            </beam>
                            <beam xml:id="m20s1l2b2">
-                              <note xml:id="m20s1l2n5" dur="16" staff="2" pname="c" oct="4" stem.dir="up" />
+                              <note xml:id="m20s1l2n5" dur="16" staff="2" pname="c" oct="4" />
                               <note xml:id="m20s1l2n6" dur="16" staff="2" pname="b" oct="3">
                                  <accid xml:id="m20s1l2a2" accid="f" />
                               </note>
@@ -2344,7 +2344,7 @@
                               <note xml:id="m31s1l2n4" pname="d" oct="4" />
                            </chord>
                            <rest xml:id="m31s1l2r2" type="mscore-beam-none" dur="8" />
-                           <note xml:id="m31s1l2n5" dur="2" staff="2" pname="g" oct="3" stem.dir="up" />
+                           <note xml:id="m31s1l2n5" dur="2" staff="2" pname="g" oct="3" />
                         </layer>
                      </staff>
                      <staff xml:id="m31s2" n="2">

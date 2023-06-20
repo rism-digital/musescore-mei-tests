@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-19-13:08:42" />
+            <date isodate="2023-06-20-14:07:00" />
             <availability>
                <distributor>©</distributor>
             </availability>
@@ -212,7 +212,7 @@
                      </staff>
                      <staff xml:id="m3s2" n="2">
                         <layer xml:id="m3s2l1" n="1">
-                           <note xml:id="m3s2l1n1" dots="1" dur="2" pname="f" oct="4" stem.dir="up">
+                           <note xml:id="m3s2l1n1" dots="1" dur="2" pname="f" oct="4">
                               <accid xml:id="m3s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -273,11 +273,11 @@
                      </staff>
                      <staff xml:id="m4s2" n="2">
                         <layer xml:id="m4s2l1" n="1">
-                           <note xml:id="m4s2l1n1" dur="4" pname="e" oct="4" stem.dir="up" />
-                           <note xml:id="m4s2l1n2" dur="4" pname="d" oct="4" stem.dir="up">
+                           <note xml:id="m4s2l1n1" dur="4" pname="e" oct="4" />
+                           <note xml:id="m4s2l1n2" dur="4" pname="d" oct="4">
                               <accid xml:id="m4s2l1a1" accid="s" />
                            </note>
-                           <note xml:id="m4s2l1n3" dur="4" pname="b" oct="3" stem.dir="up" />
+                           <note xml:id="m4s2l1n3" dur="4" pname="b" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -335,7 +335,7 @@
                      </staff>
                      <staff xml:id="m5s2" n="2">
                         <layer xml:id="m5s2l1" n="1">
-                           <note xml:id="m5s2l1n1" dots="1" dur="2" pname="c" oct="4" stem.dir="up" />
+                           <note xml:id="m5s2l1n1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
                   </measure>
@@ -393,7 +393,7 @@
                      </staff>
                      <staff xml:id="m6s2" n="2">
                         <layer xml:id="m6s2l1" n="1">
-                           <note xml:id="m6s2l1n1" dots="1" dur="2" pname="c" oct="4" stem.dir="up" />
+                           <note xml:id="m6s2l1n1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
                   </measure>
@@ -451,7 +451,7 @@
                      </staff>
                      <staff xml:id="m7s2" n="2">
                         <layer xml:id="m7s2l1" n="1">
-                           <note xml:id="m7s2l1n1" dots="1" dur="2" pname="f" oct="4" stem.dir="up">
+                           <note xml:id="m7s2l1n1" dots="1" dur="2" pname="f" oct="4">
                               <accid xml:id="m7s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -511,11 +511,11 @@
                      </staff>
                      <staff xml:id="m8s2" n="2">
                         <layer xml:id="m8s2l1" n="1">
-                           <note xml:id="m8s2l1n1" dur="4" pname="e" oct="4" stem.dir="up" />
-                           <note xml:id="m8s2l1n2" dots="1" dur="4" pname="d" oct="4" stem.dir="up">
+                           <note xml:id="m8s2l1n1" dur="4" pname="e" oct="4" />
+                           <note xml:id="m8s2l1n2" dots="1" dur="4" pname="d" oct="4">
                               <accid xml:id="m8s2l1a1" accid="s" />
                            </note>
-                           <note xml:id="m8s2l1n3" type="mscore-beam-none" dur="8" pname="b" oct="3" stem.dir="up" />
+                           <note xml:id="m8s2l1n3" type="mscore-beam-none" dur="8" pname="b" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -573,7 +573,7 @@
                      </staff>
                      <staff xml:id="m9s2" n="2">
                         <layer xml:id="m9s2l1" n="1">
-                           <note xml:id="m9s2l1n1" dots="1" dur="2" pname="c" oct="4" stem.dir="up" />
+                           <note xml:id="m9s2l1n1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
                   </measure>
@@ -631,7 +631,7 @@
                      </staff>
                      <staff xml:id="m10s2" n="2">
                         <layer xml:id="m10s2l1" n="1">
-                           <note xml:id="m10s2l1n1" dots="1" dur="2" pname="c" oct="4" stem.dir="up" />
+                           <note xml:id="m10s2l1n1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
                   </measure>
@@ -689,7 +689,7 @@
                      </staff>
                      <staff xml:id="m11s2" n="2">
                         <layer xml:id="m11s2l1" n="1">
-                           <note xml:id="m11s2l1n1" dots="1" dur="2" pname="f" oct="4" stem.dir="up">
+                           <note xml:id="m11s2l1n1" dots="1" dur="2" pname="f" oct="4">
                               <accid xml:id="m11s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -749,9 +749,9 @@
                      </staff>
                      <staff xml:id="m12s2" n="2">
                         <layer xml:id="m12s2l1" n="1">
-                           <note xml:id="m12s2l1n1" dur="4" pname="e" oct="4" stem.dir="up" />
-                           <note xml:id="m12s2l1n2" dots="1" dur="4" pname="c" oct="5" stem.dir="down" />
-                           <note xml:id="m12s2l1n3" type="mscore-beam-none" dur="8" pname="c" oct="5" stem.dir="down">
+                           <note xml:id="m12s2l1n1" dur="4" pname="e" oct="4" />
+                           <note xml:id="m12s2l1n2" dots="1" dur="4" pname="c" oct="5" />
+                           <note xml:id="m12s2l1n3" type="mscore-beam-none" dur="8" pname="c" oct="5">
                               <accid xml:id="m12s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -811,7 +811,7 @@
                      </staff>
                      <staff xml:id="m13s2" n="2">
                         <layer xml:id="m13s2l1" n="1">
-                           <note xml:id="m13s2l1n1" dots="1" dur="2" pname="d" oct="4" stem.dir="up">
+                           <note xml:id="m13s2l1n1" dots="1" dur="2" pname="d" oct="4">
                               <accid xml:id="m13s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -871,7 +871,7 @@
                      </staff>
                      <staff xml:id="m14s2" n="2">
                         <layer xml:id="m14s2l1" n="1">
-                           <note xml:id="m14s2l1n1" dur="2" pname="e" oct="4" stem.dir="up" />
+                           <note xml:id="m14s2l1n1" dur="2" pname="e" oct="4" />
                            <rest xml:id="m14s2l1r1" dur="4" />
                         </layer>
                      </staff>
@@ -930,7 +930,7 @@
                      </staff>
                      <staff xml:id="m15s2" n="2">
                         <layer xml:id="m15s2l1" n="1">
-                           <note xml:id="m15s2l1n1" dots="1" dur="2" pname="f" oct="4" stem.dir="up" />
+                           <note xml:id="m15s2l1n1" dots="1" dur="2" pname="f" oct="4" />
                         </layer>
                      </staff>
                      <dynam xml:id="m15dn1" label="p" startid="#m15s2l1n1">p</dynam>
@@ -989,9 +989,9 @@
                      </staff>
                      <staff xml:id="m16s2" n="2">
                         <layer xml:id="m16s2l1" n="1">
-                           <note xml:id="m16s2l1n1" dur="4" pname="f" oct="4" stem.dir="up" />
-                           <note xml:id="m16s2l1n2" dur="4" pname="e" oct="4" stem.dir="up" />
-                           <note xml:id="m16s2l1n3" dur="4" pname="d" oct="5" stem.dir="down">
+                           <note xml:id="m16s2l1n1" dur="4" pname="f" oct="4" />
+                           <note xml:id="m16s2l1n2" dur="4" pname="e" oct="4" />
+                           <note xml:id="m16s2l1n3" dur="4" pname="d" oct="5">
                               <accid xml:id="m16s2l1a1" accid="f" />
                            </note>
                         </layer>
@@ -1051,7 +1051,7 @@
                      </staff>
                      <staff xml:id="m17s2" n="2">
                         <layer xml:id="m17s2l1" n="1">
-                           <note xml:id="m17s2l1n1" dots="1" dur="2" pname="e" oct="4" stem.dir="up">
+                           <note xml:id="m17s2l1n1" dots="1" dur="2" pname="e" oct="4">
                               <accid xml:id="m17s2l1a1" accid="f" />
                            </note>
                         </layer>
@@ -1111,8 +1111,8 @@
                      </staff>
                      <staff xml:id="m18s2" n="2">
                         <layer xml:id="m18s2l1" n="1">
-                           <note xml:id="m18s2l1n1" dur="2" pname="d" oct="4" stem.dir="up" />
-                           <note xml:id="m18s2l1n2" type="mscore-beam-none" dur="8" pname="e" oct="4" stem.dir="up">
+                           <note xml:id="m18s2l1n1" dur="2" pname="d" oct="4" />
+                           <note xml:id="m18s2l1n2" type="mscore-beam-none" dur="8" pname="e" oct="4">
                               <accid xml:id="m18s2l1a1" accid="n" />
                            </note>
                            <rest xml:id="m18s2l1r1" type="mscore-beam-none" dur="8" />
@@ -1173,7 +1173,7 @@
                      </staff>
                      <staff xml:id="m19s2" n="2">
                         <layer xml:id="m19s2l1" n="1">
-                           <note xml:id="m19s2l1n1" dots="1" dur="2" pname="f" oct="4" stem.dir="up">
+                           <note xml:id="m19s2l1n1" dots="1" dur="2" pname="f" oct="4">
                               <accid xml:id="m19s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -1234,11 +1234,11 @@
                      </staff>
                      <staff xml:id="m20s2" n="2">
                         <layer xml:id="m20s2l1" n="1">
-                           <note xml:id="m20s2l1n1" dur="4" pname="e" oct="4" stem.dir="up" />
-                           <note xml:id="m20s2l1n2" dots="1" dur="4" pname="d" oct="4" stem.dir="up">
+                           <note xml:id="m20s2l1n1" dur="4" pname="e" oct="4" />
+                           <note xml:id="m20s2l1n2" dots="1" dur="4" pname="d" oct="4">
                               <accid xml:id="m20s2l1a1" accid="s" />
                            </note>
-                           <note xml:id="m20s2l1n3" type="mscore-beam-none" dur="8" pname="b" oct="3" stem.dir="up" />
+                           <note xml:id="m20s2l1n3" type="mscore-beam-none" dur="8" pname="b" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -1296,7 +1296,7 @@
                      </staff>
                      <staff xml:id="m21s2" n="2">
                         <layer xml:id="m21s2l1" n="1">
-                           <note xml:id="m21s2l1n1" dots="1" dur="2" pname="f" oct="4" stem.dir="up">
+                           <note xml:id="m21s2l1n1" dots="1" dur="2" pname="f" oct="4">
                               <accid xml:id="m21s2l1a1" accid="s" />
                            </note>
                         </layer>
@@ -1356,8 +1356,8 @@
                      </staff>
                      <staff xml:id="m22s2" n="2">
                         <layer xml:id="m22s2l1" n="1">
-                           <note xml:id="m22s2l1n1" dur="4" pname="e" oct="4" stem.dir="up" />
-                           <note xml:id="m22s2l1n2" dur="4" pname="d" oct="4" stem.dir="up">
+                           <note xml:id="m22s2l1n1" dur="4" pname="e" oct="4" />
+                           <note xml:id="m22s2l1n2" dur="4" pname="d" oct="4">
                               <accid xml:id="m22s2l1a1" accid="s" />
                            </note>
                            <beam xml:id="m22s2l1b1" type="mscore-begin">
@@ -1421,7 +1421,7 @@
                      </staff>
                      <staff xml:id="m23s2" n="2">
                         <layer xml:id="m23s2l1" n="1">
-                           <note xml:id="m23s2l1n1" dots="1" dur="2" pname="c" oct="4" stem.dir="up" />
+                           <note xml:id="m23s2l1n1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
                   </measure>
@@ -1443,12 +1443,12 @@
                                  <accid xml:id="m24s1l1a2" accid="f" />
                               </note>
                            </beam>
-                           <note xml:id="m24s1l1n6" dur="4" pname="g" oct="4" stem.dir="up" />
+                           <note xml:id="m24s1l1n6" dur="4" pname="g" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m24s2" n="2">
                         <layer xml:id="m24s2l1" n="1">
-                           <note xml:id="m24s2l1n1" dots="1" dur="2" pname="c" oct="4" stem.dir="up" />
+                           <note xml:id="m24s2l1n1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
                   </measure>
