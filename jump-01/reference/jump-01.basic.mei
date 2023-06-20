@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-06-20" type="encoding-date">2023-06-20</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-tk4cwx">
+         <appInfo xml:id="appinfo-jlwtur">
+            <application xml:id="application-1ta607b" isodate="2023-06-20T14:06:13" version="3.15.0">
+               <name xml:id="name-1g3u1qr">Verovio</name>
+               <p xml:id="p-1oykjg3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1aoatx3">
+            <score xml:id="s6pvtef">
+               <scoreDef xml:id="sjx6aza">
+                  <pgHead xml:id="p1xkl457">
+                     <rend xml:id="r3fs5cm" halign="center" valign="top">Jumps</rend>
+                     <rend xml:id="riasock" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1fmuorn" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1xpnuht">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="lccoi8c">Flute</label>
+                        <labelAbbr xml:id="lmcpb1u">Fl.</labelAbbr>
+                        <instrDef xml:id="i1f142h" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="suiwmoj">
+                  <pb xml:id="p1hytky" />
+                  <measure xml:id="m1cpt060" n="1">
+                     <staff xml:id="s1xmis1" n="1">
+                        <layer xml:id="l7ujid0" n="1">
+                           <note xml:id="n1rjxqjr" dur="1" oct="4" pname="c" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1nlcy8b" n="2">
+                     <staff xml:id="squwrm2" n="1">
+                        <layer xml:id="l1s9e8u4" n="1">
+                           <note xml:id="n1gxelqb" dur="1" oct="4" pname="d" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1oenr7t" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r56090s" halign="right">D.C. al Double Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="miv3hdw" n="3">
+                     <staff xml:id="s9up4w5" n="1">
+                        <layer xml:id="l1lpsl0r" n="1">
+                           <note xml:id="n17mahpf" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1osiu69" n="4">
+                     <staff xml:id="s1ihzzbh" n="1">
+                        <layer xml:id="l1mg0egj" n="1">
+                           <note xml:id="n1vbbwrd" dur="1" oct="4" pname="d" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1nxvkaw" n="5">
+                     <staff xml:id="sv2wpxe" n="1">
+                        <layer xml:id="l11emeg4" n="1">
+                           <note xml:id="n12885j9" dur="1" oct="4" pname="c" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="ds3p3vt" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="r1274r81" halign="center" fontfam="smufl" fontstyle="normal">𝄋</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="msi9kxm" n="6">
+                     <staff xml:id="s58zjf" n="1">
+                        <layer xml:id="l1j53lqn" n="1">
+                           <note xml:id="n1yv721v" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m18nunhv" n="7">
+                     <staff xml:id="szg0bv8" n="1">
+                        <layer xml:id="l89iar8" n="1">
+                           <note xml:id="n150l6t4" dur="1" oct="4" pname="g" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1iwqizm" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rouf0mp" halign="right">To Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mhiyw66" n="8">
+                     <staff xml:id="s1ly6itx" n="1">
+                        <layer xml:id="lkvqu5e" n="1">
+                           <note xml:id="n14i4ukv" dur="1" oct="4" pname="b" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1pjpecv" n="9">
+                     <staff xml:id="s1b500og" n="1">
+                        <layer xml:id="lo78pl7" n="1">
+                           <note xml:id="nqi84r8" dur="1" oct="5" pname="c" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1ms4z3a" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rnghn79" halign="right">D.S. al Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m75czua" n="10">
+                     <staff xml:id="suh4eci" n="1">
+                        <layer xml:id="l16f5wjx" n="1">
+                           <note xml:id="n10zebln" dur="1" oct="4" pname="g" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1n9q9l8" n="11">
+                     <staff xml:id="sfn46rp" n="1">
+                        <layer xml:id="l31u3vk" n="1">
+                           <note xml:id="n16cydle" dur="1" oct="5" pname="d" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="du6j9ow" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="rai334g" halign="center" fontfam="smufl" fontstyle="normal">𝄌</rend>
+                     </dir>
+                  </measure>
+                  <sb xml:id="skmv895" />
+                  <measure xml:id="m1exj7" right="end" n="12">
+                     <staff xml:id="sdf7oso" n="1">
+                        <layer xml:id="lc0yc7f" n="1">
+                           <note xml:id="n191wh74" dur="1" oct="5" pname="c" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
