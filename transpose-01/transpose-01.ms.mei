@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-15-18:44:59" />
+            <date isodate="2023-06-21-09:39:09" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -66,21 +66,21 @@
                   <measure xml:id="m1" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <note xml:id="m1s1l1n1" dur="2" pname="c" oct="5" />
-                           <note xml:id="m1s1l1n2" dur="4" pname="g" oct="4" />
+                           <note xml:id="s1l1_t0_1" dur="2" pname="c" oct="5" />
+                           <note xml:id="s1l1_t1_2" dur="4" pname="g" oct="4" />
                            <beam xml:id="m1s1l1b1">
-                              <note xml:id="m1s1l1n3" dur="8" pname="a" oct="4" />
-                              <note xml:id="m1s1l1n4" dur="8" pname="b" oct="4" />
+                              <note xml:id="s1l1_t3_4" dur="8" pname="a" oct="4" />
+                              <note xml:id="s1l1_t7_8" dur="8" pname="b" oct="4" />
                            </beam>
                         </layer>
                      </staff>
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
-                           <note xml:id="m1s2l1n1" dur="2" pname="d" oct="5" />
-                           <note xml:id="m1s2l1n2" dur="4" pname="a" oct="4" />
+                           <note xml:id="s2l1_t0_1" dur="2" pname="d" oct="5" />
+                           <note xml:id="s2l1_t1_2" dur="4" pname="a" oct="4" />
                            <beam xml:id="m1s2l1b1">
-                              <note xml:id="m1s2l1n3" dur="8" pname="b" oct="4" />
-                              <note xml:id="m1s2l1n4" dur="8" pname="c" oct="5">
+                              <note xml:id="s2l1_t3_4" dur="8" pname="b" oct="4" />
+                              <note xml:id="s2l1_t7_8" dur="8" pname="c" oct="5">
                                  <accid xml:id="m1s2l1a1" accid.ges="s" />
                               </note>
                            </beam>
@@ -88,11 +88,11 @@
                      </staff>
                      <staff xml:id="m1s3" n="3">
                         <layer xml:id="m1s3l1" n="1">
-                           <note xml:id="m1s3l1n1" dur="2" pname="g" oct="5" />
-                           <note xml:id="m1s3l1n2" dur="4" pname="d" oct="5" />
+                           <note xml:id="s3l1_t0_1" dur="2" pname="g" oct="5" />
+                           <note xml:id="s3l1_t1_2" dur="4" pname="d" oct="5" />
                            <beam xml:id="m1s3l1b1">
-                              <note xml:id="m1s3l1n3" dur="8" pname="e" oct="5" />
-                              <note xml:id="m1s3l1n4" dur="8" pname="f" oct="5">
+                              <note xml:id="s3l1_t3_4" dur="8" pname="e" oct="5" />
+                              <note xml:id="s3l1_t7_8" dur="8" pname="f" oct="5">
                                  <accid xml:id="m1s3l1a1" accid.ges="s" />
                               </note>
                            </beam>
@@ -100,11 +100,11 @@
                      </staff>
                      <staff xml:id="m1s4" n="4">
                         <layer xml:id="m1s4l1" n="1">
-                           <note xml:id="m1s4l1n1" dur="2" pname="d" oct="5" />
-                           <note xml:id="m1s4l1n2" dur="4" pname="a" oct="4" />
+                           <note xml:id="s4l1_t0_1" dur="2" pname="d" oct="5" />
+                           <note xml:id="s4l1_t1_2" dur="4" pname="a" oct="4" />
                            <beam xml:id="m1s4l1b1">
-                              <note xml:id="m1s4l1n3" dur="8" pname="b" oct="4" />
-                              <note xml:id="m1s4l1n4" dur="8" pname="c" oct="5">
+                              <note xml:id="s4l1_t3_4" dur="8" pname="b" oct="4" />
+                              <note xml:id="s4l1_t7_8" dur="8" pname="c" oct="5">
                                  <accid xml:id="m1s4l1a1" accid.ges="s" />
                               </note>
                            </beam>
@@ -112,11 +112,11 @@
                      </staff>
                      <staff xml:id="m1s5" n="5">
                         <layer xml:id="m1s5l1" n="1">
-                           <note xml:id="m1s5l1n1" dur="2" pname="c" oct="4" />
-                           <note xml:id="m1s5l1n2" dur="4" pname="g" oct="3" />
+                           <note xml:id="s5l1_t0_1" dur="2" pname="c" oct="4" />
+                           <note xml:id="s5l1_t1_2" dur="4" pname="g" oct="3" />
                            <beam xml:id="m1s5l1b1">
-                              <note xml:id="m1s5l1n3" dur="8" pname="a" oct="3" />
-                              <note xml:id="m1s5l1n4" dur="8" pname="b" oct="3" />
+                              <note xml:id="s5l1_t3_4" dur="8" pname="a" oct="3" />
+                              <note xml:id="s5l1_t7_8" dur="8" pname="b" oct="3" />
                            </beam>
                         </layer>
                      </staff>
@@ -125,26 +125,26 @@
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
                            <beam xml:id="m2s1l1b1">
-                              <note xml:id="m2s1l1n1" dur="8" pname="c" oct="5" />
-                              <note xml:id="m2s1l1n2" dur="8" pname="b" oct="4" />
-                              <note xml:id="m2s1l1n3" dur="8" pname="a" oct="4">
+                              <note xml:id="s1l1_t1_1" dur="8" pname="c" oct="5" />
+                              <note xml:id="s1l1_t9_8" dur="8" pname="b" oct="4" />
+                              <note xml:id="s1l1_t5_4" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s1l1a1" accid="s" />
                               </note>
-                              <note xml:id="m2s1l1n4" dur="8" pname="a" oct="4">
+                              <note xml:id="s1l1_t11_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s1l1a2" accid="n" />
                               </note>
                            </beam>
                            <beam xml:id="m2s1l1b2">
-                              <note xml:id="m2s1l1n5" dur="8" pname="g" oct="4">
+                              <note xml:id="s1l1_t3_2" dur="8" pname="g" oct="4">
                                  <accid xml:id="m2s1l1a3" accid="s" />
                               </note>
-                              <note xml:id="m2s1l1n6" dur="8" pname="g" oct="4">
+                              <note xml:id="s1l1_t13_8" dur="8" pname="g" oct="4">
                                  <accid xml:id="m2s1l1a4" accid="n" />
                               </note>
-                              <note xml:id="m2s1l1n7" dur="8" pname="g" oct="4">
+                              <note xml:id="s1l1_t7_4" dur="8" pname="g" oct="4">
                                  <accid xml:id="m2s1l1a5" accid="s" />
                               </note>
-                              <note xml:id="m2s1l1n8" dur="8" pname="g" oct="4">
+                              <note xml:id="s1l1_t15_8" dur="8" pname="g" oct="4">
                                  <accid xml:id="m2s1l1a6" accid="x" />
                               </note>
                            </beam>
@@ -153,28 +153,28 @@
                      <staff xml:id="m2s2" n="2">
                         <layer xml:id="m2s2l1" n="1">
                            <beam xml:id="m2s2l1b1">
-                              <note xml:id="m2s2l1n1" dur="8" pname="d" oct="5" />
-                              <note xml:id="m2s2l1n2" dur="8" pname="c" oct="5">
+                              <note xml:id="s2l1_t1_1" dur="8" pname="d" oct="5" />
+                              <note xml:id="s2l1_t9_8" dur="8" pname="c" oct="5">
                                  <accid xml:id="m2s2l1a1" accid.ges="s" />
                               </note>
-                              <note xml:id="m2s2l1n3" dur="8" pname="b" oct="4">
+                              <note xml:id="s2l1_t5_4" dur="8" pname="b" oct="4">
                                  <accid xml:id="m2s2l1a2" accid="s" />
                               </note>
-                              <note xml:id="m2s2l1n4" dur="8" pname="b" oct="4">
+                              <note xml:id="s2l1_t11_8" dur="8" pname="b" oct="4">
                                  <accid xml:id="m2s2l1a3" accid="n" />
                               </note>
                            </beam>
                            <beam xml:id="m2s2l1b2">
-                              <note xml:id="m2s2l1n5" dur="8" pname="a" oct="4">
+                              <note xml:id="s2l1_t3_2" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s2l1a4" accid="s" />
                               </note>
-                              <note xml:id="m2s2l1n6" dur="8" pname="a" oct="4">
+                              <note xml:id="s2l1_t13_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s2l1a5" accid="n" />
                               </note>
-                              <note xml:id="m2s2l1n7" dur="8" pname="a" oct="4">
+                              <note xml:id="s2l1_t7_4" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s2l1a6" accid="s" />
                               </note>
-                              <note xml:id="m2s2l1n8" dur="8" pname="a" oct="4">
+                              <note xml:id="s2l1_t15_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s2l1a7" accid="x" />
                               </note>
                            </beam>
@@ -183,28 +183,28 @@
                      <staff xml:id="m2s3" n="3">
                         <layer xml:id="m2s3l1" n="1">
                            <beam xml:id="m2s3l1b1">
-                              <note xml:id="m2s3l1n1" dur="8" pname="g" oct="5" />
-                              <note xml:id="m2s3l1n2" dur="8" pname="f" oct="5">
+                              <note xml:id="s3l1_t1_1" dur="8" pname="g" oct="5" />
+                              <note xml:id="s3l1_t9_8" dur="8" pname="f" oct="5">
                                  <accid xml:id="m2s3l1a1" accid.ges="s" />
                               </note>
-                              <note xml:id="m2s3l1n3" dur="8" pname="e" oct="5">
+                              <note xml:id="s3l1_t5_4" dur="8" pname="e" oct="5">
                                  <accid xml:id="m2s3l1a2" accid="s" />
                               </note>
-                              <note xml:id="m2s3l1n4" dur="8" pname="e" oct="5">
+                              <note xml:id="s3l1_t11_8" dur="8" pname="e" oct="5">
                                  <accid xml:id="m2s3l1a3" accid="n" />
                               </note>
                            </beam>
                            <beam xml:id="m2s3l1b2">
-                              <note xml:id="m2s3l1n5" dur="8" pname="d" oct="5">
+                              <note xml:id="s3l1_t3_2" dur="8" pname="d" oct="5">
                                  <accid xml:id="m2s3l1a4" accid="s" />
                               </note>
-                              <note xml:id="m2s3l1n6" dur="8" pname="d" oct="5">
+                              <note xml:id="s3l1_t13_8" dur="8" pname="d" oct="5">
                                  <accid xml:id="m2s3l1a5" accid="n" />
                               </note>
-                              <note xml:id="m2s3l1n7" dur="8" pname="d" oct="5">
+                              <note xml:id="s3l1_t7_4" dur="8" pname="d" oct="5">
                                  <accid xml:id="m2s3l1a6" accid="s" />
                               </note>
-                              <note xml:id="m2s3l1n8" dur="8" pname="d" oct="5">
+                              <note xml:id="s3l1_t15_8" dur="8" pname="d" oct="5">
                                  <accid xml:id="m2s3l1a7" accid="x" />
                               </note>
                            </beam>
@@ -213,28 +213,28 @@
                      <staff xml:id="m2s4" n="4">
                         <layer xml:id="m2s4l1" n="1">
                            <beam xml:id="m2s4l1b1">
-                              <note xml:id="m2s4l1n1" dur="8" pname="d" oct="5" />
-                              <note xml:id="m2s4l1n2" dur="8" pname="c" oct="5">
+                              <note xml:id="s4l1_t1_1" dur="8" pname="d" oct="5" />
+                              <note xml:id="s4l1_t9_8" dur="8" pname="c" oct="5">
                                  <accid xml:id="m2s4l1a1" accid.ges="s" />
                               </note>
-                              <note xml:id="m2s4l1n3" dur="8" pname="b" oct="4">
+                              <note xml:id="s4l1_t5_4" dur="8" pname="b" oct="4">
                                  <accid xml:id="m2s4l1a2" accid="s" />
                               </note>
-                              <note xml:id="m2s4l1n4" dur="8" pname="b" oct="4">
+                              <note xml:id="s4l1_t11_8" dur="8" pname="b" oct="4">
                                  <accid xml:id="m2s4l1a3" accid="n" />
                               </note>
                            </beam>
                            <beam xml:id="m2s4l1b2">
-                              <note xml:id="m2s4l1n5" dur="8" pname="a" oct="4">
+                              <note xml:id="s4l1_t3_2" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s4l1a4" accid="s" />
                               </note>
-                              <note xml:id="m2s4l1n6" dur="8" pname="a" oct="4">
+                              <note xml:id="s4l1_t13_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s4l1a5" accid="n" />
                               </note>
-                              <note xml:id="m2s4l1n7" dur="8" pname="a" oct="4">
+                              <note xml:id="s4l1_t7_4" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s4l1a6" accid="s" />
                               </note>
-                              <note xml:id="m2s4l1n8" dur="8" pname="a" oct="4">
+                              <note xml:id="s4l1_t15_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m2s4l1a7" accid="x" />
                               </note>
                            </beam>
@@ -243,26 +243,26 @@
                      <staff xml:id="m2s5" n="5">
                         <layer xml:id="m2s5l1" n="1">
                            <beam xml:id="m2s5l1b1">
-                              <note xml:id="m2s5l1n1" dur="8" pname="c" oct="4" />
-                              <note xml:id="m2s5l1n2" dur="8" pname="b" oct="3" />
-                              <note xml:id="m2s5l1n3" dur="8" pname="a" oct="3">
+                              <note xml:id="s5l1_t1_1" dur="8" pname="c" oct="4" />
+                              <note xml:id="s5l1_t9_8" dur="8" pname="b" oct="3" />
+                              <note xml:id="s5l1_t5_4" dur="8" pname="a" oct="3">
                                  <accid xml:id="m2s5l1a1" accid="s" />
                               </note>
-                              <note xml:id="m2s5l1n4" dur="8" pname="a" oct="3">
+                              <note xml:id="s5l1_t11_8" dur="8" pname="a" oct="3">
                                  <accid xml:id="m2s5l1a2" accid="n" />
                               </note>
                            </beam>
                            <beam xml:id="m2s5l1b2">
-                              <note xml:id="m2s5l1n5" dur="8" pname="g" oct="3">
+                              <note xml:id="s5l1_t3_2" dur="8" pname="g" oct="3">
                                  <accid xml:id="m2s5l1a3" accid="s" />
                               </note>
-                              <note xml:id="m2s5l1n6" dur="8" pname="g" oct="3">
+                              <note xml:id="s5l1_t13_8" dur="8" pname="g" oct="3">
                                  <accid xml:id="m2s5l1a4" accid="n" />
                               </note>
-                              <note xml:id="m2s5l1n7" dur="8" pname="g" oct="3">
+                              <note xml:id="s5l1_t7_4" dur="8" pname="g" oct="3">
                                  <accid xml:id="m2s5l1a5" accid="s" />
                               </note>
-                              <note xml:id="m2s5l1n8" dur="8" pname="g" oct="3">
+                              <note xml:id="s5l1_t15_8" dur="8" pname="g" oct="3">
                                  <accid xml:id="m2s5l1a6" accid="x" />
                               </note>
                            </beam>
@@ -272,50 +272,50 @@
                   <measure xml:id="m3" right="end" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <note xml:id="m3s1l1n1" dur="2" pname="c" oct="5">
+                           <note xml:id="s1l1_t2_1" dur="2" pname="c" oct="5">
                               <accid xml:id="m3s1l1a1" accid="f" />
                            </note>
-                           <note xml:id="m3s1l1n2" dur="2" pname="c" oct="5">
+                           <note xml:id="s1l1_t5_2" dur="2" pname="c" oct="5">
                               <accid xml:id="m3s1l1a2" accid="n" />
                            </note>
                         </layer>
                      </staff>
                      <staff xml:id="m3s2" n="2">
                         <layer xml:id="m3s2l1" n="1">
-                           <note xml:id="m3s2l1n1" dur="2" pname="d" oct="5">
+                           <note xml:id="s2l1_t2_1" dur="2" pname="d" oct="5">
                               <accid xml:id="m3s2l1a1" accid="f" />
                            </note>
-                           <note xml:id="m3s2l1n2" dur="2" pname="d" oct="5">
+                           <note xml:id="s2l1_t5_2" dur="2" pname="d" oct="5">
                               <accid xml:id="m3s2l1a2" accid="n" />
                            </note>
                         </layer>
                      </staff>
                      <staff xml:id="m3s3" n="3">
                         <layer xml:id="m3s3l1" n="1">
-                           <note xml:id="m3s3l1n1" dur="2" pname="g" oct="5">
+                           <note xml:id="s3l1_t2_1" dur="2" pname="g" oct="5">
                               <accid xml:id="m3s3l1a1" accid="f" />
                            </note>
-                           <note xml:id="m3s3l1n2" dur="2" pname="g" oct="5">
+                           <note xml:id="s3l1_t5_2" dur="2" pname="g" oct="5">
                               <accid xml:id="m3s3l1a2" accid="n" />
                            </note>
                         </layer>
                      </staff>
                      <staff xml:id="m3s4" n="4">
                         <layer xml:id="m3s4l1" n="1">
-                           <note xml:id="m3s4l1n1" dur="2" pname="d" oct="5">
+                           <note xml:id="s4l1_t2_1" dur="2" pname="d" oct="5">
                               <accid xml:id="m3s4l1a1" accid="f" />
                            </note>
-                           <note xml:id="m3s4l1n2" dur="2" pname="d" oct="5">
+                           <note xml:id="s4l1_t5_2" dur="2" pname="d" oct="5">
                               <accid xml:id="m3s4l1a2" accid="n" />
                            </note>
                         </layer>
                      </staff>
                      <staff xml:id="m3s5" n="5">
                         <layer xml:id="m3s5l1" n="1">
-                           <note xml:id="m3s5l1n1" dur="2" pname="c" oct="4">
+                           <note xml:id="s5l1_t2_1" dur="2" pname="c" oct="4">
                               <accid xml:id="m3s5l1a1" accid="f" />
                            </note>
-                           <note xml:id="m3s5l1n2" dur="2" pname="c" oct="4">
+                           <note xml:id="s5l1_t5_2" dur="2" pname="c" oct="4">
                               <accid xml:id="m3s5l1a2" accid="n" />
                            </note>
                         </layer>
