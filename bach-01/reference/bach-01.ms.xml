@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="4.10">
-  <programVersion>4.1.0</programVersion>
-  <programRevision></programRevision>
+<museScore version="4.00">
+  <programVersion>4.0.2</programVersion>
+  <programRevision>dbe7c6d</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -29,7 +29,7 @@
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
-        <bracket type="1" span="2" col="0" visible="1"/>
+        <bracket type="1" span="2" col="0"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <Staff id="2">
@@ -39,7 +39,7 @@
         </Staff>
       <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName><font face="Times New Roman"></font>Piano</longName>
+        <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -73,31 +73,24 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <bottomGap>14.1134</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>title</style>
-          <family>Times New Roman</family>
-          <text><font face="Times New Roman"></font>Fugue No. 2 in 3 voices in C Minor</text>
+          <text>Fugue No. 2 in 3 voices in C Minor</text>
           </Text>
         <Text>
           <style>subtitle</style>
-          <family>Times New Roman</family>
-          <text><font face="Times New Roman"></font>from “Das Wohltemperierte Klavier” Book I
+          <text>from “Das Wohltemperierte Klavier” Book I
 BWV 847</text>
           </Text>
         <Text>
           <style>composer</style>
-          <family>Times New Roman</family>
-          <text><font face="Times New Roman"></font>Johann Sebastian Bach
+          <text>Johann Sebastian Bach
 (1685 - 1750)</text>
           </Text>
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <concertKey>-3</concertKey>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -106,10 +99,7 @@ BWV 847</text>
           <Tempo>
             <tempo>1.2</tempo>
             <visible>0</visible>
-            <family>Times New Roman</family>
-            <size>9.99937</size>
-            <italic>1</italic>
-            <text><font size="9.99937"></font><font face="Times New Roman"></font><i>72</i></text>
+            <text>72</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -130,9 +120,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -155,6 +142,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -219,9 +209,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -258,6 +245,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -318,6 +308,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -351,9 +344,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -363,6 +353,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -377,9 +370,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -387,9 +377,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -493,9 +480,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -517,6 +501,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -551,9 +538,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -614,6 +598,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -621,6 +608,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -650,6 +640,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -715,6 +708,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -791,6 +787,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -844,6 +843,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -877,9 +879,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -917,6 +916,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1014,6 +1016,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1046,6 +1051,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1067,6 +1075,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>80</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1128,6 +1139,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1156,9 +1170,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1192,6 +1203,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1227,6 +1241,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1292,6 +1309,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1324,9 +1344,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1392,9 +1409,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1436,6 +1450,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1456,6 +1473,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1500,6 +1520,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1529,6 +1552,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1591,6 +1617,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1623,6 +1652,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1630,6 +1662,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1659,6 +1694,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1705,6 +1743,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1726,6 +1767,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1733,6 +1777,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1754,6 +1801,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1803,9 +1853,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1817,6 +1864,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1838,6 +1888,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1845,6 +1898,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1866,9 +1922,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1921,9 +1974,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1952,9 +2002,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1962,9 +2009,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1990,6 +2034,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2074,6 +2121,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2107,9 +2157,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2121,6 +2168,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2131,9 +2181,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2265,6 +2312,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2337,9 +2387,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -2376,6 +2423,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2399,9 +2449,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -2426,9 +2473,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2436,6 +2480,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -2520,9 +2567,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -2589,9 +2633,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2599,6 +2640,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2717,9 +2761,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2748,9 +2789,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -2782,6 +2820,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -2796,6 +2837,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2821,6 +2865,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2874,9 +2921,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -2899,6 +2943,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -2955,6 +3002,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2990,6 +3040,9 @@ BWV 847</text>
             <staffMove>1</staffMove>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3053,9 +3106,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3092,6 +3142,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3115,6 +3168,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3143,9 +3199,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3178,6 +3231,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3192,9 +3248,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3217,6 +3270,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3303,23 +3359,23 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -3388,6 +3444,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3417,6 +3476,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3443,6 +3505,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3450,6 +3515,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3544,6 +3612,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3627,6 +3698,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3634,6 +3708,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3665,9 +3742,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3726,6 +3800,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3741,6 +3818,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3783,9 +3863,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3886,6 +3963,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3926,6 +4006,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3933,6 +4016,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4000,6 +4086,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4022,6 +4111,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4051,9 +4143,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4110,9 +4199,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4212,6 +4298,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4250,9 +4339,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4284,6 +4370,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4298,9 +4387,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4397,6 +4483,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4448,18 +4537,13 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1</tempo>
-            <visible>0</visible>
-            <family>Times New Roman</family>
-            <size>9.99937</size>
-            <italic>1</italic>
-            <text><i><font size="9.99937"></font><font face="Times New Roman"></font>60</i></text>
-            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4467,14 +4551,6 @@ BWV 847</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>0.75</tempo>
-            <visible>0</visible>
-            <family>Times New Roman</family>
-            <size>9.99937</size>
-            <italic>1</italic>
-            <text><i><font size="9.99937"></font><font face="Times New Roman"></font>45</i></text>
-            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4482,14 +4558,6 @@ BWV 847</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>0.5</tempo>
-            <visible>0</visible>
-            <family>Times New Roman</family>
-            <size>9.99937</size>
-            <italic>1</italic>
-            <text><i><font size="9.99937"></font><font face="Times New Roman"></font>30</i></text>
-            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -4497,9 +4565,6 @@ BWV 847</text>
               <tpc>14</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4512,9 +4577,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4554,9 +4616,6 @@ BWV 847</text>
     <Staff id="2">
       <Measure>
         <voice>
-          <KeySig>
-            <concertKey>-3</concertKey>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -4623,9 +4682,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4648,6 +4704,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4706,9 +4765,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4745,6 +4801,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4770,6 +4829,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4784,9 +4846,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4794,9 +4853,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -4919,6 +4975,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4940,6 +4999,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4961,6 +5023,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4996,6 +5061,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5021,6 +5089,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5054,6 +5125,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5078,6 +5152,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5085,6 +5162,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5099,6 +5179,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5120,6 +5203,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5127,6 +5213,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5210,6 +5299,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5235,6 +5327,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5293,6 +5388,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5300,6 +5398,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5421,6 +5522,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5428,6 +5532,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5456,6 +5563,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5478,6 +5588,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5501,6 +5614,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5508,9 +5624,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -5525,6 +5638,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5560,6 +5676,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5596,6 +5715,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5603,9 +5725,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -5628,6 +5747,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5730,9 +5852,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -5740,9 +5859,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -5768,6 +5884,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -5798,9 +5917,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -5808,6 +5924,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5894,6 +6013,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5956,6 +6078,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5991,6 +6116,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6031,6 +6159,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6052,6 +6183,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -6059,6 +6193,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6092,6 +6229,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6138,6 +6278,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -6173,6 +6316,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6194,6 +6340,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6227,6 +6376,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6259,6 +6411,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6266,6 +6421,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -6308,6 +6466,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6341,6 +6502,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6406,9 +6570,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -6416,9 +6577,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -6440,6 +6598,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6472,6 +6633,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6493,6 +6657,9 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6514,9 +6681,6 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -6557,6 +6721,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6571,9 +6738,6 @@ BWV 847</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -6654,6 +6818,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6675,6 +6842,9 @@ BWV 847</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6685,6 +6855,9 @@ BWV 847</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
