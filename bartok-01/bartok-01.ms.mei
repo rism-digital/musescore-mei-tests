@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:36:48" />
+            <date isodate="2023-06-22-10:28:33" />
             <availability>
                <distributor>©</distributor>
             </availability>
@@ -98,7 +98,8 @@
                            <mRest xml:id="m1s2l1z1" />
                         </layer>
                      </staff>
-                     <dynam xml:id="m1dn1" label="p" startid="#s1l1_t0_1">p</dynam>
+                     <tempo xml:id="m1dn1" type="mscore-infer-from-text" startid="#s1l1_t0_1" midi.bpm="126.000000">Andante <rend glyph.auth="smufl"></rend> = 126</tempo>
+                     <dynam xml:id="m1dn2" label="p" startid="#s1l1_t0_1">p</dynam>
                   </measure>
                   <measure xml:id="m2" n="2">
                      <staff xml:id="m2s1" n="1">

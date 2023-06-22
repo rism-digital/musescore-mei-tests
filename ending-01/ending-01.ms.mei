@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:37:38" />
+            <date isodate="2023-06-22-10:29:22" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -57,6 +57,8 @@
                            <note xml:id="s2l1_t0_1" dur="1" pname="b" oct="2" />
                         </layer>
                      </staff>
+                     <tempo xml:id="m1dn1" type="mscore-infer-from-text" startid="#s1l1_t0_1" midi.bpm="320.000000">
+                        <rend glyph.auth="smufl"></rend> = 160</tempo>
                   </measure>
                   <ending xml:id="e1" label="1." type="mscore-ending-1">
                      <measure xml:id="m2" type="mscore-repeat-2" right="rptend" n="2">

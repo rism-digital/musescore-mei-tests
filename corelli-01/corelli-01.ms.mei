@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:37:22" />
+            <date isodate="2023-06-22-10:29:06" />
             <availability>
                <distributor>CC BY-NC-SA 4.0; CCARH; DCML</distributor>
             </availability>
@@ -98,6 +98,8 @@
                            <note xml:id="s4l1_t7_8" dur="8" pname="a" oct="3" />
                         </layer>
                      </staff>
+                     <tempo xml:id="m1dn1" type="mscore-infer-from-text" startid="#s1l1_t0_1" midi.bpm="40.000000">
+                        <rend glyph.auth="smufl"></rend> = 40</tempo>
                   </measure>
                   <measure xml:id="m2" n="2">
                      <staff xml:id="m2s1" n="1">
