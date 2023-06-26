@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-22-15:11:46" />
+            <date isodate="2023-06-26-15:13:39" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -51,8 +51,8 @@
                               <note xml:id="s1l2_t1_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l2_t3_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m1s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t1_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m1s1l2b2">
+                              <note xml:id="s1l2_t1_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l2_t3_8" dur="8" pname="g" oct="4" />
                            </beam>
                            <beam xml:id="m1s1l2b3">
@@ -64,8 +64,8 @@
                                  <accid xml:id="m1s1l2a2" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m1s1l2b4" type="mscore-begin">
-                              <note xml:id="s1l2_t3_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m1s1l2b4">
+                              <note xml:id="s1l2_t3_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l2_t7_8" dur="8" pname="d" oct="5" />
                            </beam>
                         </layer>
@@ -87,8 +87,8 @@
                               <note xml:id="s1l2_t9_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l2_t19_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m2s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t5_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m2s1l2b2">
+                              <note xml:id="s1l2_t5_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l2_t11_8" dur="8" pname="d" oct="5" />
                            </beam>
                            <beam xml:id="m2s1l2b3">
@@ -120,8 +120,8 @@
                                  <accid xml:id="m3s1l1a1" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m3s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t9_4" dur="8" pname="g" oct="5" />
+                           <beam xml:id="m3s1l1b2">
+                              <note xml:id="s1l1_t9_4" type="mscore-beam-begin" dur="8" pname="g" oct="5" />
                               <note xml:id="s1l1_t19_8" dur="8" pname="c" oct="5" />
                            </beam>
                            <beam xml:id="m3s1l1b3">
@@ -133,8 +133,8 @@
                                  <accid xml:id="m3s1l1a3" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m3s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t11_4" dur="8" pname="g" oct="5" />
+                           <beam xml:id="m3s1l1b4">
+                              <note xml:id="s1l1_t11_4" type="mscore-beam-begin" dur="8" pname="g" oct="5" />
                               <note xml:id="s1l1_t23_8" dur="8" pname="a" oct="5" />
                            </beam>
                         </layer>
@@ -183,8 +183,8 @@
                                  <accid xml:id="m4s1l1a1" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m4s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t13_4" dur="8" pname="g" oct="5" />
+                           <beam xml:id="m4s1l1b2">
+                              <note xml:id="s1l1_t13_4" type="mscore-beam-begin" dur="8" pname="g" oct="5" />
                               <note xml:id="s1l1_t27_8" dur="8" pname="a" oct="5" />
                            </beam>
                            <beam xml:id="m4s1l1b3">
@@ -242,8 +242,8 @@
                               </note>
                               <note xml:id="s1l1_t67_16" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m5s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t17_4" dur="8" pname="e" oct="5">
+                           <beam xml:id="m5s1l1b2">
+                              <note xml:id="s1l1_t17_4" type="mscore-beam-begin" dur="8" pname="e" oct="5">
                                  <accid xml:id="m5s1l1a3" accid.ges="f" />
                               </note>
                               <note xml:id="s1l1_t35_8" dur="8" pname="g" oct="4" />
@@ -257,8 +257,8 @@
                                  <accid xml:id="m5s1l1a5" accid.ges="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m5s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t19_4" dur="8" pname="f" oct="5" />
+                           <beam xml:id="m5s1l1b4">
+                              <note xml:id="s1l1_t19_4" type="mscore-beam-begin" dur="8" pname="f" oct="5" />
                               <note xml:id="s1l1_t39_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m5s1l1a6" accid="n" />
                               </note>
@@ -309,8 +309,8 @@
                               <note xml:id="s1l1_t41_8" dur="16" pname="g" oct="5" />
                               <note xml:id="s1l1_t83_16" dur="16" pname="f" oct="5" />
                            </beam>
-                           <beam xml:id="m6s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t21_4" dur="8" pname="g" oct="5" />
+                           <beam xml:id="m6s1l1b2">
+                              <note xml:id="s1l1_t21_4" type="mscore-beam-begin" dur="8" pname="g" oct="5" />
                               <note xml:id="s1l1_t43_8" dur="8" pname="b" oct="4">
                                  <accid xml:id="m6s1l1a2" accid="n" />
                               </note>
@@ -352,8 +352,8 @@
                                  <accid xml:id="m6s1l2a5" accid.ges="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m6s1l2b4" type="mscore-begin">
-                              <note xml:id="s1l2_t23_4" dur="8" pname="d" oct="4" />
+                           <beam xml:id="m6s1l2b4">
+                              <note xml:id="s1l2_t23_4" type="mscore-beam-begin" dur="8" pname="d" oct="4" />
                               <note xml:id="s1l2_t47_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l2_t95_16" dur="16" pname="b" oct="4">
                                  <accid xml:id="m6s1l2a6" accid="n" />
@@ -416,8 +416,8 @@
                               <note xml:id="s2l1_t49_8" dur="16" pname="c" oct="4" />
                               <note xml:id="s2l1_t99_16" dur="16" pname="b" oct="3" />
                            </beam>
-                           <beam xml:id="m7s2l1b2" type="mscore-begin">
-                              <note xml:id="s2l1_t25_4" dur="8" pname="c" oct="4" />
+                           <beam xml:id="m7s2l1b2">
+                              <note xml:id="s2l1_t25_4" type="mscore-beam-begin" dur="8" pname="c" oct="4" />
                               <note xml:id="s2l1_t51_8" dur="8" pname="g" oct="3" />
                            </beam>
                            <beam xml:id="m7s2l1b3">
@@ -429,8 +429,8 @@
                                  <accid xml:id="m7s2l1a2" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m7s2l1b4" type="mscore-begin">
-                              <note xml:id="s2l1_t27_4" dur="8" pname="c" oct="4" />
+                           <beam xml:id="m7s2l1b4">
+                              <note xml:id="s2l1_t27_4" type="mscore-beam-begin" dur="8" pname="c" oct="4" />
                               <note xml:id="s2l1_t55_8" dur="8" pname="d" oct="4" />
                            </beam>
                         </layer>
@@ -472,8 +472,8 @@
                                  <accid xml:id="m8s1l2a2" accid="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m8s1l2b3" type="mscore-begin">
-                              <note xml:id="s1l2_t31_4" dur="8" pname="f" oct="4" />
+                           <beam xml:id="m8s1l2b3">
+                              <note xml:id="s1l2_t31_4" type="mscore-beam-begin" dur="8" pname="f" oct="4" />
                               <note xml:id="s1l2_t63_8" dur="8" pname="d" oct="4" />
                            </beam>
                         </layer>
@@ -485,8 +485,8 @@
                               <note xml:id="s2l1_t57_8" dur="16" pname="c" oct="4" />
                               <note xml:id="s2l1_t115_16" dur="16" pname="b" oct="3" />
                            </beam>
-                           <beam xml:id="m8s2l1b2" type="mscore-begin">
-                              <note xml:id="s2l1_t29_4" dur="8" pname="c" oct="4" />
+                           <beam xml:id="m8s2l1b2">
+                              <note xml:id="s2l1_t29_4" type="mscore-beam-begin" dur="8" pname="c" oct="4" />
                               <note xml:id="s2l1_t59_8" dur="8" pname="d" oct="4" />
                            </beam>
                            <beam xml:id="m8s2l1b3">
@@ -513,8 +513,8 @@
                                  <accid xml:id="m9s1l1a1" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m9s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t33_4" dur="8" pname="g" oct="5" />
+                           <beam xml:id="m9s1l1b2">
+                              <note xml:id="s1l1_t33_4" type="mscore-beam-begin" dur="8" pname="g" oct="5" />
                               <note xml:id="s1l1_t67_8" dur="8" pname="d" oct="5" />
                            </beam>
                            <note xml:id="s1l1_t17_2" dur="4" pname="e" oct="5">
@@ -536,8 +536,8 @@
                                  <accid xml:id="m9s1l2a1" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m9s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t35_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m9s1l2b2">
+                              <note xml:id="s1l2_t35_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l2_t71_8" dur="8" pname="g" oct="4" />
                            </beam>
                         </layer>
@@ -589,8 +589,8 @@
                               <note xml:id="s1l1_t73_8" dur="16" pname="f" oct="5" />
                               <note xml:id="s1l1_t147_16" dur="16" pname="e" oct="5" />
                            </beam>
-                           <beam xml:id="m10s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t37_4" dur="8" pname="f" oct="5" />
+                           <beam xml:id="m10s1l1b2">
+                              <note xml:id="s1l1_t37_4" type="mscore-beam-begin" dur="8" pname="f" oct="5" />
                               <note xml:id="s1l1_t75_8" dur="8" pname="c" oct="5" />
                            </beam>
                            <note xml:id="s1l1_t19_2" dur="4" pname="d" oct="5" />
@@ -616,8 +616,8 @@
                                  <accid xml:id="m10s1l2a5" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m10s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t39_4" dur="8" pname="b" oct="4">
+                           <beam xml:id="m10s1l2b2">
+                              <note xml:id="s1l2_t39_4" type="mscore-beam-begin" dur="8" pname="b" oct="4">
                                  <accid xml:id="m10s1l2a6" accid.ges="f" />
                               </note>
                               <note xml:id="s1l2_t79_8" dur="8" pname="f" oct="4" />
@@ -677,8 +677,8 @@
                               </note>
                               <note xml:id="s1l1_t163_16" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m11s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t41_4" dur="8" pname="e" oct="5">
+                           <beam xml:id="m11s1l1b2">
+                              <note xml:id="s1l1_t41_4" type="mscore-beam-begin" dur="8" pname="e" oct="5">
                                  <accid xml:id="m11s1l1a3" accid.ges="f" />
                               </note>
                               <note xml:id="s1l1_t83_8" dur="8" pname="b" oct="4">
@@ -692,8 +692,8 @@
                               </note>
                               <note xml:id="s1l1_t171_16" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m11s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t43_4" dur="8" pname="e" oct="5">
+                           <beam xml:id="m11s1l1b4">
+                              <note xml:id="s1l1_t43_4" type="mscore-beam-begin" dur="8" pname="e" oct="5">
                                  <accid xml:id="m11s1l1a6" accid.ges="f" />
                               </note>
                               <note xml:id="s1l1_t87_8" dur="8" pname="f" oct="5" />
@@ -766,8 +766,8 @@
                               </note>
                               <note xml:id="s1l1_t179_16" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m12s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t45_4" dur="8" pname="e" oct="5">
+                           <beam xml:id="m12s1l1b2">
+                              <note xml:id="s1l1_t45_4" type="mscore-beam-begin" dur="8" pname="e" oct="5">
                                  <accid xml:id="m12s1l1a3" accid.ges="f" />
                               </note>
                               <note xml:id="s1l1_t91_8" dur="8" pname="f" oct="5" />
@@ -810,8 +810,8 @@
                               </note>
                               <note xml:id="s2l1_t187_16" dur="16" pname="g" oct="3" />
                            </beam>
-                           <beam xml:id="m12s2l1b3" type="mscore-begin">
-                              <note xml:id="s2l1_t47_4" dur="8" pname="a" oct="3">
+                           <beam xml:id="m12s2l1b3">
+                              <note xml:id="s2l1_t47_4" type="mscore-beam-begin" dur="8" pname="a" oct="3">
                                  <accid xml:id="m12s2l1a4" accid.ges="f" />
                               </note>
                               <note xml:id="s2l1_t95_8" dur="8" pname="f" oct="3" />
@@ -1046,8 +1046,8 @@
                                  <accid xml:id="m15s1l2a1" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m15s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t57_4" dur="8" pname="g" oct="4" />
+                           <beam xml:id="m15s1l2b2">
+                              <note xml:id="s1l2_t57_4" type="mscore-beam-begin" dur="8" pname="g" oct="4" />
                               <note xml:id="s1l2_t115_8" dur="8" pname="c" oct="4" />
                            </beam>
                            <beam xml:id="m15s1l2b3">
@@ -1059,8 +1059,8 @@
                                  <accid xml:id="m15s1l2a3" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m15s1l2b4" type="mscore-begin">
-                              <note xml:id="s1l2_t59_4" dur="8" pname="g" oct="4" />
+                           <beam xml:id="m15s1l2b4">
+                              <note xml:id="s1l2_t59_4" type="mscore-beam-begin" dur="8" pname="g" oct="4" />
                               <note xml:id="s1l2_t119_8" dur="8" pname="a" oct="4" />
                            </beam>
                         </layer>
@@ -1117,8 +1117,8 @@
                                  <accid xml:id="m16s1l2a1" accid="s" />
                               </note>
                            </beam>
-                           <beam xml:id="m16s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t61_4" dur="8" pname="g" oct="4" />
+                           <beam xml:id="m16s1l2b2">
+                              <note xml:id="s1l2_t61_4" type="mscore-beam-begin" dur="8" pname="g" oct="4" />
                               <note xml:id="s1l2_t123_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m16s1l2a2" accid="n" />
                               </note>
@@ -1153,8 +1153,8 @@
                                  <accid xml:id="m16s2l1a2" accid="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m16s2l1b3" type="mscore-begin">
-                              <note xml:id="s2l1_t63_4" dur="8" pname="c" oct="3" />
+                           <beam xml:id="m16s2l1b3">
+                              <note xml:id="s2l1_t63_4" type="mscore-beam-begin" dur="8" pname="c" oct="3" />
                               <note xml:id="s2l1_t127_8" dur="8" pname="d" oct="3" />
                            </beam>
                         </layer>
@@ -1221,8 +1221,8 @@
                               </note>
                               <note xml:id="s2l1_t259_16" dur="16" pname="a" oct="3" />
                            </beam>
-                           <beam xml:id="m17s2l1b2" type="mscore-begin">
-                              <note xml:id="s2l1_t65_4" dur="8" pname="b" oct="3">
+                           <beam xml:id="m17s2l1b2">
+                              <note xml:id="s2l1_t65_4" type="mscore-beam-begin" dur="8" pname="b" oct="3">
                                  <accid xml:id="m17s2l1a2" accid.ges="f" />
                               </note>
                               <note xml:id="s2l1_t131_8" dur="8" pname="d" oct="3" />
@@ -1236,8 +1236,8 @@
                                  <accid xml:id="m17s2l1a4" accid.ges="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m17s2l1b4" type="mscore-begin">
-                              <note xml:id="s2l1_t67_4" dur="8" pname="c" oct="4" />
+                           <beam xml:id="m17s2l1b4">
+                              <note xml:id="s2l1_t67_4" type="mscore-beam-begin" dur="8" pname="c" oct="4" />
                               <note xml:id="s2l1_t135_8" dur="8" pname="e" oct="3">
                                  <accid xml:id="m17s2l1a5" accid="n" />
                               </note>
@@ -1296,8 +1296,8 @@
                               </note>
                               <note xml:id="s1l2_t283_16" dur="16" pname="d" oct="4" />
                            </beam>
-                           <beam xml:id="m18s1l2b4" type="mscore-begin">
-                              <note xml:id="s1l2_t71_4" dur="8" pname="e" oct="4">
+                           <beam xml:id="m18s1l2b4">
+                              <note xml:id="s1l2_t71_4" type="mscore-beam-begin" dur="8" pname="e" oct="4">
                                  <accid xml:id="m18s1l2a6" accid.ges="f" />
                               </note>
                               <note xml:id="s1l2_t143_8" dur="8" pname="g" oct="3" />
@@ -1311,8 +1311,8 @@
                               <note xml:id="s2l1_t137_8" dur="16" pname="d" oct="4" />
                               <note xml:id="s2l1_t275_16" dur="16" pname="c" oct="4" />
                            </beam>
-                           <beam xml:id="m18s2l1b2" type="mscore-begin">
-                              <note xml:id="s2l1_t69_4" dur="8" pname="d" oct="4" />
+                           <beam xml:id="m18s2l1b2">
+                              <note xml:id="s2l1_t69_4" type="mscore-beam-begin" dur="8" pname="d" oct="4" />
                               <note xml:id="s2l1_t139_8" dur="8" pname="f" oct="3">
                                  <accid xml:id="m18s2l1a1" accid="s" />
                               </note>
@@ -1357,8 +1357,8 @@
                                  <accid xml:id="m19s1l2a2" accid="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m19s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t73_4" dur="8" pname="f" oct="4" />
+                           <beam xml:id="m19s1l2b2">
+                              <note xml:id="s1l2_t73_4" type="mscore-beam-begin" dur="8" pname="f" oct="4" />
                               <note xml:id="s1l2_t147_8" dur="8" pname="a" oct="3">
                                  <accid xml:id="m19s1l2a3" accid="n" />
                               </note>
@@ -1370,8 +1370,8 @@
                               <note xml:id="s1l2_t149_8" dur="16" pname="g" oct="4" />
                               <note xml:id="s1l2_t299_16" dur="16" pname="f" oct="4" />
                            </beam>
-                           <beam xml:id="m19s1l2b4" type="mscore-begin">
-                              <note xml:id="s1l2_t75_4" dur="8" pname="g" oct="4" />
+                           <beam xml:id="m19s1l2b4">
+                              <note xml:id="s1l2_t75_4" type="mscore-beam-begin" dur="8" pname="g" oct="4" />
                               <note xml:id="s1l2_t151_8" dur="8" pname="b" oct="3">
                                  <accid xml:id="m19s1l2a5" accid="n" />
                               </note>
@@ -1423,8 +1423,8 @@
                               <note xml:id="s1l1_t153_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l1_t307_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m20s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t77_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m20s1l1b2">
+                              <note xml:id="s1l1_t77_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l1_t155_8" dur="8" pname="g" oct="4" />
                            </beam>
                            <beam xml:id="m20s1l1b3">
@@ -1436,8 +1436,8 @@
                                  <accid xml:id="m20s1l1a2" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m20s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t79_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m20s1l1b4">
+                              <note xml:id="s1l1_t79_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l1_t159_8" dur="8" pname="d" oct="5" />
                            </beam>
                         </layer>
@@ -1499,8 +1499,8 @@
                               <note xml:id="s1l1_t161_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l1_t323_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m21s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t81_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m21s1l1b2">
+                              <note xml:id="s1l1_t81_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l1_t163_8" dur="8" pname="d" oct="5" />
                            </beam>
                            <beam xml:id="m21s1l1b3">
@@ -1551,8 +1551,8 @@
                                  <accid xml:id="m21s2l1a2" accid="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m21s2l1b3" type="mscore-begin">
-                              <note xml:id="s2l1_t83_4" dur="8" pname="f" oct="2" />
+                           <beam xml:id="m21s2l1b3">
+                              <note xml:id="s2l1_t83_4" type="mscore-beam-begin" dur="8" pname="f" oct="2" />
                               <note xml:id="s2l1_t167_8" dur="8" pname="g" oct="2" />
                            </beam>
                         </layer>
@@ -1568,8 +1568,8 @@
                               <note xml:id="s1l1_t169_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l1_t339_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m22s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t85_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m22s1l1b2">
+                              <note xml:id="s1l1_t85_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l1_t171_8" dur="8" pname="g" oct="4" />
                            </beam>
                            <note xml:id="s1l1_t43_2" dur="4" pname="a" oct="4">
@@ -1593,8 +1593,8 @@
                                  <accid xml:id="m22s1l2a2" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m22s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t87_4" dur="8" pname="f" oct="4" />
+                           <beam xml:id="m22s1l2b2">
+                              <note xml:id="s1l2_t87_4" type="mscore-beam-begin" dur="8" pname="f" oct="4" />
                               <note xml:id="s1l2_t175_8" dur="8" pname="c" oct="4" />
                            </beam>
                         </layer>
@@ -1652,8 +1652,8 @@
                               </note>
                               <note xml:id="s1l1_t355_16" dur="16" pname="a" oct="4" />
                            </beam>
-                           <beam xml:id="m23s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t89_4" dur="8" pname="b" oct="4">
+                           <beam xml:id="m23s1l1b2">
+                              <note xml:id="s1l1_t89_4" type="mscore-beam-begin" dur="8" pname="b" oct="4">
                                  <accid xml:id="m23s1l1a3" accid.ges="f" />
                               </note>
                               <note xml:id="s1l1_t179_8" dur="8" pname="f" oct="4" />
@@ -1675,8 +1675,8 @@
                               </note>
                               <note xml:id="s1l2_t363_16" dur="16" pname="d" oct="4" />
                            </beam>
-                           <beam xml:id="m23s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t91_4" dur="8" pname="e" oct="4">
+                           <beam xml:id="m23s1l2b2">
+                              <note xml:id="s1l2_t91_4" type="mscore-beam-begin" dur="8" pname="e" oct="4">
                                  <accid xml:id="m23s1l2a3" accid.ges="f" />
                               </note>
                               <note xml:id="s1l2_t183_8" dur="8" pname="b" oct="3">
@@ -1826,8 +1826,8 @@
                               <note xml:id="s1l1_t193_8" dur="16" pname="d" oct="5" />
                               <note xml:id="s1l1_t387_16" dur="16" pname="c" oct="5" />
                            </beam>
-                           <beam xml:id="m25s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t97_4" dur="8" pname="d" oct="5" />
+                           <beam xml:id="m25s1l1b2">
+                              <note xml:id="s1l1_t97_4" type="mscore-beam-begin" dur="8" pname="d" oct="5" />
                               <note xml:id="s1l1_t195_8" dur="8" pname="f" oct="4" />
                            </beam>
                            <beam xml:id="m25s1l1b3">
@@ -1839,8 +1839,8 @@
                               </note>
                               <note xml:id="s1l1_t395_16" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m25s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t99_4" dur="8" pname="e" oct="5">
+                           <beam xml:id="m25s1l1b4">
+                              <note xml:id="s1l1_t99_4" type="mscore-beam-begin" dur="8" pname="e" oct="5">
                                  <accid xml:id="m25s1l1a3" accid.ges="f" />
                               </note>
                               <note xml:id="s1l1_t199_8" dur="8" pname="g" oct="4" />
@@ -1890,8 +1890,8 @@
                                  <accid xml:id="m26s1l1a1" accid="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m26s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t101_4" dur="8" pname="f" oct="5" />
+                           <beam xml:id="m26s1l1b2">
+                              <note xml:id="s1l1_t101_4" type="mscore-beam-begin" dur="8" pname="f" oct="5" />
                               <note xml:id="s1l1_t203_8" dur="8" pname="a" oct="4">
                                  <accid xml:id="m26s1l1a2" accid="f" />
                               </note>
@@ -1947,8 +1947,8 @@
                               <note xml:id="s2l1_t205_8" dur="16" pname="c" oct="3" />
                               <note xml:id="s2l1_t411_16" dur="16" pname="b" oct="2" />
                            </beam>
-                           <beam xml:id="m26s2l1b4" type="mscore-begin">
-                              <note xml:id="s2l1_t103_4" dur="8" pname="c" oct="3" />
+                           <beam xml:id="m26s2l1b4">
+                              <note xml:id="s2l1_t103_4" type="mscore-beam-begin" dur="8" pname="c" oct="3" />
                               <note xml:id="s2l1_t207_8" dur="8" pname="g" oct="2" />
                            </beam>
                         </layer>
@@ -2006,8 +2006,8 @@
                               <note xml:id="s2l1_t209_8" dur="16" pname="c" oct="3" />
                               <note xml:id="s2l1_t419_16" dur="16" pname="b" oct="2" />
                            </beam>
-                           <beam xml:id="m27s2l1b2" type="mscore-begin">
-                              <note xml:id="s2l1_t105_4" dur="8" pname="c" oct="3" />
+                           <beam xml:id="m27s2l1b2">
+                              <note xml:id="s2l1_t105_4" type="mscore-beam-begin" dur="8" pname="c" oct="3" />
                               <note xml:id="s2l1_t211_8" dur="8" pname="d" oct="3" />
                            </beam>
                            <beam xml:id="m27s2l1b3">
@@ -2017,8 +2017,8 @@
                                  <accid xml:id="m27s2l1a2" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m27s2l1b4" type="mscore-begin">
-                              <note xml:id="s2l1_t107_4" dur="8" pname="c" oct="3" />
+                           <beam xml:id="m27s2l1b4">
+                              <note xml:id="s2l1_t107_4" type="mscore-beam-begin" dur="8" pname="c" oct="3" />
                               <note xml:id="s2l1_t215_8" dur="8" pname="d" oct="3" />
                            </beam>
                         </layer>
@@ -2034,8 +2034,8 @@
                                  <accid xml:id="m28s1l1a1" accid="f" />
                               </note>
                            </beam>
-                           <beam xml:id="m28s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t109_4" dur="8" pname="f" oct="4" />
+                           <beam xml:id="m28s1l1b2">
+                              <note xml:id="s1l1_t109_4" type="mscore-beam-begin" dur="8" pname="f" oct="4" />
                               <note xml:id="s1l1_t219_8" dur="8" pname="d" oct="4" />
                            </beam>
                            <beam xml:id="m28s1l1b3">
@@ -2109,8 +2109,8 @@
                                  <accid xml:id="m29s1l1a2" accid="n" />
                               </note>
                            </beam>
-                           <beam xml:id="m29s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t115_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m29s1l1b4">
+                              <note xml:id="s1l1_t115_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l1_t231_8" dur="8" pname="g" oct="4" />
                            </beam>
                         </layer>
@@ -2123,8 +2123,8 @@
                               </note>
                               <note xml:id="s1l2_t451_16" dur="16" pname="c" oct="4" />
                            </beam>
-                           <beam xml:id="m29s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t113_4" dur="8" pname="c" oct="4" />
+                           <beam xml:id="m29s1l2b2">
+                              <note xml:id="s1l2_t113_4" type="mscore-beam-begin" dur="8" pname="c" oct="4" />
                               <note xml:id="s1l2_t227_8" dur="8" pname="b" oct="3" />
                            </beam>
                            <note xml:id="s1l2_t57_2" dur="4" pname="c" oct="4" />
@@ -2159,8 +2159,8 @@
                               <note xml:id="s1l1_t233_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l1_t467_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m30s1l1b2" type="mscore-begin">
-                              <note xml:id="s1l1_t117_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m30s1l1b2">
+                              <note xml:id="s1l1_t117_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <chord xml:id="s1l1_t235_8" dur="8">
                                  <note xml:id="m30s1l1n1" pname="a" oct="4">
                                     <accid xml:id="m30s1l1a2" accid="f" />
@@ -2174,8 +2174,8 @@
                               <note xml:id="s1l1_t237_8" dur="16" pname="c" oct="5" />
                               <note xml:id="s1l1_t475_16" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m30s1l1b4" type="mscore-begin">
-                              <note xml:id="s1l1_t119_4" dur="8" pname="c" oct="5" />
+                           <beam xml:id="m30s1l1b4">
+                              <note xml:id="s1l1_t119_4" type="mscore-beam-begin" dur="8" pname="c" oct="5" />
                               <note xml:id="s1l1_t239_8" dur="8" pname="d" oct="5" />
                            </beam>
                         </layer>
@@ -2190,8 +2190,8 @@
                               </note>
                               <note xml:id="s1l2_t475_16" dur="16" pname="d" oct="4" />
                            </beam>
-                           <beam xml:id="m30s1l2b2" type="mscore-begin">
-                              <note xml:id="s1l2_t119_4" dur="8" pname="e" oct="4">
+                           <beam xml:id="m30s1l2b2">
+                              <note xml:id="s1l2_t119_4" type="mscore-beam-begin" dur="8" pname="e" oct="4">
                                  <accid xml:id="m30s1l2a2" accid.ges="f" />
                               </note>
                               <chord xml:id="s1l2_t239_8" dur="8">

@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:36:30" />
+            <date isodate="2023-06-26-15:13:28" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -84,6 +84,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <fermata xml:id="m2fm1" startid="#s1l1_t3_2" />
                   </measure>
                </section>
             </score>

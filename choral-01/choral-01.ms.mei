@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:37:11" />
+            <date isodate="2023-06-26-15:14:14" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -180,6 +180,8 @@
                            <note xml:id="s2l2_t6_2" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <fermata xml:id="m5fm1" startid="#s1l1_t5_2" />
+                     <fermata xml:id="m5fm2" startid="#s2l2_t5_2" place="below" />
                   </measure>
                   <measure xml:id="m6" n="5">
                      <staff xml:id="m6s1" n="1">
@@ -256,6 +258,8 @@
                            <note xml:id="s2l2_t19_4" dur="2" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <fermata xml:id="m8fm1" startid="#s1l1_t19_4" />
+                     <fermata xml:id="m8fm2" startid="#s2l2_t19_4" place="below" />
                   </measure>
                   <measure xml:id="m9" metcon="false">
                      <staff xml:id="m9s1" n="1">
@@ -374,6 +378,8 @@
                            <note xml:id="s2l2_t15_2" dur="4" pname="e" oct="3" />
                         </layer>
                      </staff>
+                     <fermata xml:id="m12fm1" startid="#s1l1_t7_1" />
+                     <fermata xml:id="m12fm2" startid="#s2l2_t7_1" place="below" />
                   </measure>
                   <measure xml:id="m13" n="21">
                      <staff xml:id="m13s1" n="1">
@@ -478,6 +484,8 @@
                            <note xml:id="s2l2_t21_2" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <fermata xml:id="m16fm1" startid="#s1l1_t10_1" />
+                     <fermata xml:id="m16fm2" startid="#s2l2_t10_1" place="below" />
                   </measure>
                   <measure xml:id="m17" n="25">
                      <staff xml:id="m17s1" n="1">
@@ -607,6 +615,8 @@
                            <note xml:id="s2l2_t27_2" dur="4" pname="g" oct="3" />
                         </layer>
                      </staff>
+                     <fermata xml:id="m20fm1" startid="#s1l1_t13_1" />
+                     <fermata xml:id="m20fm2" startid="#s2l2_t13_1" place="below" />
                   </measure>
                   <measure xml:id="m21" n="29">
                      <staff xml:id="m21s1" n="1">
@@ -686,6 +696,8 @@
                            <note xml:id="s2l2_t61_4" dur="2" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <fermata xml:id="m23fm1" startid="#s1l1_t61_4" />
+                     <fermata xml:id="m23fm2" startid="#s2l2_t61_4" place="below" />
                   </measure>
                </section>
             </score>

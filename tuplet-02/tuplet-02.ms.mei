@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:39:20" />
+            <date isodate="2023-06-26-15:16:39" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -37,8 +37,8 @@
                                  <note xml:id="s1l1_t0_1" dur="8" pname="d" oct="5" />
                                  <note xml:id="s1l1_t1_12" dur="8" pname="d" oct="5" />
                               </beam>
-                              <beam xml:id="m1s1l1b2" type="mscore-begin">
-                                 <note xml:id="s1l1_t1_6" dur="8" pname="d" oct="5" />
+                              <beam xml:id="m1s1l1b2">
+                                 <note xml:id="s1l1_t1_6" type="mscore-beam-begin" dur="8" pname="d" oct="5" />
                                  <note xml:id="s1l1_t1_4" dur="8" pname="d" oct="5" />
                               </beam>
                               <rest xml:id="s1l1_t1_3" dur="2" />
@@ -58,9 +58,9 @@
                                  <note xml:id="s1l1_t13_12" dur="16" pname="c" oct="5" />
                               </tuplet>
                            </beam>
-                           <beam xml:id="m2s1l1b2" type="mscore-begin">
+                           <beam xml:id="m2s1l1b2">
                               <tuplet xml:id="m2s1l1t2" num="3" numbase="2">
-                                 <note xml:id="s1l1_t9_8" dur="16" pname="d" oct="5" />
+                                 <note xml:id="s1l1_t9_8" type="mscore-beam-begin" dur="16" pname="d" oct="5" />
                                  <note xml:id="s1l1_t7_6" dur="16" pname="e" oct="5" />
                                  <note xml:id="s1l1_t29_24" dur="16" pname="d" oct="5" />
                               </tuplet>

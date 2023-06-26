@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:39:14" />
+            <date isodate="2023-06-26-15:16:33" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -86,20 +86,20 @@
                                  <note xml:id="s1l1_t61_48" dur="32" pname="g" oct="4" />
                                  <note xml:id="s1l1_t31_24" dur="32" pname="a" oct="4" />
                               </beam>
-                              <beam xml:id="m2s1l1b3" type="mscore-begin">
-                                 <note xml:id="s1l1_t21_16" dur="32" pname="b" oct="4" />
+                              <beam xml:id="m2s1l1b3">
+                                 <note xml:id="s1l1_t21_16" type="mscore-beam-begin" dur="32" pname="b" oct="4" />
                                  <note xml:id="s1l1_t4_3" dur="32" pname="c" oct="5" />
                                  <note xml:id="s1l1_t65_48" dur="32" pname="b" oct="4" />
                               </beam>
                            </tuplet>
                            <tuplet xml:id="m2s1l1t4" num="6" numbase="4">
-                              <beam xml:id="m2s1l1b4" type="mscore-begin">
-                                 <note xml:id="s1l1_t11_8" dur="32" pname="a" oct="4" />
+                              <beam xml:id="m2s1l1b4">
+                                 <note xml:id="s1l1_t11_8" type="mscore-beam-begin" dur="32" pname="a" oct="4" />
                                  <note xml:id="s1l1_t67_48" dur="32" pname="g" oct="4" />
                                  <note xml:id="s1l1_t17_12" dur="32" pname="a" oct="4" />
                               </beam>
-                              <beam xml:id="m2s1l1b5" type="mscore-begin">
-                                 <note xml:id="s1l1_t23_16" dur="32" pname="b" oct="4" />
+                              <beam xml:id="m2s1l1b5">
+                                 <note xml:id="s1l1_t23_16" type="mscore-beam-begin" dur="32" pname="b" oct="4" />
                                  <note xml:id="s1l1_t35_24" dur="32" pname="c" oct="5" />
                                  <note xml:id="s1l1_t71_48" dur="32" pname="b" oct="4" />
                               </beam>
