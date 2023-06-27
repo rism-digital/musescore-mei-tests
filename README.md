@@ -17,9 +17,11 @@ Then running:
 ```
 will produce:
 * A PDF version in `score-01.pdf`
-* Extract the MuseScore XML in `score-01.ms.xml`
-* Extract the MusicXML with MuseScore into `score-01.musicxml`
-* Convert the MusicXML to MEI with Verovio into `score-01.basic.mei`
+
+and for reference:
+* Extract the MuseScore XML in `reference/score-01.ms.xml`
+* Extract the MusicXML with MuseScore into `reference/score-01.musicxml`
+* Convert the MusicXML to MEI with Verovio into `reference/score-01.basic.mei`
 
 These files are store in the repository.
 
@@ -50,7 +52,7 @@ will produce:
 
 The script also runs `xmldiff` on the two MEI files stored into a `diff.txt` file and the number of changes in `result.txt`
 
-These files are not stored in the repository
+Only the `.ms.mei` (first output form MuseScore) file is stored in the repository. All the others are not.
 
 ## Running all tests
 
@@ -73,3 +75,12 @@ All files but the original MuseScore file can be removed with:
 ./reset-convert.sh score-01
 ```
 
+## Adding new tests
+
+Before adding new tests, please be sure to:
+
+* save the `./mscz` file with MuseScore 4 (not 3 or earlier);
+* reset style settings to default values (`Format > Style`);
+* reset page settings to default values (`Format > Page settings`);
+* remove all system breaks (`Format > Add/remove system breaks`);
+* reset shapes and positions (`Format > Reset shapes and positions`).

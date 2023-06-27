@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata test (title)</title>
+            <respStmt>
+               <persName role="arranger">Arranger of the piece</persName>
+               <persName role="composer">Composer of the piece</persName>
+               <persName role="lyricist">Metastasio</persName>
+               <persName role="translator">Deepl</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-06-14" type="encoding-date">2023-06-14</date>
+            <availability>
+               <distributor>Public domain</distributor>
+            </availability>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1d6o33w">
+         <appInfo xml:id="appinfo-1ddu09n">
+            <application xml:id="application-18d0z45" isodate="2023-06-14T21:30:50" version="3.15.0">
+               <name xml:id="name-16ipea8">Verovio</name>
+               <p xml:id="p-so0bm1">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1rgv5l3">
+            <score xml:id="s110cap0">
+               <scoreDef xml:id="s17g7hwo">
+                  <pgHead xml:id="p7ldad1">
+                     <rend xml:id="rtxgzev" halign="center" valign="top">Metadata test</rend>
+                     <rend xml:id="r1jr8vlw" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r10ovv35" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <pgFoot xml:id="pnd96el">
+                     <rend xml:id="r1s2lq2x" halign="center" valign="bottom">Public domain</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="s18t3xxu">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="ldajlb6">Oboe</label>
+                        <labelAbbr xml:id="lukqtzq">Ob.</labelAbbr>
+                        <instrDef xml:id="iy48tcf" midi.channel="0" midi.instrnum="68" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1el7uvg">
+                  <measure xml:id="m1wgvu9i" right="end" n="1">
+                     <staff xml:id="sdeb100" n="1">
+                        <layer xml:id="l105gc50" n="1">
+                           <mRest xml:id="mf8gnh5" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

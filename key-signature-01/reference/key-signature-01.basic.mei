@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-06-14" type="encoding-date">2023-06-14</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1mv4n4j">
+         <appInfo xml:id="appinfo-18hxbfx">
+            <application xml:id="application-ndlhbl" isodate="2023-06-14T21:30:43" version="3.15.0">
+               <name xml:id="name-13hdzxx">Verovio</name>
+               <p xml:id="p-19ur525">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1t29f9n">
+            <score xml:id="s1yk5pno">
+               <scoreDef xml:id="s17ohsbj">
+                  <pgHead xml:id="p1d145un">
+                     <rend xml:id="r1odublp" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="r1yte55j" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1ogs0t" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="slcs1f1">
+                     <staffDef xml:id="P1" n="1" lines="5" trans.diat="-1" trans.semi="-2" clef.shape="G" clef.line="2" key.sig="2s" meter.count="4" meter.unit="4">
+                        <label xml:id="leecv4h">Clarinet in B♭</label>
+                        <labelAbbr xml:id="lgdsyqv">Cl. in B♭</labelAbbr>
+                        <instrDef xml:id="if6h23l" midi.channel="0" midi.instrnum="71" midi.volume="78.00%" />
+                     </staffDef>
+                     <staffGrp xml:id="P2" bar.thru="true" symbol="brace">
+                        <label xml:id="l13wi2bs">Piano</label>
+                        <labelAbbr xml:id="lx8uo33">Pno.</labelAbbr>
+                        <instrDef xml:id="i8jr5rw" midi.channel="1" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="s1w5t4vo" n="2" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4" />
+                        <staffDef xml:id="s1nezxax" n="3" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ss2s5ol">
+                  <measure xml:id="mx66iic" n="1">
+                     <staff xml:id="s1qcclsg" n="1">
+                        <layer xml:id="l13gqh84" n="1">
+                           <note xml:id="nj44skq" dur="1" oct="4" pname="a" />
+                        </layer>
+                        <layer xml:id="lcfdxk3" n="2">
+                           <note xml:id="n1btp546" dur="1" oct="4" pname="d" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s119fefe" n="2">
+                        <layer xml:id="l9gab46" n="1">
+                           <mRest xml:id="mia2soa" />
+                        </layer>
+                        <layer xml:id="l9fpei2" n="2">
+                           <note xml:id="nfjchvp" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staukx0" n="3">
+                        <layer xml:id="l1oyrm40" n="5">
+                           <mRest xml:id="m1u810b6" />
+                        </layer>
+                        <layer xml:id="l1yiab97" n="6">
+                           <note xml:id="n17muwoa" dur="1" oct="3" pname="c" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s164w0pm" key.sig="1f" />
+                  <measure xml:id="m198zwia" n="2">
+                     <staff xml:id="sywwx7p" n="1">
+                        <layer xml:id="l1r2ke8h" n="1">
+                           <note xml:id="nbjpsi6" dur="1" oct="4" pname="a" />
+                        </layer>
+                        <layer xml:id="l11axp0m" n="2">
+                           <note xml:id="n16mp8gd" dur="1" oct="4" pname="d" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s7648pq" n="2">
+                        <layer xml:id="lhvxzhn" n="1">
+                           <mRest xml:id="mp41joa" />
+                        </layer>
+                        <layer xml:id="lkg6zlj" n="2">
+                           <note xml:id="n1c1mq78" dur="1" oct="4" pname="e">
+                              <accid xml:id="a18a8fmp" accid.ges="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1js70lp" n="3">
+                        <layer xml:id="l1ux67ey" n="5">
+                           <mRest xml:id="m8tt2zh" />
+                        </layer>
+                        <layer xml:id="l143hp8s" n="6">
+                           <note xml:id="nszoy5j" dur="1" oct="3" pname="c" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="stmemvi" key.sig="2s" meter.count="3" meter.unit="4" />
+                  <measure xml:id="m1h36cz8" right="end" n="3">
+                     <staff xml:id="s15xc9ah" n="1">
+                        <layer xml:id="lmyfw8u" n="1">
+                           <note xml:id="n1q1dwdu" dots="1" dur="2" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                        <layer xml:id="lwnmgrq" n="2">
+                           <note xml:id="n1a772he" dots="1" dur="2" oct="4" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s19ajvwv" n="2">
+                        <layer xml:id="l1e0pesr" n="1">
+                           <mRest xml:id="m1ndvcxn" />
+                        </layer>
+                        <layer xml:id="lvay2aw" n="2">
+                           <note xml:id="n1jmrwxp" dots="1" dur="2" oct="4" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s81hv0h" n="3">
+                        <layer xml:id="l5ui14n" n="5">
+                           <mRest xml:id="m1gy3fjh" />
+                        </layer>
+                        <layer xml:id="lnnouay" n="6">
+                           <note xml:id="nxca3b6" dots="1" dur="2" oct="3" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

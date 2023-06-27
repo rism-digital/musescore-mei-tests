@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-06-20" type="encoding-date">2023-06-20</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-5jqc7f">
+         <appInfo xml:id="appinfo-t1kq6k">
+            <application xml:id="application-1b0f404" isodate="2023-06-20T14:06:16" version="3.15.0">
+               <name xml:id="name-1u3q0je">Verovio</name>
+               <p xml:id="p-16tvyj3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m9or6sq">
+            <score xml:id="s17zexqa">
+               <scoreDef xml:id="s14zvkn2">
+                  <pgHead xml:id="pdya5n2">
+                     <rend xml:id="rac8882" halign="center" valign="top">Jumps</rend>
+                     <rend xml:id="r145rih0" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1j84eu1" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s125sxs3">
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="ltx2l9o">Flute</label>
+                        <labelAbbr xml:id="lmsw383">Fl.</labelAbbr>
+                        <instrDef xml:id="igx6evd" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="stj9sui">
+                  <pb xml:id="pcunz2g" />
+                  <measure xml:id="m15chued" n="1">
+                     <staff xml:id="s1yuwbpx" n="1">
+                        <layer xml:id="l1s8r4lh" n="1">
+                           <mRest xml:id="md9y7n7" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1cpvjkw" n="2">
+                     <staff xml:id="s19xp1cf" n="1">
+                        <layer xml:id="l1lcyard" n="1">
+                           <mRest xml:id="mbd9a0i" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dwupoli" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="r1ezyeob" halign="center" fontfam="smufl" fontstyle="normal">𝄋</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mjq4i3f" n="3">
+                     <staff xml:id="s5cgm2k" n="1">
+                        <layer xml:id="l1ozv2lv" n="1">
+                           <mRest xml:id="mbojvib" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1urykjp" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="ruzdnvi" halign="center" fontfam="smufl" fontstyle="normal">𝄌</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1yfxxd5" n="4">
+                     <staff xml:id="syo7nx" n="1">
+                        <layer xml:id="l1b01uy7" n="1">
+                           <mRest xml:id="mxe1s6i" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1idu510" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r1jwotvh" halign="right">Fine</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1sikzxu" n="5">
+                     <staff xml:id="snuh0kq" n="1">
+                        <layer xml:id="lz2eva5" n="1">
+                           <mRest xml:id="m1kxjmzf" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mlb6jo8" n="6">
+                     <staff xml:id="s1uj3dvf" n="1">
+                        <layer xml:id="l1izvz6l" n="1">
+                           <mRest xml:id="m1g356uq" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dj9824i" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rlzc4ds" halign="right">To Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1gl05d1" n="7">
+                     <staff xml:id="s1v3p8ck" n="1">
+                        <layer xml:id="l88xgkr" n="1">
+                           <mRest xml:id="mbj19e" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1r5krv4" n="8">
+                     <staff xml:id="s1dd763e" n="1">
+                        <layer xml:id="l5f7d7f" n="1">
+                           <mRest xml:id="m38qyme" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d11di5oa" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r9p2ckj" halign="right">D.C.</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1cefomv" n="9">
+                     <staff xml:id="s13pnpbk" n="1">
+                        <layer xml:id="lwk0nlm" n="1">
+                           <mRest xml:id="m1svg4k0" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mzwvlg7" n="10">
+                     <staff xml:id="s126zyp7" n="1">
+                        <layer xml:id="l1yfyftr" n="1">
+                           <mRest xml:id="ml9gx75" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1f7z604" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r3bdrkx" halign="right">D.C. al Fine</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mhp7veu" n="11">
+                     <staff xml:id="s7iymz5" n="1">
+                        <layer xml:id="l1e9a8vz" n="1">
+                           <mRest xml:id="m2j9w93" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="sygh8mt" />
+                  <measure xml:id="m85w4f1" n="12">
+                     <staff xml:id="s1x7bigl" n="1">
+                        <layer xml:id="loco10m" n="1">
+                           <mRest xml:id="m1in7uqd" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m12d7xvg" n="13">
+                     <staff xml:id="so9flo" n="1">
+                        <layer xml:id="l16pk23o" n="1">
+                           <mRest xml:id="m1dstf2r" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dgsrud1" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r19wuyz2" halign="right">D.C. al Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1gqxcp5" n="14">
+                     <staff xml:id="s1td06xc" n="1">
+                        <layer xml:id="lurs13b" n="1">
+                           <mRest xml:id="mh615x4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m13dyt1m" n="15">
+                     <staff xml:id="sfmwanh" n="1">
+                        <layer xml:id="l1sei7eu" n="1">
+                           <mRest xml:id="m1wckpl4" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d2dwjbw" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r19ebny7" halign="right">D.S. al Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1wry1y2" n="16">
+                     <staff xml:id="sxtissq" n="1">
+                        <layer xml:id="lr9gtjc" n="1">
+                           <mRest xml:id="mpe4wzc" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m13hrhh9" n="17">
+                     <staff xml:id="sjlgmbw" n="1">
+                        <layer xml:id="l11n4owp" n="1">
+                           <mRest xml:id="mp1vr7z" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d14i8ppb" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rzfoi95" halign="right">D.S. al Fine</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m7bd0o3" n="18">
+                     <staff xml:id="sa5cwao" n="1">
+                        <layer xml:id="l1wemc5s" n="1">
+                           <mRest xml:id="m1t2w5w0" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1qfw6ik" n="19">
+                     <staff xml:id="ss2wf7a" n="1">
+                        <layer xml:id="l1jk4hwy" n="1">
+                           <mRest xml:id="m1w48xc3" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1wnyf93" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rx3wl76" halign="right">D.S.</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1fyx4uj" n="20">
+                     <staff xml:id="slsmwu7" n="1">
+                        <layer xml:id="lf6ci0q" n="1">
+                           <mRest xml:id="mfkkwyq" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m15c0k9" n="21">
+                     <staff xml:id="s50hlyg" n="1">
+                        <layer xml:id="ld29zns" n="1">
+                           <mRest xml:id="m5lti3u" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dlm43xc" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="rseo2fl" halign="center" fontfam="smufl" fontstyle="normal">𝄋</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mtqzr9n" n="22">
+                     <staff xml:id="s1u5z7ed" n="1">
+                        <layer xml:id="lggfhse" n="1">
+                           <mRest xml:id="m1q3q7vx" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="de5jgv5" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="r12fbppd" halign="center" fontfam="smufl" fontstyle="normal">𝄌</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1mosd4w" n="23">
+                     <staff xml:id="s1kc3ci3" n="1">
+                        <layer xml:id="l1adxexm" n="1">
+                           <mRest xml:id="mmehkn4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="ss58zke" />
+                  <measure xml:id="m1utxmsn" n="24">
+                     <staff xml:id="s1lub5oe" n="1">
+                        <layer xml:id="l1x4pzdt" n="1">
+                           <mRest xml:id="me8he2v" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1sii217" n="25">
+                     <staff xml:id="s1lutzqx" n="1">
+                        <layer xml:id="l1l9avt0" n="1">
+                           <mRest xml:id="mzbyi81" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="de3x7py" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r1pwd06e" halign="right">D.C. al Double Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mqvrm7h" n="26">
+                     <staff xml:id="sngnf5g" n="1">
+                        <layer xml:id="lm3bd5k" n="1">
+                           <mRest xml:id="mdt8399" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1lgy5hk" n="27">
+                     <staff xml:id="s1st1ltb" n="1">
+                        <layer xml:id="lsncwq1" n="1">
+                           <mRest xml:id="m1wxe3x" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1sojj41" n="28">
+                     <staff xml:id="sjwn1qc" n="1">
+                        <layer xml:id="l17va1jr" n="1">
+                           <mRest xml:id="ma8m41u" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d8i01sg" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r1rp3t1x" halign="right">D.S. al Double Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mqe6mrp" n="29">
+                     <staff xml:id="skid9bu" n="1">
+                        <layer xml:id="l1ih92oo" n="1">
+                           <mRest xml:id="mtl9i8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mewfiez" n="30">
+                     <staff xml:id="s1wi6min" n="1">
+                        <layer xml:id="lhkuj64" n="1">
+                           <mRest xml:id="m1qug2aw" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1ji6wfv" n="31">
+                     <staff xml:id="s1n1rzhb" n="1">
+                        <layer xml:id="l1db3i9p" n="1">
+                           <mRest xml:id="m1fjdl80" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d2rh2nb" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rwir51h" halign="right">Dal Segno Segno</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m131kogt" n="32">
+                     <staff xml:id="s1wq4oiq" n="1">
+                        <layer xml:id="l11m5l39" n="1">
+                           <mRest xml:id="m4dtabe" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1klmlm7" n="33">
+                     <staff xml:id="s1hilqx9" n="1">
+                        <layer xml:id="l1e3acvh" n="1">
+                           <mRest xml:id="m7093gc" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mjqh1ar" n="34">
+                     <staff xml:id="sq5kn11" n="1">
+                        <layer xml:id="lhosovt" n="1">
+                           <mRest xml:id="mxkzwgw" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dwl6hrx" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r1fmp0zn" halign="right">D.S.S. al Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1mayi28" n="35">
+                     <staff xml:id="s99jgnz" n="1">
+                        <layer xml:id="l1h7yugo" n="1">
+                           <mRest xml:id="mm25m1q" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="s1yqhaxs" />
+                  <measure xml:id="mdirnh8" n="36">
+                     <staff xml:id="s1ejtq5j" n="1">
+                        <layer xml:id="lktcnvh" n="1">
+                           <mRest xml:id="m1czr4ue" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d7kh4ey" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="rdn13lm" halign="right">D.S.S. al Double Coda</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m1aqggoi" n="37">
+                     <staff xml:id="spt3q9m" n="1">
+                        <layer xml:id="lps6y4l" n="1">
+                           <mRest xml:id="me0jbyc" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m12niylg" n="38">
+                     <staff xml:id="sqfoizo" n="1">
+                        <layer xml:id="l1p576yz" n="1">
+                           <mRest xml:id="m1lf19ki" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dd46gc1" place="above" staff="1" tstamp="5.000000">
+                        <rend xml:id="r147ea6c" halign="right">D.S.S. al Fine</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mlikyc7" right="end" n="39">
+                     <staff xml:id="s1hl925q" n="1">
+                        <layer xml:id="llyw01t" n="1">
+                           <mRest xml:id="ml40h1d" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
