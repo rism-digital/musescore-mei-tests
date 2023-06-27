@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead xml:id="mbic5ok">
+      <fileDesc xml:id="fouce90">
+         <titleStmt xml:id="t1bqc3jh">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p3fd4fv">
+            <date isodate="2023-06-27" type="encoding-date">2023-06-27</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1706g17">
+         <appInfo xml:id="a1wnj1qt">
+            <application xml:id="a31p8s4" isodate="2023-06-27T13:59:13" version="3.16.0-dev-2e4881c">
+               <name xml:id="n2pp7hn">Verovio</name>
+               <p xml:id="p2nqjb7">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mrur859">
+            <score xml:id="sa7dsu6">
+               <scoreDef xml:id="s1uxi0yb">
+                  <staffGrp xml:id="s1q4on4j">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="lgwum16">Trombone</label>
+                        <labelAbbr xml:id="l11iuvat">Tbn.</labelAbbr>
+                        <instrDef xml:id="i3tzku8" midi.channel="0" midi.instrnum="57" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="simgxdv">
+                  <measure xml:id="m1411qna" n="1">
+                     <staff xml:id="s1lpa4v1" n="1">
+                        <layer xml:id="l1hvys4t" n="1">
+                           <chord xml:id="cgpyd70" dur="2" stem.dir="up">
+                              <note xml:id="n1rjubrr" oct="2" pname="e" />
+                              <note xml:id="n1q81pq9" oct="2" pname="b" />
+                              <note xml:id="nb9hed0" oct="3" pname="d">
+                                 <accid xml:id="a1t1k920" accid="s" />
+                              </note>
+                              <note xml:id="n1lc3rw9" oct="3" pname="g">
+                                 <accid xml:id="a1y9hod5" accid="s" />
+                              </note>
+                           </chord>
+                           <chord xml:id="cftnaas" dur="2" stem.dir="up">
+                              <note xml:id="nn96vpo" oct="2" pname="d" />
+                              <note xml:id="n1vkzz6a" oct="2" pname="b">
+                                 <accid xml:id="ae24xbh" accid="f" />
+                              </note>
+                              <note xml:id="nod1plf" oct="3" pname="d">
+                                 <accid xml:id="a1dfsmia" accid="n" />
+                              </note>
+                              <note xml:id="nb9zoqi" oct="3" pname="f">
+                                 <accid xml:id="a19a4pi9" accid="n" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                     <harm xml:id="hre44fl" staff="1" tstamp="1.000000">E△7</harm>
+                     <harm xml:id="h2ektdl" staff="1" tstamp="3.000000">B♭/D</harm>
+                  </measure>
+                  <measure xml:id="m17orc29" n="2">
+                     <staff xml:id="s7ys948" n="1">
+                        <layer xml:id="ltofwr6" n="1">
+                           <rest xml:id="r16x091u" dur="4" />
+                           <chord xml:id="c14r9z5c" dur="4" stem.dir="up">
+                              <note xml:id="n1h5yybz" oct="2" pname="e" />
+                              <note xml:id="n1tzgbkw" oct="2" pname="b" />
+                              <note xml:id="n1qvr3zi" oct="3" pname="d" />
+                              <note xml:id="nubmobk" oct="3" pname="g">
+                                 <accid xml:id="a3madvu" accid="s" />
+                              </note>
+                           </chord>
+                           <chord xml:id="c36wuxw" dur="2" stem.dir="up">
+                              <note xml:id="n18coojd" oct="2" pname="d">
+                                 <accid xml:id="a1ww5s6k" accid="f" />
+                              </note>
+                              <note xml:id="n1tw053p" oct="2" pname="a">
+                                 <accid xml:id="a1kgqqqi" accid="f" />
+                              </note>
+                              <note xml:id="n14q3nji" oct="3" pname="d">
+                                 <accid xml:id="a1i9dves" accid="f" />
+                              </note>
+                              <note xml:id="n6p10s6" oct="3" pname="f" />
+                              <note xml:id="nmcetkx" oct="3" pname="a">
+                                 <accid xml:id="a14ledpk" accid="f" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                     <harm xml:id="h9g7b1o" staff="1" tstamp="1.000000">EM</harm>
+                     <harm xml:id="hktg5r5" staff="1" tstamp="2.000000">E7</harm>
+                     <harm xml:id="h1eqm3wg" staff="1" tstamp="3.000000">C</harm>
+                  </measure>
+                  <measure xml:id="m19vnukg" n="3">
+                     <staff xml:id="s1lgu99y" n="1">
+                        <layer xml:id="l1tgvar2" n="1">
+                           <chord xml:id="cpg7ytd" dur="2" stem.dir="up">
+                              <note xml:id="n5sojr5" oct="2" pname="b">
+                                 <accid xml:id="a1s3l8pe" accid="ff" />
+                              </note>
+                              <note xml:id="n1i0dk0c" oct="3" pname="d">
+                                 <accid xml:id="aem5j87" accid="f" />
+                              </note>
+                              <note xml:id="n1nntxnn" oct="3" pname="f">
+                                 <accid xml:id="ah8u1hh" accid="f" />
+                              </note>
+                              <note xml:id="nwlcq7h" oct="3" pname="b">
+                                 <accid xml:id="a1v5s3ox" accid="ff" />
+                              </note>
+                           </chord>
+                           <chord xml:id="cxhb8i5" dur="2" stem.dir="up">
+                              <note xml:id="n6gqfne" oct="2" pname="g">
+                                 <accid xml:id="a7heq4x" accid="f" />
+                              </note>
+                              <note xml:id="n2ishsd" oct="3" pname="g">
+                                 <accid xml:id="a1uancaq" accid="f" />
+                              </note>
+                              <note xml:id="no7r6zg" oct="3" pname="b">
+                                 <accid xml:id="a1sq6kdy" accid="ff" />
+                              </note>
+                           </chord>
+                        </layer>
+                        <layer xml:id="ln1229c" n="2">
+                           <note xml:id="n16zm743" dur="2" oct="3" pname="c" stem.dir="down" />
+                           <note xml:id="n179lnhx" dur="4" oct="3" pname="d" stem.dir="down">
+                              <accid xml:id="an2yjpe" accid="f" />
+                           </note>
+                           <note xml:id="n1cex46u" dur="4" oct="3" pname="e" stem.dir="down">
+                              <accid xml:id="a2dmhh7" accid="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <harm xml:id="h1jy2bvm" staff="1" tstamp="1.000000">B𝄫</harm>
+                     <harm xml:id="h16xar1c" staff="1" tstamp="3.000000">G♭-</harm>
+                     <harm xml:id="h1k2vnmc" staff="1" tstamp="4.000000">E♭°/G♭</harm>
+                     <harm xml:id="hq2radu" staff="1" tstamp="2.000000">B𝄫(add♯9)</harm>
+                     <harm xml:id="h1e1pd16" staff="1" tstamp="4.000000">E♭°/G♭</harm>
+                     <harm xml:id="hvzhbvn" staff="1" tstamp="4.000000">E♭ø</harm>
+                  </measure>
+                  <measure xml:id="miwq4of" right="end" n="4">
+                     <staff xml:id="sj79yco" n="1">
+                        <layer xml:id="l16xwl1e" n="1">
+                           <chord xml:id="cbbnjaj" dur="1">
+                              <note xml:id="n1u7x68a" oct="2" pname="d">
+                                 <accid xml:id="a4st3gw" accid="f" />
+                              </note>
+                              <note xml:id="nceld9i" oct="3" pname="f">
+                                 <accid xml:id="a1feapqw" accid="n" />
+                              </note>
+                           </chord>
+                        </layer>
+                        <layer xml:id="l17hyt5w" n="2">
+                           <note xml:id="n1xt2f9t" dur="2" oct="3" pname="c" stem.dir="down" />
+                           <note xml:id="n1khcc1e" dur="2" oct="2" pname="b" stem.dir="down">
+                              <accid xml:id="abqmrh1" accid="f" />
+                           </note>
+                        </layer>
+                        <layer xml:id="l1qge4ev" n="3">
+                           <note xml:id="n1jd70vc" dur="2" oct="4" pname="e" stem.dir="up">
+                              <accid xml:id="a5fxn3u" accid="f" />
+                           </note>
+                           <note xml:id="n1oj1b53" dur="2" oct="4" pname="d" stem.dir="up">
+                              <accid xml:id="a118026w" accid="f" />
+                           </note>
+                        </layer>
+                        <layer xml:id="lravedf" n="4">
+                           <note xml:id="n1vcnpoc" dur="2" oct="3" pname="a" stem.dir="down">
+                              <accid xml:id="a1jm7f1d" accid="f" />
+                           </note>
+                           <note xml:id="ns69gwu" dur="2" oct="3" pname="a" stem.dir="down">
+                              <accid xml:id="a1srcjpx" accid="n" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <harm xml:id="h1gp6pvx" staff="1" tstamp="1.000000">D♭9</harm>
+                     <harm xml:id="h1pkcmaa" staff="1" tstamp="3.000000">B♭°(no5)</harm>
+                     <harm xml:id="h5sswds" staff="1" tstamp="3.000000">B♭-△7/D♭</harm>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
