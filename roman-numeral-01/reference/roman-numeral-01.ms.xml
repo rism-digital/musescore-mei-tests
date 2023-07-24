@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="4.00">
-  <programVersion>4.0.2</programVersion>
-  <programRevision>dbe7c6d</programRevision>
+<museScore version="4.10">
+  <programVersion>4.1.0</programVersion>
+  <programRevision>2e3a93a</programRevision>
   <Score>
-    <LayerTag id="0" tag="default"></LayerTag>
-    <currentLayer>0</currentLayer>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -21,6 +19,7 @@
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
+    <metaTag name="sourceRevisionId"></metaTag>
     <metaTag name="subtitle">Subtitle</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -75,7 +74,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="1" span="2" col="0"/>
+        <bracket type="1" span="2" col="0" visible="1"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <Staff id="2">
@@ -127,8 +126,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -162,8 +159,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -201,8 +196,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -252,8 +245,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -306,8 +297,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -357,8 +346,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -414,10 +401,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.bVI+6</name>
-            <placement>above</placement>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -459,7 +443,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v%43(-3)</name>
-            <placement>above</placement>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -491,10 +474,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/V</name>
-            <placement>above</placement>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -530,7 +510,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bI+6(+4)</name>
-            <placement>above</placement>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -573,8 +552,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -628,8 +605,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -694,7 +669,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVI+64(-3)</name>
-            <placement>above</placement>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -702,7 +676,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV7</name>
-            <placement>above</placement>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -710,7 +683,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII+64</name>
-            <placement>above</placement>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -718,14 +690,11 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <placement>above</placement>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -837,7 +806,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/N</name>
-            <placement>above</placement>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -845,7 +813,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>N+43</name>
-            <placement>above</placement>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -853,7 +820,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/bI</name>
-            <placement>above</placement>
             </Harmony>
           </voice>
         </Measure>
@@ -865,8 +831,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -894,8 +858,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -924,8 +886,6 @@
             <harmonyType>1</harmonyType>
             <name>E.I7{</name>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -966,8 +926,6 @@
             <harmonyType>1</harmonyType>
             <name>V7(-5)/bIII</name>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1008,8 +966,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1048,8 +1004,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1119,8 +1073,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1155,8 +1107,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1228,8 +1178,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1282,8 +1230,6 @@
               <velocity>110</velocity>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1376,8 +1322,6 @@
             <harmonyType>1</harmonyType>
             <name>N7(+6)</name>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1435,8 +1379,6 @@
             <harmonyType>1</harmonyType>
             <name>V7(v##6)/III</name>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1497,8 +1439,6 @@
             <harmonyType>1</harmonyType>
             <name>V7/V/V</name>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

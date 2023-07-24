@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-26-15:13:46" />
+            <date isodate="2023-07-24T17:38:20" />
             <availability>
                <distributor>©</distributor>
             </availability>
@@ -219,6 +219,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="m3dn1" label="mf" startid="#s2l1_t3_2">mf</dynam>
+                     <harm xml:id="m3hr1" type="mscore-roman" startid="#s2l1_t3_2">e.V64(+6){</harm>
                   </measure>
                   <measure xml:id="m4" n="4">
                      <staff xml:id="m4s1" n="1">
@@ -281,6 +282,9 @@
                            <note xml:id="s2l1_t11_4" dur="4" pname="b" oct="3" />
                         </layer>
                      </staff>
+                     <harm xml:id="m4hr1" type="mscore-roman" startid="#s2l1_t9_4">i</harm>
+                     <harm xml:id="m4hr2" type="mscore-roman" startid="#s2l1_t10_4">V6(6)</harm>
+                     <harm xml:id="m4hr3" type="mscore-roman" startid="#s2l1_t11_4">V(6)</harm>
                   </measure>
                   <measure xml:id="m5" n="5">
                      <staff xml:id="m5s1" n="1">
@@ -339,6 +343,7 @@
                            <note xml:id="s2l1_t3_1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
+                     <harm xml:id="m5hr1" type="mscore-roman" startid="#s2l1_t3_1">VIM7|DC</harm>
                   </measure>
                   <measure xml:id="m6" n="6">
                      <staff xml:id="m6s1" n="1">
@@ -457,6 +462,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m7hr1" type="mscore-roman" startid="#s2l1_t9_2">V64(+6)</harm>
                   </measure>
                   <measure xml:id="m8" n="8">
                      <staff xml:id="m8s1" n="1">
@@ -519,6 +525,9 @@
                            <note xml:id="s2l1_t47_8" type="mscore-beam-none" dur="8" pname="b" oct="3" />
                         </layer>
                      </staff>
+                     <harm xml:id="m8hr1" type="mscore-roman" startid="#s2l1_t21_4">i</harm>
+                     <harm xml:id="m8hr2" type="mscore-roman" startid="#s2l1_t22_4">V6(6)</harm>
+                     <harm xml:id="m8hr3" type="mscore-roman" startid="#s2l1_t47_8">V(6)</harm>
                   </measure>
                   <measure xml:id="m9" n="9">
                      <staff xml:id="m9s1" n="1">
@@ -577,6 +586,7 @@
                            <note xml:id="s2l1_t6_1" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
+                     <harm xml:id="m9hr1" type="mscore-roman" startid="#s2l1_t6_1">VIM7|DC</harm>
                   </measure>
                   <measure xml:id="m10" n="10">
                      <staff xml:id="m10s1" n="1">
@@ -695,6 +705,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m11hr1" type="mscore-roman" startid="#s2l1_t15_2">V64(+6)</harm>
                   </measure>
                   <measure xml:id="m12" n="12">
                      <staff xml:id="m12s1" n="1">
@@ -757,6 +768,9 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m12hr1" type="mscore-roman" startid="#s2l1_t33_4">i</harm>
+                     <harm xml:id="m12hr2" type="mscore-roman" startid="#s2l1_t34_4">VIM43</harm>
+                     <harm xml:id="m12hr3" type="mscore-roman" startid="#s2l1_t71_8">ii%43/V</harm>
                   </measure>
                   <measure xml:id="m13" n="13">
                      <staff xml:id="m13s1" n="1">
@@ -817,6 +831,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m13hr1" type="mscore-roman" startid="#s2l1_t9_1">V6(6)</harm>
                   </measure>
                   <measure xml:id="m14" n="14">
                      <staff xml:id="m14s1" n="1">
@@ -876,6 +891,7 @@
                            <rest xml:id="s2l1_t41_4" dur="4" />
                         </layer>
                      </staff>
+                     <harm xml:id="m14hr1" type="mscore-roman" startid="#s2l1_t39_4">i|IAC}</harm>
                   </measure>
                   <measure xml:id="m15" n="15">
                      <staff xml:id="m15s1" n="1">
@@ -935,6 +951,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="m15dn1" label="p" startid="#s2l1_t21_2">p</dynam>
+                     <harm xml:id="m15hr1" type="mscore-roman" startid="#s2l1_t21_2">V2/VI{</harm>
                   </measure>
                   <measure xml:id="m16" n="16">
                      <staff xml:id="m16s1" n="1">
@@ -997,6 +1014,8 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m16hr1" type="mscore-roman" startid="#s2l1_t46_4">i</harm>
+                     <harm xml:id="m16hr2" type="mscore-roman" startid="#s2l1_t47_4">iio/bII</harm>
                   </measure>
                   <measure xml:id="m17" n="17">
                      <staff xml:id="m17s1" n="1">
@@ -1057,6 +1076,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m17hr1" type="mscore-roman" startid="#s2l1_t12_1">bIII+/VI</harm>
                   </measure>
                   <measure xml:id="m18" n="18">
                      <staff xml:id="m18s1" n="1">
@@ -1119,6 +1139,8 @@
                            <rest xml:id="s2l1_t107_8" type="mscore-beam-none" dur="8" />
                         </layer>
                      </staff>
+                     <harm xml:id="m18hr1" type="mscore-roman" startid="#s2l1_t51_4">VII(64)</harm>
+                     <harm xml:id="m18hr2" type="mscore-roman" startid="#s2l1_t53_4">i|IAC}</harm>
                   </measure>
                   <measure xml:id="m19" n="19">
                      <staff xml:id="m19s1" n="1">
@@ -1180,6 +1202,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="m19dn1" label="mf" startid="#s2l1_t27_2">mf</dynam>
+                     <harm xml:id="m19hr1" type="mscore-roman" startid="#s2l1_t27_2">V64(+6){</harm>
                   </measure>
                   <measure xml:id="m20" n="20">
                      <staff xml:id="m20s1" n="1">
@@ -1242,6 +1265,9 @@
                            <note xml:id="s2l1_t119_8" type="mscore-beam-none" dur="8" pname="b" oct="3" />
                         </layer>
                      </staff>
+                     <harm xml:id="m20hr1" type="mscore-roman" startid="#s2l1_t57_4">i</harm>
+                     <harm xml:id="m20hr2" type="mscore-roman" startid="#s2l1_t58_4">V6(6)</harm>
+                     <harm xml:id="m20hr3" type="mscore-roman" startid="#s2l1_t119_8">V(6)</harm>
                   </measure>
                   <measure xml:id="m21" n="21">
                      <staff xml:id="m21s1" n="1">
@@ -1302,6 +1328,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="m21hr1" type="mscore-roman" startid="#s2l1_t15_1">V64(+6)</harm>
                   </measure>
                   <measure xml:id="m22" n="22">
                      <staff xml:id="m22s1" n="1">
@@ -1367,6 +1394,10 @@
                            </beam>
                         </layer>
                      </staff>
+                     <harm xml:id="m22hr1" type="mscore-roman" startid="#s2l1_t63_4">i</harm>
+                     <harm xml:id="m22hr2" type="mscore-roman" startid="#s2l1_t64_4">V6(6)</harm>
+                     <harm xml:id="m22hr3" type="mscore-roman" startid="#s2l1_t65_4">iv7(9)</harm>
+                     <harm xml:id="m22hr4" type="mscore-roman" startid="#s2l1_t131_8">V(6)</harm>
                   </measure>
                   <measure xml:id="m23" n="23">
                      <staff xml:id="m23s1" n="1">
@@ -1425,6 +1456,7 @@
                            <note xml:id="s2l1_t33_2" dots="1" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
+                     <harm xml:id="m23hr1" type="mscore-roman" startid="#s2l1_t33_2">VIM7|DC}</harm>
                   </measure>
                   <measure xml:id="m24" right="end" n="24">
                      <staff xml:id="m24s1" n="1">

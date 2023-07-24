@@ -7,21 +7,58 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-06-27</encoding-date>
+      <software>MuseScore 4.1.0</software>
+      <encoding-date>2023-07-23</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="no"/>
-      <supports element="print" attribute="new-system" type="no"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
     </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99912</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1596.77</page-height>
+      <page-width>1233.87</page-width>
+      <page-margins type="even">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">Roman numerals</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>subtitle</credit-type>
+    <credit-words default-x="616.935" default-y="1453.9" justify="center" valign="top" font-size="14">Subtitle</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Composer / arranger</credit-words>
+    </credit>
   <part-list>
     <score-part id="P1">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Piano</instrument-name>
+        <instrument-sound>keyboard.piano</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -33,7 +70,19 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1">
+    <measure number="1" width="385.66">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
+        </print>
       <attributes>
         <divisions>2</divisions>
         <key>
@@ -53,7 +102,7 @@
           <line>4</line>
           </clef>
         </attributes>
-      <note dynamics="122.22">
+      <note default-x="90.24" default-y="-45.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -65,7 +114,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="102.23" default-y="-40.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -77,7 +126,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="149.23" default-y="-45.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -91,7 +140,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="149.23" default-y="-35.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -104,7 +153,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="228.78" default-y="-50.00" dynamics="122.22">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -116,7 +165,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="228.78" default-y="-35.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -130,7 +179,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="324.86" default-y="-55.00" dynamics="122.22">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -142,7 +191,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="324.86" default-y="-30.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -162,7 +211,7 @@
         <function>E.I7{</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="90.24" default-y="-110.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -176,7 +225,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="90.24" default-y="-100.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -192,7 +241,7 @@
         <function>bVII7(b9)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="149.23" default-y="-110.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -209,7 +258,7 @@
         <function>V7(-5)/bIII</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="228.78" default-y="-115.00" dynamics="122.22">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -227,7 +276,7 @@
         <function>VI7(b5b4)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="324.86" default-y="-115.00" dynamics="122.22">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -243,7 +292,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note dynamics="122.22">
+      <note default-x="90.24" default-y="-155.00" dynamics="122.22">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -255,7 +304,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="90.24" default-y="-120.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -267,7 +316,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="149.23" default-y="-155.00" dynamics="122.22">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -281,7 +330,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="149.23" default-y="-120.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -295,7 +344,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="228.78" default-y="-160.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -307,7 +356,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="228.78" default-y="-125.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -319,7 +368,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="324.86" default-y="-165.00" dynamics="122.22">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -333,7 +382,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="324.86" default-y="-130.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -348,8 +397,8 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="2">
-      <note dynamics="122.22">
+    <measure number="2" width="316.48">
+      <note default-x="39.76" default-y="-50.00" dynamics="122.22">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -362,7 +411,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="39.76" default-y="-35.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -376,7 +425,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="51.75" default-y="-30.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -390,7 +439,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="101.62" default-y="-55.00" dynamics="122.22">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -402,7 +451,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="101.62" default-y="-35.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -415,7 +464,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="101.62" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -427,7 +476,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="179.64" default-y="-60.00" dynamics="122.22">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -441,7 +490,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="179.64" default-y="-40.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -453,7 +502,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="179.64" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -467,7 +516,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="255.69" default-y="-60.00" dynamics="122.22">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -480,7 +529,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="255.69" default-y="-40.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -494,7 +543,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="255.69" default-y="-20.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -513,7 +562,7 @@
         <function>VI.V7</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="39.76" default-y="-145.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -527,7 +576,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="39.76" default-y="-110.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -545,7 +594,7 @@
         <function>bV(+b9)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="101.62" default-y="-145.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -558,7 +607,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="101.62" default-y="-110.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -575,7 +624,7 @@
         <function>V7/bVII</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="179.64" default-y="-150.00" dynamics="122.22">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -589,7 +638,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="179.64" default-y="-115.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -607,7 +656,7 @@
         <function>Fr43/bvi</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="255.69" default-y="-150.00" dynamics="122.22">
         <pitch>
           <step>F</step>
           <octave>2</octave>
@@ -620,7 +669,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="255.69" default-y="-115.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -634,8 +683,8 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="3">
-      <note dynamics="122.22">
+    <measure number="3" width="310.27">
+      <note default-x="21.54" default-y="-40.00" dynamics="122.22">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -648,7 +697,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="21.54" default-y="-20.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -662,7 +711,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="33.54" default-y="-15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -674,7 +723,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="82.81" default-y="-45.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -688,7 +737,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="82.81" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -700,7 +749,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="82.81" default-y="-15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -714,7 +763,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="190.48" default-y="-45.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -727,7 +776,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="190.48" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -741,7 +790,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="190.48" default-y="-10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -753,7 +802,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="249.48" default-y="-45.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -767,7 +816,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="249.48" default-y="-30.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -779,7 +828,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="249.48" default-y="-5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -800,7 +849,7 @@
         <function>iv.III7</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="21.54" default-y="-130.00" dynamics="122.22">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -812,7 +861,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="21.54" default-y="-95.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -828,7 +877,7 @@
         <function>V7(+#9)/V</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="82.81" default-y="-135.00" dynamics="122.22">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -841,7 +890,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="82.81" default-y="-100.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -858,7 +907,7 @@
         <function>N7</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="190.48" default-y="-135.00" dynamics="122.22">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -872,7 +921,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="190.48" default-y="-100.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -890,7 +939,7 @@
         <function>V7(b5)/iv</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="249.48" default-y="-140.00" dynamics="122.22">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -903,7 +952,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="249.48" default-y="-105.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -917,13 +966,24 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="4">
-      <print new-system="yes"/>
+    <measure number="4" width="404.93">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>320.00</system-distance>
+          </system-layout>
+        <staff-layout number="2">
+          <staff-distance>94.27</staff-distance>
+          </staff-layout>
+        </print>
       <harmony print-frame="no">
         <function>I.bVI+6</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="83.79" default-y="-40.00" dynamics="122.22">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -936,7 +996,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="83.79" default-y="-30.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -950,7 +1010,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="83.79" default-y="-15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -963,7 +1023,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="83.79" default-y="-5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -980,7 +1040,7 @@
         <function>v%43(-3)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="154.39" default-y="-35.00" dynamics="122.22">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -992,7 +1052,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="154.39" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1005,7 +1065,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="166.38" default-y="-20.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1017,7 +1077,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="154.39" default-y="0.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1033,7 +1093,7 @@
         <function>V7/V</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="263.75" default-y="-35.00" dynamics="122.22">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1047,7 +1107,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="263.75" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1061,7 +1121,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="251.76" default-y="-5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1073,7 +1133,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="263.75" default-y="0.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1091,7 +1151,7 @@
         <function>bI+6(+4)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="356.62" default-y="-30.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1104,7 +1164,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="344.63" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1117,7 +1177,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="356.62" default-y="-20.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1129,7 +1189,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="356.62" default-y="-5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1143,7 +1203,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="356.62" default-y="5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1162,7 +1222,7 @@
         <function>bI7(#5)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="83.79" default-y="-169.27" dynamics="122.22">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -1176,7 +1236,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="71.80" default-y="-139.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1190,7 +1250,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="83.79" default-y="-134.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1208,7 +1268,7 @@
         <function>V7(+9)/III</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="154.39" default-y="-174.27" dynamics="122.22">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -1221,7 +1281,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="142.39" default-y="-144.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1233,7 +1293,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="154.39" default-y="-139.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1250,7 +1310,7 @@
         <function>bI.bIII7(^6)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="263.75" default-y="-174.27" dynamics="122.22">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -1264,7 +1324,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="263.75" default-y="-149.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1277,7 +1337,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="263.75" default-y="-139.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1295,7 +1355,7 @@
         <function>IIWT</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="356.62" default-y="-179.27" dynamics="122.22">
         <pitch>
           <step>F</step>
           <octave>2</octave>
@@ -1308,7 +1368,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="356.62" default-y="-149.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1322,7 +1382,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="368.62" default-y="-144.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1336,12 +1396,12 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="5">
+    <measure number="5" width="350.12">
       <harmony print-frame="no">
         <function>bVI+64(-3)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="18.76" default-y="-30.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1355,7 +1415,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="18.76" default-y="-15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1367,7 +1427,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="18.76" default-y="5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1385,7 +1445,7 @@
         <function>IV7</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="100.58" default-y="-30.00" dynamics="122.22">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1398,7 +1458,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="112.58" default-y="-25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1410,7 +1470,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="112.58" default-y="-15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1424,7 +1484,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="112.58" default-y="10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1440,7 +1500,7 @@
         <function>bVII+64</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="198.95" default-y="-25.00" dynamics="122.22">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -1454,7 +1514,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="198.95" default-y="-10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1466,7 +1526,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="198.95" default-y="0.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1480,7 +1540,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="198.95" default-y="10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1498,7 +1558,7 @@
         <function>V</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="301.81" default-y="-20.00" dynamics="122.22">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1510,7 +1570,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="301.81" default-y="-10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1524,7 +1584,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="301.81" default-y="0.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1537,7 +1597,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="301.81" default-y="15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1556,7 +1616,7 @@
         <function>N7(+6)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="18.76" default-y="-184.27" dynamics="122.22">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -1568,7 +1628,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="18.76" default-y="-154.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1580,7 +1640,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="30.76" default-y="-149.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1597,7 +1657,7 @@
         <function>I7(+#6#4)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="112.58" default-y="-184.27" dynamics="122.22">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -1611,7 +1671,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="112.58" default-y="-154.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1625,7 +1685,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="124.57" default-y="-149.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1643,7 +1703,7 @@
         <function>V7(v##6)/III</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="198.95" default-y="-189.27" dynamics="122.22">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -1655,7 +1715,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="198.95" default-y="-159.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1667,7 +1727,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="210.94" default-y="-154.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1684,7 +1744,7 @@
         <function>bII7(+#6##3##1)/V/V/V</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="301.81" default-y="-189.27" dynamics="122.22">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1698,7 +1758,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="301.81" default-y="-159.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1712,7 +1772,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="313.81" default-y="-154.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1727,12 +1787,12 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="6">
+    <measure number="6" width="307.37">
       <harmony print-frame="no">
         <function>V7/N</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="32.42" default-y="-15.00" dynamics="122.22">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1745,7 +1805,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="32.42" default-y="-5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1757,7 +1817,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="20.42" default-y="15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1771,7 +1831,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="32.42" default-y="20.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1787,7 +1847,7 @@
         <function>N+43</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="111.51" default-y="-15.00" dynamics="122.22">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1801,7 +1861,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="99.52" default-y="-5.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1815,7 +1875,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="111.51" default-y="0.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1827,7 +1887,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="111.51" default-y="10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1839,7 +1899,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="111.51" default-y="20.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1857,7 +1917,7 @@
         <function>V65/bI</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="-10.00" dynamics="122.22">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1873,7 +1933,7 @@
             </articulations>
           </notations>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="0.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1885,7 +1945,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="177.68" default-y="10.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1899,7 +1959,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="15.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1912,7 +1972,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="25.00" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1924,7 +1984,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note>
+      <note default-x="249.87" default-y="-20.00">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -1938,7 +1998,7 @@
         <function>V7/V/V</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="32.42" default-y="-194.27" dynamics="122.22">
         <pitch>
           <step>C</step>
           <octave>2</octave>
@@ -1951,7 +2011,7 @@
         <staff>2</staff>
         <beam number="1">begin</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="32.42" default-y="-164.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1965,7 +2025,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="44.41" default-y="-159.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1982,7 +2042,7 @@
         <function>Fr(+#5)</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="111.51" default-y="-199.27" dynamics="122.22">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -1995,7 +2055,7 @@
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
-      <note dynamics="122.22">
+      <note default-x="111.51" default-y="-169.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2007,7 +2067,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="123.51" default-y="-164.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2024,7 +2084,7 @@
         <function>V7|HC}</function>
         <kind text="">none</kind>
         </harmony>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="-199.27" dynamics="122.22">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2042,7 +2102,7 @@
             </articulations>
           </notations>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="-164.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2056,7 +2116,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="-144.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2068,7 +2128,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="-134.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2082,7 +2142,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="201.67" default-y="-129.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2096,7 +2156,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note dynamics="122.22">
+      <note default-x="189.67" default-y="-119.27" dynamics="122.22">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2108,7 +2168,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note>
+      <note default-x="249.87" default-y="-154.27">
         <rest/>
         <duration>1</duration>
         <voice>5</voice>
