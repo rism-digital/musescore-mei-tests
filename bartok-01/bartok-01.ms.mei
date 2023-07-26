@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-07-24T17:38:20" />
+            <date isodate="2023-07-25T17:58:55" />
             <availability>
                <distributor>©</distributor>
             </availability>
@@ -100,6 +100,7 @@
                      </staff>
                      <tempo xml:id="m1dn1" type="mscore-infer-from-text" startid="#s1l1_t0_1" midi.bpm="126.000000">Andante <rend glyph.auth="smufl"></rend> = 126</tempo>
                      <dynam xml:id="m1dn2" label="p" startid="#s1l1_t0_1">p</dynam>
+                     <slur xml:id="m1sl1" startid="#s1l1_t0_1" endid="#s1l1_t71_4" />
                   </measure>
                   <measure xml:id="m2" n="2">
                      <staff xml:id="m2s1" n="1">
@@ -220,6 +221,7 @@
                      </staff>
                      <dynam xml:id="m3dn1" label="mf" startid="#s2l1_t3_2">mf</dynam>
                      <harm xml:id="m3hr1" type="mscore-roman" startid="#s2l1_t3_2">e.V64(+6){</harm>
+                     <slur xml:id="m3sl1" startid="#s2l1_t3_2" endid="#s2l1_t15_4" />
                   </measure>
                   <measure xml:id="m4" n="4">
                      <staff xml:id="m4s1" n="1">
@@ -463,6 +465,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="m7hr1" type="mscore-roman" startid="#s2l1_t9_2">V64(+6)</harm>
+                     <slur xml:id="m7sl1" startid="#s2l1_t9_2" endid="#s2l1_t27_4" />
                   </measure>
                   <measure xml:id="m8" n="8">
                      <staff xml:id="m8s1" n="1">
@@ -705,6 +708,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <slur xml:id="m11sl1" startid="#s2l1_t15_2" endid="#s2l1_t39_4" />
                      <harm xml:id="m11hr1" type="mscore-roman" startid="#s2l1_t15_2">V64(+6)</harm>
                   </measure>
                   <measure xml:id="m12" n="12">
@@ -952,6 +956,7 @@
                      </staff>
                      <dynam xml:id="m15dn1" label="p" startid="#s2l1_t21_2">p</dynam>
                      <harm xml:id="m15hr1" type="mscore-roman" startid="#s2l1_t21_2">V2/VI{</harm>
+                     <slur xml:id="m15sl1" startid="#s2l1_t21_2" endid="#s2l1_t53_4" />
                   </measure>
                   <measure xml:id="m16" n="16">
                      <staff xml:id="m16s1" n="1">
@@ -1203,6 +1208,7 @@
                      </staff>
                      <dynam xml:id="m19dn1" label="mf" startid="#s2l1_t27_2">mf</dynam>
                      <harm xml:id="m19hr1" type="mscore-roman" startid="#s2l1_t27_2">V64(+6){</harm>
+                     <slur xml:id="m19sl1" startid="#s2l1_t27_2" endid="#s2l1_t119_8" />
                   </measure>
                   <measure xml:id="m20" n="20">
                      <staff xml:id="m20s1" n="1">
@@ -1329,6 +1335,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="m21hr1" type="mscore-roman" startid="#s2l1_t15_1">V64(+6)</harm>
+                     <slur xml:id="m21sl1" startid="#s2l1_t15_1" endid="#s2l1_t131_8" />
                   </measure>
                   <measure xml:id="m22" n="22">
                      <staff xml:id="m22s1" n="1">

@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-07-24T17:39:11" />
+            <date isodate="2023-07-25T17:57:51" />
             <availability>
                <distributor>CC BY-NC-SA 4.0; CCARH; DCML</distributor>
             </availability>
@@ -160,6 +160,8 @@
                            <note xml:id="s4l1_t3_2" dur="2" pname="f" oct="3" />
                         </layer>
                      </staff>
+                     <slur xml:id="m2sl1" startid="#s1l1_t1_1" endid="#s1l1_t9_8" />
+                     <slur xml:id="m2sl2" startid="#s2l1_t1_1" endid="#s2l1_t9_8" />
                      <harm xml:id="m2hr1" type="mscore-roman" startid="#s4l1_t1_1">IV</harm>
                      <harm xml:id="m2hr2" type="mscore-roman" startid="#s4l1_t9_8">I</harm>
                      <harm xml:id="m2hr3" type="mscore-roman" startid="#s4l1_t5_4">V(4)</harm>
@@ -227,10 +229,14 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m3sl1" startid="#s1l1_t21_8" endid="#s1l1_t43_16" />
+                     <slur xml:id="m3sl2" startid="#s2l1_t23_8" endid="#s2l1_t47_16" />
+                     <slur xml:id="m3sl3" startid="#s3l1_t23_8" endid="#s3l1_t47_16" />
                      <harm xml:id="m3hr1" type="mscore-roman" startid="#s4l1_t2_1">{</harm>
                      <harm xml:id="m3hr2" type="mscore-roman" startid="#s4l1_t9_4">I6</harm>
                      <harm xml:id="m3hr3" type="mscore-roman" startid="#s4l1_t19_8">vii%7/V</harm>
                      <harm xml:id="m3hr4" type="mscore-roman" startid="#s4l1_t5_2">V</harm>
+                     <slur xml:id="m3sl4" startid="#s4l1_t23_8" endid="#s4l1_t47_16" />
                   </measure>
                   <measure xml:id="m4" n="4">
                      <staff xml:id="m4s1" n="1">
@@ -297,8 +303,16 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m4sl1" startid="#s1l1_t25_8" endid="#s1l1_t51_16" />
+                     <slur xml:id="m4sl2" startid="#s1l1_t29_8" endid="#s1l1_t59_16" />
+                     <slur xml:id="m4sl3" startid="#s2l1_t27_8" endid="#s2l1_t55_16" />
+                     <slur xml:id="m4sl4" startid="#s2l1_t31_8" endid="#s2l1_t63_16" />
+                     <slur xml:id="m4sl5" startid="#s3l1_t27_8" endid="#s3l1_t55_16" />
+                     <slur xml:id="m4sl6" startid="#s3l1_t31_8" endid="#s3l1_t63_16" />
                      <harm xml:id="m4hr1" type="mscore-roman" startid="#s4l1_t3_1">ii6(2)</harm>
+                     <slur xml:id="m4sl7" startid="#s4l1_t27_8" endid="#s4l1_t55_16" />
                      <harm xml:id="m4hr2" type="mscore-roman" startid="#s4l1_t7_2">I6(2)</harm>
+                     <slur xml:id="m4sl8" startid="#s4l1_t31_8" endid="#s4l1_t63_16" />
                   </measure>
                   <measure xml:id="m5" n="5">
                      <staff xml:id="m5s1" n="1">
@@ -531,8 +545,15 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m9sl1" startid="#s1l1_t69_8" endid="#s1l1_t139_16" />
+                     <slur xml:id="m9sl2" startid="#s2l1_t67_8" endid="#s2l1_t135_16" />
+                     <slur xml:id="m9sl3" startid="#s2l1_t71_8" endid="#s2l1_t143_16" />
+                     <slur xml:id="m9sl4" startid="#s3l1_t67_8" endid="#s3l1_t135_16" />
+                     <slur xml:id="m9sl5" startid="#s3l1_t71_8" endid="#s3l1_t143_16" />
                      <harm xml:id="m9hr1" type="mscore-roman" startid="#s4l1_t8_1">i|PAC}</harm>
+                     <slur xml:id="m9sl6" startid="#s4l1_t67_8" endid="#s4l1_t135_16" />
                      <harm xml:id="m9hr2" type="mscore-roman" startid="#s4l1_t17_2">iii6(2)</harm>
+                     <slur xml:id="m9sl7" startid="#s4l1_t71_8" endid="#s4l1_t143_16" />
                   </measure>
                   <measure xml:id="m10" n="10">
                      <staff xml:id="m10s1" n="1">
@@ -606,11 +627,15 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m10sl1" startid="#s1l1_t73_8" endid="#s1l1_t147_16" />
+                     <slur xml:id="m10sl2" startid="#s2l1_t79_8" endid="#s2l1_t159_16" />
+                     <slur xml:id="m10sl3" startid="#s3l1_t79_8" endid="#s3l1_t159_16" />
                      <harm xml:id="m10hr1" type="mscore-roman" startid="#s4l1_t9_1">ii6(2)</harm>
                      <harm xml:id="m10hr2" type="mscore-roman" startid="#s4l1_t37_4">V6/V</harm>
                      <harm xml:id="m10hr3" type="mscore-roman" startid="#s4l1_t19_2">V</harm>
                      <harm xml:id="m10hr4" type="mscore-roman" startid="#s4l1_t39_4">I6</harm>
                      <harm xml:id="m10hr5" type="mscore-roman" startid="#s4l1_t79_8">IV</harm>
+                     <slur xml:id="m10sl4" startid="#s4l1_t79_8" endid="#s4l1_t159_16" />
                   </measure>
                   <measure xml:id="m11" n="11">
                      <staff xml:id="m11s1" n="1">
@@ -692,11 +717,17 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m11sl1" startid="#s1l1_t10_1" endid="#s1l1_t161_16" />
+                     <slur xml:id="m11sl2" startid="#s1l1_t81_8" endid="#s1l1_t163_16" />
+                     <slur xml:id="m11sl3" startid="#s1l1_t85_8" endid="#s1l1_t171_16" />
+                     <slur xml:id="m11sl4" startid="#s2l1_t87_8" endid="#s2l1_t175_16" />
+                     <slur xml:id="m11sl5" startid="#s3l1_t87_8" endid="#s3l1_t175_16" />
                      <harm xml:id="m11hr1" type="mscore-roman" startid="#s4l1_t10_1">vi</harm>
                      <harm xml:id="m11hr2" type="mscore-roman" startid="#s4l1_t81_8">IV</harm>
                      <harm xml:id="m11hr3" type="mscore-roman" startid="#s4l1_t41_4">V(4)</harm>
                      <harm xml:id="m11hr4" type="mscore-roman" startid="#s4l1_t21_2">I|PAC}</harm>
                      <harm xml:id="m11hr5" type="mscore-roman" startid="#s4l1_t43_4">IV6</harm>
+                     <slur xml:id="m11sl6" startid="#s4l1_t87_8" endid="#s4l1_t175_16" />
                   </measure>
                   <measure xml:id="m12" n="12">
                      <staff xml:id="m12s1" n="1">
@@ -765,7 +796,12 @@
                            </note>
                         </layer>
                      </staff>
+                     <slur xml:id="m12sl1" startid="#s1l1_t89_8" endid="#s1l1_t179_16" />
+                     <slur xml:id="m12sl2" startid="#s1l1_t93_8" endid="#s1l1_t187_16" />
+                     <slur xml:id="m12sl3" startid="#s2l1_t91_8" endid="#s2l1_t183_16" />
+                     <slur xml:id="m12sl4" startid="#s3l1_t91_8" endid="#s3l1_t183_16" />
                      <harm xml:id="m12hr1" type="mscore-roman" startid="#s4l1_t11_1">iii6(2)</harm>
+                     <slur xml:id="m12sl5" startid="#s4l1_t91_8" endid="#s4l1_t183_16" />
                      <harm xml:id="m12hr2" type="mscore-roman" startid="#s4l1_t23_2">ii6(2)</harm>
                      <harm xml:id="m12hr3" type="mscore-roman" startid="#s4l1_t47_4">V6/V</harm>
                   </measure>
@@ -854,9 +890,14 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m13sl1" startid="#s1l1_t25_2" endid="#s1l1_t201_16" />
+                     <slur xml:id="m13sl2" startid="#s1l1_t101_8" endid="#s1l1_t203_16" />
+                     <slur xml:id="m13sl3" startid="#s2l1_t99_8" endid="#s2l1_t199_16" />
+                     <slur xml:id="m13sl4" startid="#s3l1_t99_8" endid="#s3l1_t199_16" />
                      <harm xml:id="m13hr1" type="mscore-roman" startid="#s4l1_t12_1">V</harm>
                      <harm xml:id="m13hr2" type="mscore-roman" startid="#s4l1_t49_4">I6</harm>
                      <harm xml:id="m13hr3" type="mscore-roman" startid="#s4l1_t99_8">IV</harm>
+                     <slur xml:id="m13sl5" startid="#s4l1_t99_8" endid="#s4l1_t199_16" />
                      <harm xml:id="m13hr4" type="mscore-roman" startid="#s4l1_t25_2">vi</harm>
                      <harm xml:id="m13hr5" type="mscore-roman" startid="#s4l1_t101_8">IV</harm>
                      <harm xml:id="m13hr6" type="mscore-roman" startid="#s4l1_t51_4">V(4)</harm>
