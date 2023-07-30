@@ -8,7 +8,7 @@
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-26-15:13:39" />
+            <date isodate="2023-07-30T14:58:44" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -298,6 +298,7 @@
                            <mRest xml:id="m5s2l1z1" />
                         </layer>
                      </staff>
+                     <tie xml:id="m5ti1" startid="#s1l2_t37_8" endid="#s1l2_t19_4" />
                   </measure>
                   <measure xml:id="m6" n="6">
                      <staff xml:id="m6s1" n="1">
@@ -366,6 +367,8 @@
                            <mRest xml:id="m6s2l1z1" />
                         </layer>
                      </staff>
+                     <tie xml:id="m6ti1" startid="#s1l1_t23_4" endid="#s1l1_t6_1" />
+                     <tie xml:id="m6ti2" startid="#s1l2_t41_8" endid="#s1l2_t21_4" />
                   </measure>
                   <measure xml:id="m7" n="7">
                      <staff xml:id="m7s1" n="1">
@@ -1244,6 +1247,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m17ti1" startid="#s1l2_t133_8" endid="#s1l2_t67_4" />
                   </measure>
                   <measure xml:id="m18" n="18">
                      <staff xml:id="m18s1" n="1">
@@ -1326,6 +1330,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m18ti1" startid="#s1l2_t137_8" endid="#s1l2_t69_4" />
                   </measure>
                   <measure xml:id="m19" n="19">
                      <staff xml:id="m19s1" n="1">
@@ -1414,6 +1419,8 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m19ti1" startid="#s2l1_t145_8" endid="#s2l1_t73_4" />
+                     <tie xml:id="m19ti2" startid="#s2l1_t149_8" endid="#s2l1_t75_4" />
                   </measure>
                   <measure xml:id="m20" n="20">
                      <staff xml:id="m20s1" n="1">
@@ -1727,6 +1734,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m23ti1" startid="#s1l1_t183_8" endid="#s1l1_t23_1" />
                   </measure>
                   <measure xml:id="m24" n="24">
                      <staff xml:id="m24s1" n="1">
@@ -1817,6 +1825,8 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m24ti1" startid="#s1l1_t47_2" endid="#s1l1_t24_1" />
+                     <tie xml:id="m24ti2" startid="#s1l2_t23_1" endid="#s1l2_t47_2" />
                   </measure>
                   <measure xml:id="m25" n="25">
                      <staff xml:id="m25s1" n="1">
@@ -1953,6 +1963,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m26ti1" startid="#s1l2_t203_8" endid="#s1l2_t51_2" />
                   </measure>
                   <measure xml:id="m27" n="27">
                      <staff xml:id="m27s1" n="1">
@@ -2148,6 +2159,9 @@
                            </chord>
                         </layer>
                      </staff>
+                     <tie xml:id="m29ti1" startid="#s1l2_t451_16" endid="#s1l2_t113_4" />
+                     <tie xml:id="m29ti2" startid="#m29s2l1n1" endid="#m30s2l1n1" />
+                     <tie xml:id="m29ti3" startid="#m29s2l1n2" endid="#m30s2l1n2" />
                   </measure>
                   <measure xml:id="m30" n="30">
                      <staff xml:id="m30s1" n="1">
@@ -2211,6 +2225,8 @@
                            </chord>
                         </layer>
                      </staff>
+                     <tie xml:id="m30ti1" startid="#m30s2l1n1" endid="#m31s2l1n1" />
+                     <tie xml:id="m30ti2" startid="#m30s2l1n2" endid="#m31s2l1n2" />
                   </measure>
                   <measure xml:id="m31" right="end" n="31">
                      <staff xml:id="m31s1" n="1">

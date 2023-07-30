@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-07-25T17:57:51" />
+            <date isodate="2023-07-30T14:59:43" />
             <availability>
                <distributor>CC BY-NC-SA 4.0; CCARH; DCML</distributor>
             </availability>
@@ -230,6 +230,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="m3sl1" startid="#s1l1_t21_8" endid="#s1l1_t43_16" />
+                     <tie xml:id="m3ti1" startid="#s1l1_t11_4" endid="#s1l1_t3_1" />
                      <slur xml:id="m3sl2" startid="#s2l1_t23_8" endid="#s2l1_t47_16" />
                      <slur xml:id="m3sl3" startid="#s3l1_t23_8" endid="#s3l1_t47_16" />
                      <harm xml:id="m3hr1" type="mscore-roman" startid="#s4l1_t2_1">{</harm>
@@ -304,7 +305,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="m4sl1" startid="#s1l1_t25_8" endid="#s1l1_t51_16" />
+                     <tie xml:id="m4ti1" startid="#s1l1_t13_4" endid="#s1l1_t7_2" />
                      <slur xml:id="m4sl2" startid="#s1l1_t29_8" endid="#s1l1_t59_16" />
+                     <tie xml:id="m4ti2" startid="#s1l1_t15_4" endid="#s1l1_t4_1" />
                      <slur xml:id="m4sl3" startid="#s2l1_t27_8" endid="#s2l1_t55_16" />
                      <slur xml:id="m4sl4" startid="#s2l1_t31_8" endid="#s2l1_t63_16" />
                      <slur xml:id="m4sl5" startid="#s3l1_t27_8" endid="#s3l1_t55_16" />
@@ -389,6 +392,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <tie xml:id="m6ti1" startid="#s1l1_t23_4" endid="#s1l1_t6_1" />
                      <harm xml:id="m6hr1" type="mscore-roman" startid="#s4l1_t5_1">I|PAC}</harm>
                      <harm xml:id="m6hr2" type="mscore-roman" startid="#s4l1_t21_4">I.I6{</harm>
                      <harm xml:id="m6hr3" type="mscore-roman" startid="#s4l1_t11_2">IV(9)</harm>
@@ -430,6 +434,7 @@
                            <note xml:id="s4l1_t27_4" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <tie xml:id="m7ti1" startid="#s2l1_t27_4" endid="#s2l1_t7_1" />
                      <harm xml:id="m7hr1" type="mscore-roman" startid="#s4l1_t6_1">V7</harm>
                      <harm xml:id="m7hr2" type="mscore-roman" startid="#s4l1_t25_4">vi.i</harm>
                      <harm xml:id="m7hr3" type="mscore-roman" startid="#s4l1_t13_2">vi65</harm>
@@ -545,7 +550,9 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="m9ti1" startid="#s1l1_t33_4" endid="#s1l1_t17_2" />
                      <slur xml:id="m9sl1" startid="#s1l1_t69_8" endid="#s1l1_t139_16" />
+                     <tie xml:id="m9ti2" startid="#s1l1_t35_4" endid="#s1l1_t9_1" />
                      <slur xml:id="m9sl2" startid="#s2l1_t67_8" endid="#s2l1_t135_16" />
                      <slur xml:id="m9sl3" startid="#s2l1_t71_8" endid="#s2l1_t143_16" />
                      <slur xml:id="m9sl4" startid="#s3l1_t67_8" endid="#s3l1_t135_16" />
@@ -720,6 +727,7 @@
                      <slur xml:id="m11sl1" startid="#s1l1_t10_1" endid="#s1l1_t161_16" />
                      <slur xml:id="m11sl2" startid="#s1l1_t81_8" endid="#s1l1_t163_16" />
                      <slur xml:id="m11sl3" startid="#s1l1_t85_8" endid="#s1l1_t171_16" />
+                     <tie xml:id="m11ti1" startid="#s1l1_t43_4" endid="#s1l1_t11_1" />
                      <slur xml:id="m11sl4" startid="#s2l1_t87_8" endid="#s2l1_t175_16" />
                      <slur xml:id="m11sl5" startid="#s3l1_t87_8" endid="#s3l1_t175_16" />
                      <harm xml:id="m11hr1" type="mscore-roman" startid="#s4l1_t10_1">vi</harm>
@@ -797,6 +805,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="m12sl1" startid="#s1l1_t89_8" endid="#s1l1_t179_16" />
+                     <tie xml:id="m12ti1" startid="#s1l1_t45_4" endid="#s1l1_t23_2" />
                      <slur xml:id="m12sl2" startid="#s1l1_t93_8" endid="#s1l1_t187_16" />
                      <slur xml:id="m12sl3" startid="#s2l1_t91_8" endid="#s2l1_t183_16" />
                      <slur xml:id="m12sl4" startid="#s3l1_t91_8" endid="#s3l1_t183_16" />

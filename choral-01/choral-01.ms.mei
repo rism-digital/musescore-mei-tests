@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-26-15:14:14" />
+            <date isodate="2023-07-30T14:59:26" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -116,6 +116,7 @@
                            <note xml:id="s2l2_t3_2" dur="4" pname="e" oct="3" />
                         </layer>
                      </staff>
+                     <slur xml:id="m3sl1" startid="#s1l1_t1_1" endid="#s1l1_t11_8" />
                   </measure>
                   <measure xml:id="m4" n="3">
                      <staff xml:id="m4s1" n="1">
@@ -156,6 +157,7 @@
                            <note xml:id="s2l2_t9_4" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <slur xml:id="m4sl1" startid="#s1l1_t7_4" endid="#s1l1_t9_4" />
                   </measure>
                   <measure xml:id="m5" n="4">
                      <staff xml:id="m5s1" n="1">
@@ -278,6 +280,7 @@
                            <note xml:id="s2l2_t21_4" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <slur xml:id="m9sl1" startid="#s1l2_t21_4" endid="#s1l2_t11_2" />
                   </measure>
                   <measure xml:id="m10" n="8">
                      <staff xml:id="m10s1" n="1">
@@ -317,6 +320,8 @@
                            <note xml:id="s2l2_t12_2" dur="4" pname="b" oct="2" />
                         </layer>
                      </staff>
+                     <slur xml:id="m10sl1" startid="#s1l1_t11_2" endid="#s1l1_t23_4" />
+                     <slur xml:id="m10sl2" startid="#s1l2_t12_2" endid="#s1l2_t25_4" />
                   </measure>
                   <measure xml:id="m11" n="9">
                      <staff xml:id="m11s1" n="1">
@@ -354,6 +359,7 @@
                            <note xml:id="s2l2_t27_4" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
+                     <slur xml:id="m11sl1" startid="#s1l1_t25_4" endid="#s1l1_t53_8" />
                   </measure>
                   <measure xml:id="m12" n="20">
                      <staff xml:id="m12s1" n="1">
@@ -380,6 +386,7 @@
                      </staff>
                      <fermata xml:id="m12fm1" startid="#s1l1_t7_1" />
                      <fermata xml:id="m12fm2" startid="#s2l2_t7_1" place="below" />
+                     <slur xml:id="m12sl1" startid="#s2l2_t15_2" endid="#s2l2_t31_4" />
                   </measure>
                   <measure xml:id="m13" n="21">
                      <staff xml:id="m13s1" n="1">
@@ -546,6 +553,7 @@
                            <note xml:id="s2l2_t24_2" dur="4" pname="d" oct="3" />
                         </layer>
                      </staff>
+                     <slur xml:id="m18sl1" startid="#s1l2_t24_2" endid="#s1l2_t49_4" />
                   </measure>
                   <measure xml:id="m19" n="27">
                      <staff xml:id="m19s1" n="1">
@@ -591,6 +599,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <slur xml:id="m19sl1" startid="#s1l1_t49_4" endid="#s1l1_t51_4" />
                   </measure>
                   <measure xml:id="m20" n="28">
                      <staff xml:id="m20s1" n="1">
@@ -617,6 +626,7 @@
                      </staff>
                      <fermata xml:id="m20fm1" startid="#s1l1_t13_1" />
                      <fermata xml:id="m20fm2" startid="#s2l2_t13_1" place="below" />
+                     <slur xml:id="m20sl1" startid="#s2l2_t27_2" endid="#s2l2_t55_4" />
                   </measure>
                   <measure xml:id="m21" n="29">
                      <staff xml:id="m21s1" n="1">
@@ -647,6 +657,7 @@
                            <note xml:id="s2l2_t57_4" dur="4" pname="e" oct="3" />
                         </layer>
                      </staff>
+                     <slur xml:id="m21sl1" startid="#s2l2_t57_4" endid="#s2l2_t29_2" />
                   </measure>
                   <measure xml:id="m22" n="30">
                      <staff xml:id="m22s1" n="1">
