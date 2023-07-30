@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-07-30T14:58:51" />
+            <date isodate="2023-07-30T18:39:14" />
             <availability>
                <distributor>©</distributor>
             </availability>
@@ -95,12 +95,13 @@
                      </staff>
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
-                           <mRest xml:id="m1s2l1z1" />
+                           <mRest xml:id="s2l1_t0_1" />
                         </layer>
                      </staff>
                      <tempo xml:id="m1dn1" type="mscore-infer-from-text" startid="#s1l1_t0_1" midi.bpm="126.000000">Andante <rend glyph.auth="smufl"></rend> = 126</tempo>
                      <dynam xml:id="m1dn2" label="p" startid="#s1l1_t0_1">p</dynam>
                      <slur xml:id="m1sl1" startid="#s1l1_t0_1" endid="#s1l1_t71_4" />
+                     <dir xml:id="m1dr1" type="mscore-staff-text" startid="#s1l1_t1_20">sempre leggiero e legato</dir>
                   </measure>
                   <measure xml:id="m2" n="2">
                      <staff xml:id="m2s1" n="1">
@@ -156,7 +157,7 @@
                      </staff>
                      <staff xml:id="m2s2" n="2">
                         <layer xml:id="m2s2l1" n="1">
-                           <mRest xml:id="m2s2l1z1" />
+                           <mRest xml:id="s2l1_t3_4" />
                         </layer>
                      </staff>
                   </measure>
@@ -220,6 +221,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="m3dn1" label="mf" startid="#s2l1_t3_2">mf</dynam>
+                     <dir xml:id="m3dr1" type="mscore-staff-text" startid="#s2l1_t3_2">espress.</dir>
                      <harm xml:id="m3hr1" type="mscore-roman" startid="#s2l1_t3_2">e.V64(+6){</harm>
                      <slur xml:id="m3sl1" startid="#s2l1_t3_2" endid="#s2l1_t15_4" />
                   </measure>
@@ -957,6 +959,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="m15dn1" label="p" startid="#s2l1_t21_2">p</dynam>
+                     <dir xml:id="m15dr1" type="mscore-staff-text" startid="#s2l1_t21_2">più</dir>
                      <harm xml:id="m15hr1" type="mscore-roman" startid="#s2l1_t21_2">V2/VI{</harm>
                      <slur xml:id="m15sl1" startid="#s2l1_t21_2" endid="#s2l1_t53_4" />
                      <tie xml:id="m15ti1" startid="#s2l1_t21_2" endid="#s2l1_t45_4" />
@@ -1404,6 +1407,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <dir xml:id="m22dr1" type="mscore-staff-text" startid="#s1l1_t64_4">ritard.</dir>
                      <harm xml:id="m22hr1" type="mscore-roman" startid="#s2l1_t63_4">i</harm>
                      <harm xml:id="m22hr2" type="mscore-roman" startid="#s2l1_t64_4">V6(6)</harm>
                      <harm xml:id="m22hr3" type="mscore-roman" startid="#s2l1_t65_4">iv7(9)</harm>
