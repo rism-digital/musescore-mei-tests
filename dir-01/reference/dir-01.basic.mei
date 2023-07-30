@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead xml:id="mhwyl31">
+      <fileDesc xml:id="fjvjit8">
+         <titleStmt xml:id="t12s9z7">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1kdc6dk">
+            <date isodate="2023-07-30" type="encoding-date">2023-07-30</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e7k2upn">
+         <appInfo xml:id="akfoev0">
+            <application xml:id="a19etzs2" isodate="2023-07-30T18:32:06" version="3.16.0">
+               <name xml:id="n1ltfmlh">Verovio</name>
+               <p xml:id="pkiirqq">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m86epv4">
+            <score xml:id="s1tnbjkv">
+               <scoreDef xml:id="steh9mv">
+                  <pgHead xml:id="pzem70r">
+                     <rend xml:id="r1tp5bz5" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="rrjtwx9" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r83c6vh" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1gkehuk">
+                     <staffGrp xml:id="sw4rx9u" symbol="bracket">
+                        <staffDef xml:id="P1" n="1" lines="5" ppq="1" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="lnek53m">Oboe</label>
+                           <labelAbbr xml:id="l1d1y4cw">Ob.</labelAbbr>
+                           <instrDef xml:id="i1nqgq3o" midi.channel="0" midi.instrnum="68" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P2" n="2" lines="5" ppq="1" clef.shape="F" clef.line="4" keysig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l1s3tudp">Bassoon</label>
+                           <labelAbbr xml:id="lr5l65i">Bsn.</labelAbbr>
+                           <instrDef xml:id="it2faas" midi.channel="1" midi.instrnum="70" midi.volume="78.00%" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="syxejfa">
+                  <measure xml:id="mehx8tw" n="1">
+                     <staff xml:id="s1x0hhq7" n="1">
+                        <layer xml:id="l1bi4a2q" n="1">
+                           <mRest xml:id="md86834" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1mol8el" n="2">
+                        <layer xml:id="l66nzg4" n="1">
+                           <mRest xml:id="m1opn98m" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="dn13l3m" place="above" staff="1" tstamp="1.000000" vgrp="200">Staff text</dir>
+                     <dir xml:id="d1q5wujy" staff="2" tstamp="1.000000">
+                        <rend xml:id="r19fikk7" fontstyle="italic">expression</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="mtac2u9" n="2">
+                     <staff xml:id="s18gb84a" n="1">
+                        <layer xml:id="l8kbv45" n="1">
+                           <mRest xml:id="mntq8ho" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="skcz2mv" n="2">
+                        <layer xml:id="l105fsdm" n="1">
+                           <mRest xml:id="mwp5k1q" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1605dhi" n="3">
+                     <staff xml:id="s1mfnvaz" n="1">
+                        <layer xml:id="l1g9wx5t" n="1">
+                           <mRest xml:id="mqma1k6" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="svvhwhj" n="2">
+                        <layer xml:id="l1uq2a41" n="1">
+                           <mRest xml:id="m1jydxpy" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="d13ap13c" place="below" staff="1" tstamp="1.000000">
+                        <rend xml:id="r18yjmn5" fontstyle="italic">tremolo</rend>
+                     </dir>
+                     <dir xml:id="dkcdotl" place="above" staff="2" tstamp="1.000000" vgrp="200">legato</dir>
+                  </measure>
+                  <measure xml:id="m1vvqr1a" right="end" n="4">
+                     <staff xml:id="s1ryxsq2" n="1">
+                        <layer xml:id="l11skism" n="1">
+                           <mRest xml:id="mmp5px6" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s128mtu7" n="2">
+                        <layer xml:id="l74c9lb" n="1">
+                           <mRest xml:id="moam9aj" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
