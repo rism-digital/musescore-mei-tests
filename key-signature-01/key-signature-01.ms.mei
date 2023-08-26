@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-15-18:43:55" />
+            <date isodate="2023-06-21-09:38:05" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -52,10 +52,10 @@
                   <measure xml:id="m1" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <note xml:id="m1s1l1n1" dur="1" pname="a" oct="4" />
+                           <note xml:id="s1l1_t0_1" dur="1" pname="a" oct="4" />
                         </layer>
                         <layer xml:id="m1s1l2" n="2">
-                           <note xml:id="m1s1l2n1" dur="1" pname="d" oct="4" />
+                           <note xml:id="s1l2_t0_1" dur="1" pname="d" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m1s2" n="2">
@@ -63,7 +63,7 @@
                            <mRest xml:id="m1s2l1z1" />
                         </layer>
                         <layer xml:id="m1s2l2" n="2">
-                           <note xml:id="m1s2l2n1" dur="1" pname="e" oct="4" />
+                           <note xml:id="s2l2_t0_1" dur="1" pname="e" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m1s3" n="3">
@@ -71,7 +71,7 @@
                            <mRest xml:id="m1s3l1z1" />
                         </layer>
                         <layer xml:id="m1s3l2" n="2">
-                           <note xml:id="m1s3l2n1" dur="1" pname="c" oct="3" />
+                           <note xml:id="s3l2_t0_1" dur="1" pname="c" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -85,10 +85,10 @@
                   <measure xml:id="m2" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <note xml:id="m2s1l1n1" dur="1" pname="a" oct="4" />
+                           <note xml:id="s1l1_t1_1" dur="1" pname="a" oct="4" />
                         </layer>
                         <layer xml:id="m2s1l2" n="2">
-                           <note xml:id="m2s1l2n1" dur="1" pname="d" oct="4" />
+                           <note xml:id="s1l2_t1_1" dur="1" pname="d" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m2s2" n="2">
@@ -96,7 +96,7 @@
                            <mRest xml:id="m2s2l1z1" />
                         </layer>
                         <layer xml:id="m2s2l2" n="2">
-                           <note xml:id="m2s2l2n1" dur="1" pname="e" oct="4">
+                           <note xml:id="s2l2_t1_1" dur="1" pname="e" oct="4">
                               <accid xml:id="m2s2l2a1" accid.ges="f" />
                            </note>
                         </layer>
@@ -106,7 +106,7 @@
                            <mRest xml:id="m2s3l1z1" />
                         </layer>
                         <layer xml:id="m2s3l2" n="2">
-                           <note xml:id="m2s3l2n1" dur="1" pname="c" oct="3" />
+                           <note xml:id="s3l2_t1_1" dur="1" pname="c" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -120,10 +120,10 @@
                   <measure xml:id="m3" right="end" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <note xml:id="m3s1l1n1" dots="1" dur="2" pname="a" oct="4" />
+                           <note xml:id="s1l1_t2_1" dots="1" dur="2" pname="a" oct="4" />
                         </layer>
                         <layer xml:id="m3s1l2" n="2">
-                           <note xml:id="m3s1l2n1" dots="1" dur="2" pname="d" oct="4" />
+                           <note xml:id="s1l2_t2_1" dots="1" dur="2" pname="d" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m3s2" n="2">
@@ -131,7 +131,7 @@
                            <mRest xml:id="m3s2l1z1" />
                         </layer>
                         <layer xml:id="m3s2l2" n="2">
-                           <note xml:id="m3s2l2n1" dots="1" dur="2" pname="e" oct="4" />
+                           <note xml:id="s2l2_t2_1" dots="1" dur="2" pname="e" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m3s3" n="3">
@@ -139,7 +139,7 @@
                            <mRest xml:id="m3s3l1z1" />
                         </layer>
                         <layer xml:id="m3s3l2" n="2">
-                           <note xml:id="m3s3l2n1" dots="1" dur="2" pname="c" oct="3" />
+                           <note xml:id="s3l2_t2_1" dots="1" dur="2" pname="c" oct="3" />
                         </layer>
                      </staff>
                   </measure>

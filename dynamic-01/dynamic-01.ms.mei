@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-19-13:09:28" />
+            <date isodate="2023-06-21-09:37:33" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -42,43 +42,43 @@
                   <measure xml:id="m1" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <note xml:id="m1s1l1n1" dur="2" pname="c" oct="5" />
+                           <note xml:id="s1l1_t0_1" dur="2" pname="c" oct="5" />
                            <beam xml:id="m1s1l1b1">
-                              <note xml:id="m1s1l1n2" dur="8" pname="d" oct="5" />
-                              <note xml:id="m1s1l1n3" dur="8" pname="e" oct="5" />
-                              <note xml:id="m1s1l1n4" dur="8" pname="f" oct="5" />
-                              <note xml:id="m1s1l1n5" dur="8" pname="e" oct="5" />
+                              <note xml:id="s1l1_t1_2" dur="8" pname="d" oct="5" />
+                              <note xml:id="s1l1_t5_8" dur="8" pname="e" oct="5" />
+                              <note xml:id="s1l1_t3_4" dur="8" pname="f" oct="5" />
+                              <note xml:id="s1l1_t7_8" dur="8" pname="e" oct="5" />
                            </beam>
                         </layer>
                         <layer xml:id="m1s1l2" n="2">
-                           <note xml:id="m1s1l2n1" dur="1" pname="c" oct="4" />
+                           <note xml:id="s1l2_t0_1" dur="1" pname="c" oct="4" />
                         </layer>
                      </staff>
-                     <dynam xml:id="m1dn1" label="p" startid="#m1s1l1n1" place="above">p</dynam>
-                     <dynam xml:id="m1dn2" label="mp" startid="#m1s1l1n2">mp</dynam>
-                     <dynam xml:id="m1dn3" label="sffz" startid="#m1s1l1n3">sffz</dynam>
-                     <dynam xml:id="m1dn4" label="sfz" startid="#m1s1l1n4">sfz</dynam>
-                     <dynam xml:id="m1dn5" label="pp" startid="#m1s1l2n1">pp</dynam>
+                     <dynam xml:id="m1dn1" label="p" startid="#s1l1_t0_1" place="above">p</dynam>
+                     <dynam xml:id="m1dn2" label="mp" startid="#s1l1_t1_2">mp</dynam>
+                     <dynam xml:id="m1dn3" label="sffz" startid="#s1l1_t5_8">sffz</dynam>
+                     <dynam xml:id="m1dn4" label="sfz" startid="#s1l1_t3_4">sfz</dynam>
+                     <dynam xml:id="m1dn5" label="pp" startid="#s1l2_t0_1">pp</dynam>
                   </measure>
                   <measure xml:id="m2" right="end" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <note xml:id="m2s1l1n1" dur="4" pname="d" oct="5" />
-                           <chord xml:id="m2s1l1c1" dur="4">
-                              <note xml:id="m2s1l1n2" pname="f" oct="4" />
-                              <note xml:id="m2s1l1n3" pname="c" oct="5" />
-                              <note xml:id="m2s1l1n4" pname="f" oct="5" />
+                           <note xml:id="s1l1_t1_1" dur="4" pname="d" oct="5" />
+                           <chord xml:id="s1l1_t5_4" dur="4">
+                              <note xml:id="m2s1l1n1" pname="f" oct="4" />
+                              <note xml:id="m2s1l1n2" pname="c" oct="5" />
+                              <note xml:id="m2s1l1n3" pname="f" oct="5" />
                            </chord>
-                           <chord xml:id="m2s1l1c2" dur="2">
-                              <note xml:id="m2s1l1n5" pname="b" oct="4" />
-                              <note xml:id="m2s1l1n6" pname="d" oct="5" />
-                              <note xml:id="m2s1l1n7" pname="f" oct="5" />
+                           <chord xml:id="s1l1_t3_2" dur="2">
+                              <note xml:id="m2s1l1n4" pname="b" oct="4" />
+                              <note xml:id="m2s1l1n5" pname="d" oct="5" />
+                              <note xml:id="m2s1l1n6" pname="f" oct="5" />
                            </chord>
                         </layer>
                      </staff>
-                     <dynam xml:id="m2dn1" label="mp" startid="#m2s1l1n1">sempre mp e <lb />dolce</dynam>
-                     <dynam xml:id="m2dn2" label="p" startid="#m2s1l1c1">p e sempre<lb />dolce</dynam>
-                     <dynam xml:id="m2dn3" label="ff" startid="#m2s1l1c2">molto ff</dynam>
+                     <dynam xml:id="m2dn1" label="mp" startid="#s1l1_t1_1">sempre mp e <lb />dolce</dynam>
+                     <dynam xml:id="m2dn2" label="p" startid="#s1l1_t5_4">p e sempre<lb />dolce</dynam>
+                     <dynam xml:id="m2dn3" label="ff" startid="#s1l1_t3_2">molto ff</dynam>
                   </measure>
                </section>
             </score>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-06-26" type="encoding-date">2023-06-26</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1ifup46">
+         <appInfo xml:id="appinfo-cayuiq">
+            <application xml:id="application-1uwcm9y" isodate="2023-06-26T11:02:36" version="3.15.0">
+               <name xml:id="name-saisi9">Verovio</name>
+               <p xml:id="p-a5khs0">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1lix8zw">
+            <score xml:id="s74udly">
+               <scoreDef xml:id="s16q4huj">
+                  <pgHead xml:id="pvbv2vc">
+                     <rend xml:id="r1putqxy" halign="center" valign="top">Breaths and caesuras</rend>
+                     <rend xml:id="r1uuf5hj" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r2szplp" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s15fcsdp">
+                     <staffGrp xml:id="s1vh4h6v" symbol="bracket">
+                        <staffDef xml:id="P1" n="1" lines="5" clef.shape="C" clef.line="3" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="l1vr6o0">Viola</label>
+                           <labelAbbr xml:id="l1jb6sei">Vla.</labelAbbr>
+                           <instrDef xml:id="ias0teh" midi.channel="0" midi.instrnum="41" midi.volume="78.00%" />
+                        </staffDef>
+                        <staffDef xml:id="P2" n="2" lines="5" clef.shape="F" clef.line="4" key.sig="0" meter.count="4" meter.unit="4">
+                           <label xml:id="le9duhz">Violoncello</label>
+                           <labelAbbr xml:id="lo1ke6i">Vc.</labelAbbr>
+                           <instrDef xml:id="i9uwjyj" midi.channel="3" midi.instrnum="42" midi.volume="78.00%" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1p3el0r">
+                  <measure xml:id="m12khvko" n="1">
+                     <staff xml:id="s1cuqpan" n="1">
+                        <layer xml:id="l19nc6tq" n="1">
+                           <rest xml:id="r1svzfge" dur="4" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1j4180p" n="2">
+                        <layer xml:id="l18a79lq" n="1">
+                           <rest xml:id="ryro5hq" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1u6vyhn" n="2">
+                     <staff xml:id="s1ekqbte" n="1">
+                        <layer xml:id="lfqet2x" n="1">
+                           <note xml:id="n1j8yosl" dur="4" oct="4" pname="c" stem.dir="down" />
+                           <note xml:id="nalhybd" dur="4" oct="4" pname="e" stem.dir="down" />
+                           <note xml:id="nu1t2tp" dur="4" oct="4" pname="g" stem.dir="down" />
+                           <note xml:id="na6opsz" dur="4" oct="3" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1g6nw7w" n="2">
+                        <layer xml:id="l2y5scw" n="1">
+                           <note xml:id="nlynkns" dur="2" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="nj59lh8" dur="2" oct="2" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <breath xml:id="bdlq080" staff="1" tstamp="2.000000" />
+                     <breath xml:id="bqmh0ji" staff="1" tstamp="5.000000" />
+                     <breath xml:id="bdxd0qm" staff="2" tstamp="3.000000" />
+                  </measure>
+                  <measure xml:id="mism6z2" n="3">
+                     <staff xml:id="sybcgd6" n="1">
+                        <layer xml:id="levct35" n="1">
+                           <note xml:id="nvslk68" dur="4" oct="4" pname="c" stem.dir="down" />
+                           <note xml:id="nit24gy" dur="4" oct="4" pname="e" stem.dir="down" />
+                           <note xml:id="nx8y75f" dur="4" oct="4" pname="g" stem.dir="down" />
+                           <note xml:id="nf4zy1r" dur="4" oct="3" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="suj4mxp" n="2">
+                        <layer xml:id="lolnojw" n="1">
+                           <note xml:id="n1qf9h04" dur="2" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="ntgm783" dur="2" oct="2" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <caesura xml:id="c17kyusa" staff="1" tstamp="2.000000" />
+                     <caesura xml:id="czzorx3" staff="1" tstamp="3.000000" />
+                     <caesura xml:id="c1u2cpe7" staff="1" tstamp="5.000000" />
+                     <caesura xml:id="c1a81hml" staff="2" tstamp="3.000000" />
+                  </measure>
+                  <measure xml:id="m1nkf28y" n="4">
+                     <staff xml:id="sao0aow" n="1">
+                        <layer xml:id="l1pwlrrm" n="1">
+                           <note xml:id="nz6goik" dur="4" oct="4" pname="c" stem.dir="down" />
+                           <note xml:id="nxab9mu" dur="4" oct="4" pname="e" stem.dir="down" />
+                           <note xml:id="n185x1i0" dur="4" oct="4" pname="g" stem.dir="down" />
+                           <note xml:id="nrd8p79" dur="4" oct="3" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1g38qr" n="2">
+                        <layer xml:id="lqphoe7" n="1">
+                           <note xml:id="nk7hyxd" dur="2" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="n1amra58" dur="2" oct="2" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <caesura xml:id="c656gl0" staff="1" tstamp="3.000000" />
+                  </measure>
+                  <scoreDef xml:id="stqs5ba" meter.count="6" meter.unit="8" />
+                  <measure xml:id="m11xnys0" right="end" n="5">
+                     <staff xml:id="s1szzowf" n="1">
+                        <layer xml:id="lzaoo4a" n="1">
+                           <note xml:id="njlvlp5" dur="4" oct="4" pname="c" stem.dir="down" />
+                           <note xml:id="n310e8r" dur="8" oct="4" pname="e" stem.dir="down" />
+                           <note xml:id="n1d4vxuq" dur="4" oct="4" pname="g" stem.dir="down" />
+                           <note xml:id="ngq0ess" dur="8" oct="3" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="srgnw3p" n="2">
+                        <layer xml:id="l1j5csyy" n="1">
+                           <note xml:id="n12drtz9" dots="1" dur="4" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="n1mkuacd" dots="1" dur="4" oct="2" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <caesura xml:id="cx5qrkj" staff="1" tstamp="3.000000" />
+                     <caesura xml:id="cg6dv72" staff="1" tstamp="4.000000" />
+                     <caesura xml:id="c1g6n8wo" staff="1" tstamp="6.000000" />
+                     <caesura xml:id="c1hei402" staff="1" tstamp="7.000000" />
+                     <caesura xml:id="cwyc5o" staff="2" tstamp="2.500000" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
