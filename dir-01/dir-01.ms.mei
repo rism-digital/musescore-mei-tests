@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="dir-01-665295" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-07-30T18:31:31" />
+            <date isodate="2023-09-01T16:52:03" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -46,55 +46,55 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" n="1">
+                  <measure xml:id="m16ugfl3" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <mRest xml:id="s1l1_t0_1" />
+                           <mRest xml:id="m1gjnbpz" />
                         </layer>
                      </staff>
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
-                           <mRest xml:id="s2l1_t0_1" />
+                           <mRest xml:id="m1kylwm1" />
                         </layer>
                      </staff>
-                     <dir xml:id="m1dr1" type="mscore-staff-text" startid="#s1l1_t0_1">Staff text</dir>
-                     <dir xml:id="m1dr2" startid="#s2l1_t0_1">expression</dir>
+                     <dir xml:id="d1di0qsl" type="mscore-staff-text" startid="#m1gjnbpz">Staff text</dir>
+                     <dir xml:id="dv64n2r" startid="#m1kylwm1">expression</dir>
                   </measure>
-                  <measure xml:id="m2" n="2">
+                  <measure xml:id="mpbov20" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <mRest xml:id="s1l1_t1_1" />
+                           <mRest xml:id="mocwdbn" />
                         </layer>
                      </staff>
                      <staff xml:id="m2s2" n="2">
                         <layer xml:id="m2s2l1" n="1">
-                           <mRest xml:id="s2l1_t1_1" />
+                           <mRest xml:id="mye2qph" />
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m3" n="3">
+                  <measure xml:id="mbts3oj" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <mRest xml:id="s1l1_t2_1" />
+                           <mRest xml:id="m1pl91h5" />
                         </layer>
                      </staff>
                      <staff xml:id="m3s2" n="2">
                         <layer xml:id="m3s2l1" n="1">
-                           <mRest xml:id="s2l1_t2_1" />
+                           <mRest xml:id="ml89e6c" />
                         </layer>
                      </staff>
-                     <dir xml:id="m3dr1" type="mscore-playtech-annotation" startid="#s1l1_t2_1" place="below">tremolo</dir>
-                     <dir xml:id="m3dr2" type="mscore-playtech-annotation" startid="#s2l1_t2_1">legato</dir>
+                     <dir xml:id="d17ojhdt" type="mscore-playtech-annotation" startid="#m1pl91h5" place="below">tremolo</dir>
+                     <dir xml:id="dzv16n" type="mscore-playtech-annotation" startid="#ml89e6c">legato</dir>
                   </measure>
-                  <measure xml:id="m4" right="end" n="4">
+                  <measure xml:id="m1k5odwr" right="end" n="4">
                      <staff xml:id="m4s1" n="1">
                         <layer xml:id="m4s1l1" n="1">
-                           <mRest xml:id="s1l1_t3_1" />
+                           <mRest xml:id="m1vwy8tg" />
                         </layer>
                      </staff>
                      <staff xml:id="m4s2" n="2">
                         <layer xml:id="m4s2l1" n="1">
-                           <mRest xml:id="s2l1_t3_1" />
+                           <mRest xml:id="m1ap6ori" />
                         </layer>
                      </staff>
                   </measure>

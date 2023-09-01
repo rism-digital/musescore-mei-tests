@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="dynamic-01-769245" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:37:33" />
+            <date isodate="2023-09-01T16:52:12" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -39,46 +39,46 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" n="1">
+                  <measure xml:id="m1rx385x" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <note xml:id="s1l1_t0_1" dur="2" pname="c" oct="5" />
-                           <beam xml:id="m1s1l1b1">
-                              <note xml:id="s1l1_t1_2" dur="8" pname="d" oct="5" />
-                              <note xml:id="s1l1_t5_8" dur="8" pname="e" oct="5" />
-                              <note xml:id="s1l1_t3_4" dur="8" pname="f" oct="5" />
-                              <note xml:id="s1l1_t7_8" dur="8" pname="e" oct="5" />
+                           <note xml:id="n14w3hr" dur="2" pname="c" oct="5" />
+                           <beam>
+                              <note xml:id="no3hpd2" dur="8" pname="d" oct="5" />
+                              <note xml:id="n1l70kjf" dur="8" pname="e" oct="5" />
+                              <note xml:id="n16lq0ua" dur="8" pname="f" oct="5" />
+                              <note xml:id="nqnqsar" dur="8" pname="e" oct="5" />
                            </beam>
                         </layer>
                         <layer xml:id="m1s1l2" n="2">
-                           <note xml:id="s1l2_t0_1" dur="1" pname="c" oct="4" />
+                           <note xml:id="n1k5gfhg" dur="1" pname="c" oct="4" />
                         </layer>
                      </staff>
-                     <dynam xml:id="m1dn1" label="p" startid="#s1l1_t0_1" place="above">p</dynam>
-                     <dynam xml:id="m1dn2" label="mp" startid="#s1l1_t1_2">mp</dynam>
-                     <dynam xml:id="m1dn3" label="sffz" startid="#s1l1_t5_8">sffz</dynam>
-                     <dynam xml:id="m1dn4" label="sfz" startid="#s1l1_t3_4">sfz</dynam>
-                     <dynam xml:id="m1dn5" label="pp" startid="#s1l2_t0_1">pp</dynam>
+                     <dynam xml:id="d2xpcsa" label="p" startid="#n14w3hr" place="above">p</dynam>
+                     <dynam xml:id="d4hum04" label="mp" startid="#no3hpd2">mp</dynam>
+                     <dynam xml:id="dgwzhid" label="sffz" startid="#n1l70kjf">sffz</dynam>
+                     <dynam xml:id="d1gd0d1l" label="sfz" startid="#n16lq0ua">sfz</dynam>
+                     <dynam xml:id="d1hhecjd" label="pp" startid="#n1k5gfhg">pp</dynam>
                   </measure>
-                  <measure xml:id="m2" right="end" n="2">
+                  <measure xml:id="m1dl6e6e" right="end" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <note xml:id="s1l1_t1_1" dur="4" pname="d" oct="5" />
-                           <chord xml:id="s1l1_t5_4" dur="4">
-                              <note xml:id="m2s1l1n1" pname="f" oct="4" />
-                              <note xml:id="m2s1l1n2" pname="c" oct="5" />
-                              <note xml:id="m2s1l1n3" pname="f" oct="5" />
+                           <note xml:id="nfi3kem" dur="4" pname="d" oct="5" />
+                           <chord xml:id="cpxz1ip" dur="4">
+                              <note xml:id="n1qc198e" pname="f" oct="4" />
+                              <note xml:id="naoyyz7" pname="c" oct="5" />
+                              <note xml:id="nvhi3pn" pname="f" oct="5" />
                            </chord>
-                           <chord xml:id="s1l1_t3_2" dur="2">
-                              <note xml:id="m2s1l1n4" pname="b" oct="4" />
-                              <note xml:id="m2s1l1n5" pname="d" oct="5" />
-                              <note xml:id="m2s1l1n6" pname="f" oct="5" />
+                           <chord xml:id="cnmcwox" dur="2">
+                              <note xml:id="n1mbnfmc" pname="b" oct="4" />
+                              <note xml:id="n1425eq7" pname="d" oct="5" />
+                              <note xml:id="n172a7e4" pname="f" oct="5" />
                            </chord>
                         </layer>
                      </staff>
-                     <dynam xml:id="m2dn1" label="mp" startid="#s1l1_t1_1">sempre mp e <lb />dolce</dynam>
-                     <dynam xml:id="m2dn2" label="p" startid="#s1l1_t5_4">p e sempre<lb />dolce</dynam>
-                     <dynam xml:id="m2dn3" label="ff" startid="#s1l1_t3_2">molto ff</dynam>
+                     <dynam xml:id="d7lqy2l" label="mp" startid="#nfi3kem">sempre mp e <lb />dolce</dynam>
+                     <dynam xml:id="d5e3fmr" label="p" startid="#cpxz1ip">p e sempre<lb />dolce</dynam>
+                     <dynam xml:id="dnzoz2x" label="ff" startid="#cnmcwox">molto ff</dynam>
                   </measure>
                </section>
             </score>
