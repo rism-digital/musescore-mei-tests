@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="chord-label-01-294623" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-07-24T17:39:00" />
+            <date isodate="2023-09-01T16:44:48" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -39,150 +39,150 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" n="1">
+                  <measure xml:id="m14hbvpm" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <chord xml:id="s1l1_t0_1" dur="2">
-                              <note xml:id="m1s1l1n1" pname="e" oct="2" />
-                              <note xml:id="m1s1l1n2" pname="b" oct="2" />
-                              <note xml:id="m1s1l1n3" pname="d" oct="3">
-                                 <accid xml:id="m1s1l1a1" accid="s" />
+                           <chord xml:id="c16epnbl" dur="2">
+                              <note xml:id="nb216ll" pname="e" oct="2" />
+                              <note xml:id="ndxal72" pname="b" oct="2" />
+                              <note xml:id="njhlysk" pname="d" oct="3">
+                                 <accid accid="s" />
                               </note>
-                              <note xml:id="m1s1l1n4" pname="g" oct="3">
-                                 <accid xml:id="m1s1l1a2" accid="s" />
+                              <note xml:id="n1hh8705" pname="g" oct="3">
+                                 <accid accid="s" />
                               </note>
                            </chord>
-                           <chord xml:id="s1l1_t1_2" dur="2">
-                              <note xml:id="m1s1l1n5" pname="d" oct="2" />
-                              <note xml:id="m1s1l1n6" pname="b" oct="2">
-                                 <accid xml:id="m1s1l1a3" accid="f" />
+                           <chord xml:id="c4pb0j8" dur="2">
+                              <note xml:id="n13whnao" pname="d" oct="2" />
+                              <note xml:id="nsu6pfz" pname="b" oct="2">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m1s1l1n7" pname="d" oct="3">
-                                 <accid xml:id="m1s1l1a4" accid="n" />
+                              <note xml:id="ntxktyc" pname="d" oct="3">
+                                 <accid accid="n" />
                               </note>
-                              <note xml:id="m1s1l1n8" pname="f" oct="3">
-                                 <accid xml:id="m1s1l1a5" accid="n" />
+                              <note xml:id="n1hrjl6g" pname="f" oct="3">
+                                 <accid accid="n" />
                               </note>
                            </chord>
                         </layer>
                      </staff>
-                     <harm xml:id="m1hr1" startid="#s1l1_t0_1">E^7</harm>
-                     <harm xml:id="m1hr2" startid="#s1l1_t1_2">Bb/D</harm>
+                     <harm xml:id="h1bgzmmn" startid="#c16epnbl">E^7</harm>
+                     <harm xml:id="h1fslw0p" startid="#c4pb0j8">Bb/D</harm>
                   </measure>
-                  <measure xml:id="m2" n="2">
+                  <measure xml:id="m17w9yor" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <rest xml:id="s1l1_t1_1" dur="4" />
-                           <chord xml:id="s1l1_t5_4" dur="4">
-                              <note xml:id="m2s1l1n1" pname="e" oct="2" />
-                              <note xml:id="m2s1l1n2" pname="b" oct="2" />
-                              <note xml:id="m2s1l1n3" pname="d" oct="3" />
-                              <note xml:id="m2s1l1n4" pname="g" oct="3">
-                                 <accid xml:id="m2s1l1a1" accid="s" />
+                           <rest xml:id="rezq8rc" dur="4" />
+                           <chord xml:id="c15hduaw" dur="4">
+                              <note xml:id="n1r3fnqf" pname="e" oct="2" />
+                              <note xml:id="nhg6uqb" pname="b" oct="2" />
+                              <note xml:id="n1yyoqx3" pname="d" oct="3" />
+                              <note xml:id="n1qqclbc" pname="g" oct="3">
+                                 <accid accid="s" />
                               </note>
                            </chord>
-                           <chord xml:id="s1l1_t3_2" dur="2">
-                              <note xml:id="m2s1l1n5" pname="d" oct="2">
-                                 <accid xml:id="m2s1l1a2" accid="f" />
+                           <chord xml:id="cccssun" dur="2">
+                              <note xml:id="no1dkmg" pname="d" oct="2">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m2s1l1n6" pname="a" oct="2">
-                                 <accid xml:id="m2s1l1a3" accid="f" />
+                              <note xml:id="n179ea53" pname="a" oct="2">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m2s1l1n7" pname="d" oct="3">
-                                 <accid xml:id="m2s1l1a4" accid="f" />
+                              <note xml:id="nbwoy73" pname="d" oct="3">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m2s1l1n8" pname="f" oct="3" />
-                              <note xml:id="m2s1l1n9" pname="a" oct="3">
-                                 <accid xml:id="m2s1l1a5" accid="f" />
+                              <note xml:id="n13eoll1" pname="f" oct="3" />
+                              <note xml:id="n1u9nz21" pname="a" oct="3">
+                                 <accid accid="f" />
                               </note>
                            </chord>
                         </layer>
                      </staff>
-                     <harm xml:id="m2hr1" startid="#s1l1_t1_1">EM</harm>
-                     <harm xml:id="m2hr2" startid="#s1l1_t5_4">E7</harm>
-                     <harm xml:id="m2hr3" startid="#s1l1_t3_2">not a chord</harm>
+                     <harm xml:id="h5dj6v7" startid="#rezq8rc">EM</harm>
+                     <harm xml:id="hnjtfvy" startid="#c15hduaw">E7</harm>
+                     <harm xml:id="hg8bgbi" startid="#cccssun">not a chord</harm>
                   </measure>
-                  <measure xml:id="m3" n="3">
+                  <measure xml:id="m9o8nmk" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <chord xml:id="s1l1_t2_1" dur="2">
-                              <note xml:id="m3s1l1n1" pname="b" oct="2">
-                                 <accid xml:id="m3s1l1a1" accid="ff" />
+                           <chord xml:id="c944xvj" dur="2">
+                              <note xml:id="n1waubv9" pname="b" oct="2">
+                                 <accid accid="ff" />
                               </note>
-                              <note xml:id="m3s1l1n2" pname="d" oct="3">
-                                 <accid xml:id="m3s1l1a2" accid="f" />
+                              <note xml:id="n1u5zr50" pname="d" oct="3">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m3s1l1n3" pname="f" oct="3">
-                                 <accid xml:id="m3s1l1a3" accid="f" />
+                              <note xml:id="n1matj30" pname="f" oct="3">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m3s1l1n4" pname="b" oct="3">
-                                 <accid xml:id="m3s1l1a4" accid="ff" />
+                              <note xml:id="n1iny47k" pname="b" oct="3">
+                                 <accid accid="ff" />
                               </note>
                            </chord>
-                           <chord xml:id="s1l1_t5_2" dur="2">
-                              <note xml:id="m3s1l1n5" pname="g" oct="2">
-                                 <accid xml:id="m3s1l1a5" accid="f" />
+                           <chord xml:id="c1lo3mzp" dur="2">
+                              <note xml:id="niw26lr" pname="g" oct="2">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m3s1l1n6" pname="g" oct="3">
-                                 <accid xml:id="m3s1l1a6" accid="f" />
+                              <note xml:id="n1lgnx5h" pname="g" oct="3">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m3s1l1n7" pname="b" oct="3">
-                                 <accid xml:id="m3s1l1a7" accid="ff" />
+                              <note xml:id="nr54z2p" pname="b" oct="3">
+                                 <accid accid="ff" />
                               </note>
                            </chord>
                         </layer>
                         <layer xml:id="m3s1l2" n="2">
-                           <note xml:id="s1l2_t2_1" dur="2" pname="c" oct="3" />
-                           <note xml:id="s1l2_t5_2" dur="4" pname="d" oct="3">
-                              <accid xml:id="m3s1l2a1" accid="f" />
+                           <note xml:id="n1im2iyf" dur="2" pname="c" oct="3" />
+                           <note xml:id="n1nfs6d8" dur="4" pname="d" oct="3">
+                              <accid accid="f" />
                            </note>
-                           <note xml:id="s1l2_t11_4" dur="4" pname="e" oct="3">
-                              <accid xml:id="m3s1l2a2" accid="f" />
+                           <note xml:id="n6az5co" dur="4" pname="e" oct="3">
+                              <accid accid="f" />
                            </note>
                         </layer>
                      </staff>
-                     <harm xml:id="m3hr1" startid="#s1l1_t2_1">Bbb</harm>
-                     <harm xml:id="m3hr2" startid="#s1l1_t5_2">Gb-</harm>
-                     <harm xml:id="m3hr3" startid="#s1l2_t11_4">Eb0</harm>
+                     <harm xml:id="h1dlo6v9" startid="#c944xvj">Bbb</harm>
+                     <harm xml:id="h1uvdsty" startid="#c1lo3mzp">Gb-</harm>
+                     <harm xml:id="h1e83rhs" startid="#n6az5co">Eb0</harm>
                   </measure>
-                  <measure xml:id="m4" right="end" n="4">
+                  <measure xml:id="mjnwqx9" right="end" n="4">
                      <staff xml:id="m4s1" n="1">
                         <layer xml:id="m4s1l1" n="1">
-                           <chord xml:id="s1l1_t3_1" dur="1">
-                              <note xml:id="m4s1l1n1" pname="d" oct="2">
-                                 <accid xml:id="m4s1l1a1" accid="f" />
+                           <chord xml:id="c1dl6j78" dur="1">
+                              <note xml:id="n1c5h7ly" pname="d" oct="2">
+                                 <accid accid="f" />
                               </note>
-                              <note xml:id="m4s1l1n2" pname="f" oct="3">
-                                 <accid xml:id="m4s1l1a2" accid="n" />
+                              <note xml:id="n12xzre6" pname="f" oct="3">
+                                 <accid accid="n" />
                               </note>
                            </chord>
                         </layer>
                         <layer xml:id="m4s1l2" n="2">
-                           <note xml:id="s1l2_t3_1" dur="2" pname="c" oct="3" />
-                           <note xml:id="s1l2_t7_2" dur="2" pname="b" oct="2">
-                              <accid xml:id="m4s1l2a1" accid="f" />
+                           <note xml:id="n1xqhqzd" dur="2" pname="c" oct="3" />
+                           <note xml:id="n11s8pxj" dur="2" pname="b" oct="2">
+                              <accid accid="f" />
                            </note>
                         </layer>
                         <layer xml:id="m4s1l3" n="3">
-                           <note xml:id="s1l3_t3_1" dur="2" pname="e" oct="4">
-                              <accid xml:id="m4s1l3a1" accid="f" />
+                           <note xml:id="nhj7l0q" dur="2" pname="e" oct="4">
+                              <accid accid="f" />
                            </note>
-                           <note xml:id="s1l3_t7_2" dur="2" pname="d" oct="4">
-                              <accid xml:id="m4s1l3a2" accid="f" />
+                           <note xml:id="ne3ul77" dur="2" pname="d" oct="4">
+                              <accid accid="f" />
                            </note>
                         </layer>
                         <layer xml:id="m4s1l4" n="4">
-                           <note xml:id="s1l4_t3_1" dur="2" pname="a" oct="3">
-                              <accid xml:id="m4s1l4a1" accid="f" />
+                           <note xml:id="ngtdc6s" dur="2" pname="a" oct="3">
+                              <accid accid="f" />
                            </note>
-                           <note xml:id="s1l4_t7_2" dur="2" pname="a" oct="3">
-                              <accid xml:id="m4s1l4a2" accid="n" />
+                           <note xml:id="nj8l4lr" dur="2" pname="a" oct="3">
+                              <accid accid="n" />
                            </note>
                         </layer>
                      </staff>
-                     <harm xml:id="m4hr1" startid="#s1l1_t3_1">Db9Maj7</harm>
-                     <harm xml:id="m4hr2" startid="#s1l2_t7_2">Bbono5ma7</harm>
-                     <harm xml:id="m4hr3" startid="#s1l4_t7_2">Bb-Maj7/Db</harm>
+                     <harm xml:id="h1jmd9aa" startid="#c1dl6j78">Db9Maj7</harm>
+                     <harm xml:id="htlcc69" startid="#n11s8pxj">Bbono5ma7</harm>
+                     <harm xml:id="hp721hh" startid="#nj8l4lr">Bb-Maj7/Db</harm>
                   </measure>
                </section>
             </score>

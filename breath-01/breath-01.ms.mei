@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="breath-01-223133" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-26-11:02:07" />
+            <date isodate="2023-09-01T16:44:35" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -46,95 +46,95 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" metcon="false" n="1">
+                  <measure xml:id="m1xidco" metcon="false" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <rest xml:id="s1l1_t0_1" dur="4" />
+                           <rest xml:id="rkr1j8j" dur="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
-                           <rest xml:id="s2l1_t0_1" dur="4" />
+                           <rest xml:id="rdnovmz" dur="4" />
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m2" n="2">
+                  <measure xml:id="m139a4i1" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <note xml:id="s1l1_t1_4" dur="4" pname="c" oct="4" />
-                           <note xml:id="s1l1_t2_4" dur="4" pname="e" oct="4" />
-                           <note xml:id="s1l1_t3_4" dur="4" pname="g" oct="4" />
-                           <note xml:id="s1l1_t4_4" dur="4" pname="b" oct="3" />
+                           <note xml:id="n152yba0" dur="4" pname="c" oct="4" />
+                           <note xml:id="n273bfk" dur="4" pname="e" oct="4" />
+                           <note xml:id="n19s27c6" dur="4" pname="g" oct="4" />
+                           <note xml:id="nsru15p" dur="4" pname="b" oct="3" />
                         </layer>
                      </staff>
                      <staff xml:id="m2s2" n="2">
                         <layer xml:id="m2s2l1" n="1">
-                           <note xml:id="s2l1_t1_4" dur="2" pname="c" oct="3" />
-                           <note xml:id="s2l1_t3_4" dur="2" pname="g" oct="2" />
+                           <note xml:id="n1mw9bat" dur="2" pname="c" oct="3" />
+                           <note xml:id="n1c5ha2a" dur="2" pname="g" oct="2" />
                         </layer>
                      </staff>
-                     <breath xml:id="m2bt1" startid="#s1l1_t1_4" />
-                     <breath xml:id="m2bt2" startid="#s1l1_t4_4" glyph.auth="smufl" glyph.name="breathMarkUpbow" />
-                     <breath xml:id="m2bt3" startid="#s2l1_t1_4" />
+                     <breath xml:id="b1756ydd" startid="#n152yba0" />
+                     <breath xml:id="b4u8qoh" startid="#nsru15p" glyph.auth="smufl" glyph.name="breathMarkUpbow" />
+                     <breath xml:id="b6pr23o" startid="#n1mw9bat" />
                   </measure>
-                  <measure xml:id="m3" n="3">
+                  <measure xml:id="mvd5ffl" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <note xml:id="s1l1_t5_4" dur="4" pname="c" oct="4" />
-                           <note xml:id="s1l1_t6_4" dur="4" pname="e" oct="4" />
-                           <note xml:id="s1l1_t7_4" dur="4" pname="g" oct="4" />
-                           <note xml:id="s1l1_t8_4" dur="4" pname="b" oct="3" />
+                           <note xml:id="nnewzru" dur="4" pname="c" oct="4" />
+                           <note xml:id="ncn94ct" dur="4" pname="e" oct="4" />
+                           <note xml:id="n14kg083" dur="4" pname="g" oct="4" />
+                           <note xml:id="n153ahe9" dur="4" pname="b" oct="3" />
                         </layer>
                      </staff>
                      <staff xml:id="m3s2" n="2">
                         <layer xml:id="m3s2l1" n="1">
-                           <note xml:id="s2l1_t5_4" dur="2" pname="c" oct="3" />
-                           <note xml:id="s2l1_t7_4" dur="2" pname="g" oct="2" />
+                           <note xml:id="n1gdwmrm" dur="2" pname="c" oct="3" />
+                           <note xml:id="n1qcjh3i" dur="2" pname="g" oct="2" />
                         </layer>
                      </staff>
-                     <caesura xml:id="m3cs1" startid="#s1l1_t5_4" glyph.auth="smufl" glyph.name="caesuraCurved" />
-                     <caesura xml:id="m3cs2" startid="#s1l1_t6_4" />
-                     <caesura xml:id="m3cs3" startid="#s1l1_t8_4" glyph.auth="smufl" glyph.name="caesuraShort" />
-                     <caesura xml:id="m3cs4" startid="#s2l1_t5_4" />
+                     <caesura xml:id="cuqxgrt" startid="#nnewzru" glyph.auth="smufl" glyph.name="caesuraCurved" />
+                     <caesura xml:id="c14k0te0" startid="#ncn94ct" />
+                     <caesura xml:id="cj3xb90" startid="#n153ahe9" glyph.auth="smufl" glyph.name="caesuraShort" />
+                     <caesura xml:id="cwqqcbw" startid="#n1gdwmrm" />
                   </measure>
-                  <measure xml:id="m4" n="4">
+                  <measure xml:id="m1qtyh58" n="4">
                      <staff xml:id="m4s1" n="1">
                         <layer xml:id="m4s1l1" n="1">
-                           <note xml:id="s1l1_t9_4" dur="4" pname="c" oct="4" />
-                           <note xml:id="s1l1_t10_4" dur="4" pname="e" oct="4" />
-                           <note xml:id="s1l1_t11_4" dur="4" pname="g" oct="4" />
-                           <note xml:id="s1l1_t12_4" dur="4" pname="b" oct="3" />
+                           <note xml:id="n9f8cfa" dur="4" pname="c" oct="4" />
+                           <note xml:id="n1e5fhcn" dur="4" pname="e" oct="4" />
+                           <note xml:id="nbjlib9" dur="4" pname="g" oct="4" />
+                           <note xml:id="n1pem97p" dur="4" pname="b" oct="3" />
                         </layer>
                      </staff>
                      <staff xml:id="m4s2" n="2">
                         <layer xml:id="m4s2l1" n="1">
-                           <note xml:id="s2l1_t9_4" dur="2" pname="c" oct="3" />
-                           <note xml:id="s2l1_t11_4" dur="2" pname="g" oct="2" />
+                           <note xml:id="n1mnyhpu" dur="2" pname="c" oct="3" />
+                           <note xml:id="ng7i85d" dur="2" pname="g" oct="2" />
                         </layer>
                      </staff>
-                     <caesura xml:id="m4cs1" startid="#s1l1_t10_4" glyph.auth="smufl" glyph.name="chantCaesura" />
+                     <caesura xml:id="c1xv3dfb" startid="#n1e5fhcn" glyph.auth="smufl" glyph.name="chantCaesura" />
                   </measure>
                   <scoreDef meter.count="6" meter.unit="8" />
-                  <measure xml:id="m5" right="end" n="5">
+                  <measure xml:id="m1occsfj" right="end" n="5">
                      <staff xml:id="m5s1" n="1">
                         <layer xml:id="m5s1l1" n="1">
-                           <note xml:id="s1l1_t13_4" dur="4" pname="c" oct="4" />
-                           <note xml:id="s1l1_t14_4" dur="8" pname="e" oct="4" />
-                           <note xml:id="s1l1_t29_8" dur="4" pname="g" oct="4" />
-                           <note xml:id="s1l1_t31_8" dur="8" pname="g" oct="3" />
+                           <note xml:id="n86hjdc" dur="4" pname="c" oct="4" />
+                           <note xml:id="n1yxankn" dur="8" pname="e" oct="4" />
+                           <note xml:id="n9fx932" dur="4" pname="g" oct="4" />
+                           <note xml:id="n15xuw2m" dur="8" pname="g" oct="3" />
                         </layer>
                      </staff>
                      <staff xml:id="m5s2" n="2">
                         <layer xml:id="m5s2l1" n="1">
-                           <note xml:id="s2l1_t13_4" dots="1" dur="4" pname="c" oct="3" />
-                           <note xml:id="s2l1_t29_8" dots="1" dur="4" pname="g" oct="2" />
+                           <note xml:id="n1dpambp" dots="1" dur="4" pname="c" oct="3" />
+                           <note xml:id="n11l3zve" dots="1" dur="4" pname="g" oct="2" />
                         </layer>
                      </staff>
-                     <caesura xml:id="m5cs1" startid="#s1l1_t13_4" glyph.auth="smufl" glyph.name="chantCaesura" />
-                     <caesura xml:id="m5cs2" startid="#s1l1_t14_4" glyph.auth="smufl" glyph.name="caesuraThick" />
-                     <caesura xml:id="m5cs3" startid="#s1l1_t29_8" glyph.auth="smufl" glyph.name="caesuraThick" />
-                     <caesura xml:id="m5cs4" startid="#s1l1_t31_8" glyph.auth="smufl" glyph.name="caesuraThick" />
-                     <caesura xml:id="m5cs5" startid="#s2l1_t13_4" glyph.auth="smufl" glyph.name="caesuraThick" />
+                     <caesura xml:id="czorkxw" startid="#n86hjdc" glyph.auth="smufl" glyph.name="chantCaesura" />
+                     <caesura xml:id="cenl858" startid="#n1yxankn" glyph.auth="smufl" glyph.name="caesuraThick" />
+                     <caesura xml:id="c3qmxgg" startid="#n9fx932" glyph.auth="smufl" glyph.name="caesuraThick" />
+                     <caesura xml:id="c1vxxq7" startid="#n15xuw2m" glyph.auth="smufl" glyph.name="caesuraThick" />
+                     <caesura xml:id="c14h1gmi" startid="#n1dpambp" glyph.auth="smufl" glyph.name="caesuraThick" />
                   </measure>
                </section>
             </score>

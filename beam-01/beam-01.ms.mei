@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="beam-01-120453" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:36:55" />
+            <date isodate="2023-09-01T16:44:10" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -39,74 +39,74 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" n="1">
+                  <measure xml:id="meiupfx" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <beam xml:id="m1s1l1b1">
-                              <note xml:id="s1l1_t0_1" dur="8" pname="c" oct="5" />
-                              <note xml:id="s1l1_t1_8" dur="8" pname="d" oct="5" />
-                              <note xml:id="s1l1_t1_4" dur="8" pname="c" oct="5" />
-                              <note xml:id="s1l1_t3_8" dur="8" pname="b" oct="4" />
+                           <beam>
+                              <note xml:id="nwshyyg" dur="8" pname="c" oct="5" />
+                              <note xml:id="n17t42fu" dur="8" pname="d" oct="5" />
+                              <note xml:id="n1t946k4" dur="8" pname="c" oct="5" />
+                              <note xml:id="ni3lxgy" dur="8" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m1s1l1b2">
-                              <note xml:id="s1l1_t1_2" dur="16" pname="c" oct="5" />
-                              <note xml:id="s1l1_t9_16" dur="16" pname="d" oct="5" />
-                              <note xml:id="s1l1_t5_8" dur="16" pname="c" oct="5" />
-                              <note xml:id="s1l1_t11_16" dur="16" pname="b" oct="4" />
+                           <beam>
+                              <note xml:id="nlfm51j" dur="16" pname="c" oct="5" />
+                              <note xml:id="nwcg2qh" dur="16" pname="d" oct="5" />
+                              <note xml:id="n12ngtl6" dur="16" pname="c" oct="5" />
+                              <note xml:id="n1068yhw" dur="16" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m1s1l1b3">
-                              <note xml:id="s1l1_t3_4" dur="16" pname="c" oct="5" />
-                              <note xml:id="s1l1_t13_16" dur="16" pname="d" oct="5" />
-                              <note xml:id="s1l1_t7_8" dur="16" pname="c" oct="5" />
-                              <note xml:id="s1l1_t15_16" dur="16" pname="b" oct="4" />
+                           <beam>
+                              <note xml:id="n1fwfi62" dur="16" pname="c" oct="5" />
+                              <note xml:id="n10ea68t" dur="16" pname="d" oct="5" />
+                              <note xml:id="n16qldtm" dur="16" pname="c" oct="5" />
+                              <note xml:id="n18p99da" dur="16" pname="b" oct="4" />
                            </beam>
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m2" right="end" n="2">
+                  <measure xml:id="mimw4wr" right="end" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <beam xml:id="m2s1l1b1">
-                              <note xml:id="s1l1_t1_1" dur="32" pname="c" oct="5" />
-                              <note xml:id="s1l1_t33_32" dur="32" pname="d" oct="5" />
-                              <note xml:id="s1l1_t17_16" dur="32" pname="c" oct="5" />
-                              <note xml:id="s1l1_t35_32" dur="32" pname="b" oct="4" />
-                              <note xml:id="s1l1_t9_8" dur="32" pname="c" oct="5" />
-                              <note xml:id="s1l1_t37_32" dur="32" pname="d" oct="5" />
-                              <note xml:id="s1l1_t19_16" dur="32" pname="c" oct="5" />
-                              <note xml:id="s1l1_t39_32" dur="32" pname="b" oct="4" />
+                           <beam>
+                              <note xml:id="n8m7bkn" dur="32" pname="c" oct="5" />
+                              <note xml:id="n153w1z3" dur="32" pname="d" oct="5" />
+                              <note xml:id="n9blvlj" dur="32" pname="c" oct="5" />
+                              <note xml:id="n12pa09g" dur="32" pname="b" oct="4" />
+                              <note xml:id="nmnw7l5" dur="32" pname="c" oct="5" />
+                              <note xml:id="n1mn28mf" dur="32" pname="d" oct="5" />
+                              <note xml:id="n7us7u7" dur="32" pname="c" oct="5" />
+                              <note xml:id="npl259b" dur="32" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m2s1l1b2">
-                              <note xml:id="s1l1_t5_4" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t81_64" dur="64" pname="d" oct="5" />
-                              <note xml:id="s1l1_t41_32" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t83_64" dur="64" pname="b" oct="4" />
-                              <note xml:id="s1l1_t21_16" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t85_64" dur="64" pname="d" oct="5" />
-                              <note xml:id="s1l1_t43_32" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t87_64" dur="64" pname="b" oct="4" />
-                              <note xml:id="s1l1_t11_8" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t89_64" dur="64" pname="d" oct="5" />
-                              <note xml:id="s1l1_t45_32" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t91_64" dur="64" pname="b" oct="4" />
-                              <note xml:id="s1l1_t23_16" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t93_64" dur="64" pname="d" oct="5" />
-                              <note xml:id="s1l1_t47_32" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t95_64" dur="64" pname="b" oct="4" />
+                           <beam>
+                              <note xml:id="n1fxzorp" dur="64" pname="c" oct="5" />
+                              <note xml:id="naekf0q" dur="64" pname="d" oct="5" />
+                              <note xml:id="npgyyrl" dur="64" pname="c" oct="5" />
+                              <note xml:id="n18q84kl" dur="64" pname="b" oct="4" />
+                              <note xml:id="n579ygh" dur="64" pname="c" oct="5" />
+                              <note xml:id="n7wscu2" dur="64" pname="d" oct="5" />
+                              <note xml:id="ntued14" dur="64" pname="c" oct="5" />
+                              <note xml:id="n16gz9zl" dur="64" pname="b" oct="4" />
+                              <note xml:id="n14lh08g" dur="64" pname="c" oct="5" />
+                              <note xml:id="n10h5hwg" dur="64" pname="d" oct="5" />
+                              <note xml:id="nkxs7ee" dur="64" pname="c" oct="5" />
+                              <note xml:id="n1v1ijnk" dur="64" pname="b" oct="4" />
+                              <note xml:id="n1iqimyt" dur="64" pname="c" oct="5" />
+                              <note xml:id="n1mmbksv" dur="64" pname="d" oct="5" />
+                              <note xml:id="n1fl1bj8" dur="64" pname="c" oct="5" />
+                              <note xml:id="nrg8qbl" dur="64" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m2s1l1b3">
-                              <note xml:id="s1l1_t3_2" dur="8" pname="c" oct="5" />
-                              <note xml:id="s1l1_t13_8" dur="8" pname="d" oct="5" />
+                           <beam>
+                              <note xml:id="n17y5zx0" dur="8" pname="c" oct="5" />
+                              <note xml:id="nmbtac8" dur="8" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m2s1l1b4">
-                              <note xml:id="s1l1_t7_4" dur="16" pname="c" oct="5" />
-                              <note xml:id="s1l1_t29_16" dur="16" pname="b" oct="4" />
-                              <note xml:id="s1l1_t15_8" dur="32" pname="c" oct="5" />
-                              <note xml:id="s1l1_t61_32" dur="32" pname="d" oct="5" />
-                              <note xml:id="s1l1_t31_16" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t125_64" dur="64" pname="b" oct="4" />
-                              <note xml:id="s1l1_t63_32" dur="64" pname="c" oct="5" />
-                              <note xml:id="s1l1_t127_64" dur="64" pname="d" oct="5" />
+                           <beam>
+                              <note xml:id="nkmgtr6" dur="16" pname="c" oct="5" />
+                              <note xml:id="nml70mx" dur="16" pname="b" oct="4" />
+                              <note xml:id="nl7tkd9" dur="32" pname="c" oct="5" />
+                              <note xml:id="nvp4s0a" dur="32" pname="d" oct="5" />
+                              <note xml:id="n8v17vs" dur="64" pname="c" oct="5" />
+                              <note xml:id="nsa2vnv" dur="64" pname="b" oct="4" />
+                              <note xml:id="nqtnx8k" dur="64" pname="c" oct="5" />
+                              <note xml:id="n1gmwrax" dur="64" pname="d" oct="5" />
                            </beam>
                         </layer>
                      </staff>
