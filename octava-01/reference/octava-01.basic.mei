@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead xml:id="m2inxc7">
+      <fileDesc xml:id="fmpzdv6">
+         <titleStmt xml:id="t1rydthg">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p129dbdv">
+            <date isodate="2023-08-04" type="encoding-date">2023-08-04</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1xgivos">
+         <appInfo xml:id="ab87m4h">
+            <application xml:id="a1qoft6u" isodate="2023-08-04T09:05:29" version="3.16.0">
+               <name xml:id="noasvhn">Verovio</name>
+               <p xml:id="podb83o">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m17af7rn">
+            <score xml:id="sgulfbo">
+               <scoreDef xml:id="sbujung">
+                  <pgHead xml:id="p172roqc">
+                     <rend xml:id="rsgal2o" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="riu4rad" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="rgp7sax" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1rfqrii">
+                     <staffGrp xml:id="P1" bar.thru="true" symbol="brace">
+                        <label xml:id="l103jovx">Piano</label>
+                        <labelAbbr xml:id="l183i8wn">Pno.</labelAbbr>
+                        <instrDef xml:id="ib6kiz" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="s1fc7pjh" n="1" lines="5" ppq="1" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4" />
+                        <staffDef xml:id="s1m78f07" n="2" lines="5" ppq="1" clef.shape="F" clef.line="4" keysig="0" meter.count="4" meter.unit="4" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s13kvy3u">
+                  <measure xml:id="muxzwhl" n="1">
+                     <staff xml:id="s17t9zbm" n="1">
+                        <layer xml:id="lgoo7jv" n="1">
+                           <note xml:id="neg0e2f" dur="4" oct="6" pname="c" stem.dir="down" />
+                           <note xml:id="n1b4qoma" dur="4" oct="5" pname="b" stem.dir="down" />
+                           <note xml:id="n1z0rvr6" dur="4" oct.ges="5" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="n9bp8rq" dur="4" oct.ges="5" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1y068q4" n="2">
+                        <layer xml:id="lldu3h4" n="5">
+                           <mRest xml:id="m58lnel" />
+                        </layer>
+                     </staff>
+                     <octave xml:id="o1ils4y6" staff="1" startid="#n1z0rvr6" endid="#n65noc3" dis="8" dis.place="above" />
+                  </measure>
+                  <measure xml:id="m1b9lajb" n="2">
+                     <staff xml:id="s1ledo7t" n="1">
+                        <layer xml:id="lzpsuyl" n="1">
+                           <note xml:id="n1gvufui" dur="4" oct.ges="6" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n65noc3" dur="4" oct.ges="6" oct="5" pname="d" stem.dir="down" />
+                           <note xml:id="njq0ywr" dur="4" oct.ges="6" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="notgfuu" dur="4" oct.ges="6" oct="4" pname="f" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sdfio5l" n="2">
+                        <layer xml:id="lli00hp" n="5">
+                           <mRest xml:id="mpdm5lc" />
+                        </layer>
+                     </staff>
+                     <octave xml:id="osvlzmg" staff="1" startid="#njq0ywr" endid="#n11xvawy" dis="15" dis.place="above" />
+                  </measure>
+                  <measure xml:id="m1eiv29w" n="3">
+                     <staff xml:id="sm4x021" n="1">
+                        <layer xml:id="l1wbuan9" n="1">
+                           <note xml:id="n2zsdl6" dur="4" oct.ges="6" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="n170ev2e" dur="4" oct.ges="6" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="n11xvawy" dur="2" oct.ges="6" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="squsg1l" n="2">
+                        <layer xml:id="l1fn97x6" n="5">
+                           <mRest xml:id="miacxn8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m8tg1n1" n="4">
+                     <staff xml:id="s1var5wi" n="1">
+                        <layer xml:id="l1c3sa3x" n="1">
+                           <mRest xml:id="mtsyjle" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1yqw182" n="2">
+                        <layer xml:id="l1wnceac" n="5">
+                           <note xml:id="n4uss51" dur="4" oct="2" pname="c" stem.dir="up" />
+                           <note xml:id="n14nwvxd" dur="4" oct="2" pname="d" stem.dir="up" />
+                           <note xml:id="n1j2x7w1" dur="4" oct.ges="2" oct="3" pname="e" stem.dir="down" />
+                           <note xml:id="n6pe0gn" dur="4" oct.ges="2" oct="3" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <octave xml:id="otaxa3o" staff="2" startid="#n1j2x7w1" endid="#nv4zlxy" dis="8" dis.place="below" />
+                  </measure>
+                  <measure xml:id="m190kkf8" n="5">
+                     <staff xml:id="s1g85y0h" n="1">
+                        <layer xml:id="l1gdxa0i" n="1">
+                           <mRest xml:id="m1sra9m5" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1fb5xk" n="2">
+                        <layer xml:id="lb60h3t" n="5">
+                           <note xml:id="n1oke342" dur="4" oct.ges="2" oct="3" pname="c" stem.dir="up" />
+                           <note xml:id="nv4zlxy" dur="4" oct.ges="1" oct="2" pname="b" stem.dir="up" />
+                           <note xml:id="n96ehck" dur="4" oct.ges="1" oct="3" pname="a" stem.dir="down" />
+                           <note xml:id="n10vo844" dur="4" oct.ges="1" oct="3" pname="g" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <octave xml:id="ovzs65x" staff="2" startid="#n96ehck" endid="#n133dsri" dis="15" dis.place="below" />
+                  </measure>
+                  <measure xml:id="m1hcald2" n="6">
+                     <staff xml:id="svqhb0b" n="1">
+                        <layer xml:id="lu1eefu" n="1">
+                           <mRest xml:id="m17vw9b6" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="srd6ljp" n="2">
+                        <layer xml:id="l1ng0ulv" n="5">
+                           <note xml:id="n1m1i5d1" dur="4" oct.ges="1" oct="3" pname="f" stem.dir="down" />
+                           <note xml:id="n1xq29mu" dur="4" oct.ges="1" oct="3" pname="e" stem.dir="down" />
+                           <note xml:id="n133dsri" dur="2" oct.ges="1" oct="3" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mbmnla7" right="end" n="7">
+                     <staff xml:id="s11evs45" n="1">
+                        <layer xml:id="l1hv03ph" n="1">
+                           <note xml:id="n1sbpiii" dur="2" oct="4" pname="c" stem.dir="up" />
+                           <rest xml:id="r1xihv14" dur="2" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1wx1wwt" n="2">
+                        <layer xml:id="lbs3uof" n="5">
+                           <note xml:id="n2h5mg1" dur="2" oct="4" pname="c" stem.dir="down" />
+                           <rest xml:id="r1ktrv6l" dur="2" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
