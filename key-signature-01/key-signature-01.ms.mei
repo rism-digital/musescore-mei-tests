@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="key-signature-01-123224" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -11,7 +11,7 @@
             </respStmt>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-21-09:38:05" />
+            <date isodate="2023-09-03T20:49:16" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -49,29 +49,29 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" n="1">
+                  <measure xml:id="mh82167" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <note xml:id="s1l1_t0_1" dur="1" pname="a" oct="4" />
+                           <note xml:id="ndcf0wo" dur="1" pname="a" oct="4" />
                         </layer>
                         <layer xml:id="m1s1l2" n="2">
-                           <note xml:id="s1l2_t0_1" dur="1" pname="d" oct="4" />
+                           <note xml:id="nsjnj0b" dur="1" pname="d" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
-                           <mRest xml:id="m1s2l1z1" />
+                           <mRest xml:id="m1qz6sf2" />
                         </layer>
                         <layer xml:id="m1s2l2" n="2">
-                           <note xml:id="s2l2_t0_1" dur="1" pname="e" oct="4" />
+                           <note xml:id="n1bb0c46" dur="1" pname="e" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m1s3" n="3">
                         <layer xml:id="m1s3l1" n="1">
-                           <mRest xml:id="m1s3l1z1" />
+                           <mRest xml:id="m1450la5" />
                         </layer>
                         <layer xml:id="m1s3l2" n="2">
-                           <note xml:id="s3l2_t0_1" dur="1" pname="c" oct="3" />
+                           <note xml:id="n1de1iwp" dur="1" pname="c" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -82,31 +82,31 @@
                         <staffDef n="3" keysig="3f" />
                      </staffGrp>
                   </scoreDef>
-                  <measure xml:id="m2" n="2">
+                  <measure xml:id="m26slmm" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <note xml:id="s1l1_t1_1" dur="1" pname="a" oct="4" />
+                           <note xml:id="n1rejcmf" dur="1" pname="a" oct="4" />
                         </layer>
                         <layer xml:id="m2s1l2" n="2">
-                           <note xml:id="s1l2_t1_1" dur="1" pname="d" oct="4" />
+                           <note xml:id="n933xtc" dur="1" pname="d" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m2s2" n="2">
                         <layer xml:id="m2s2l1" n="1">
-                           <mRest xml:id="m2s2l1z1" />
+                           <mRest xml:id="m13y7td4" />
                         </layer>
                         <layer xml:id="m2s2l2" n="2">
-                           <note xml:id="s2l2_t1_1" dur="1" pname="e" oct="4">
-                              <accid xml:id="m2s2l2a1" accid.ges="f" />
+                           <note xml:id="n1s4jimf" dur="1" pname="e" oct="4">
+                              <accid accid.ges="f" />
                            </note>
                         </layer>
                      </staff>
                      <staff xml:id="m2s3" n="3">
                         <layer xml:id="m2s3l1" n="1">
-                           <mRest xml:id="m2s3l1z1" />
+                           <mRest xml:id="mxm83jp" />
                         </layer>
                         <layer xml:id="m2s3l2" n="2">
-                           <note xml:id="s3l2_t1_1" dur="1" pname="c" oct="3" />
+                           <note xml:id="nea99s5" dur="1" pname="c" oct="3" />
                         </layer>
                      </staff>
                   </measure>
@@ -117,29 +117,29 @@
                         <staffDef n="3" keysig="0" />
                      </staffGrp>
                   </scoreDef>
-                  <measure xml:id="m3" right="end" n="3">
+                  <measure xml:id="mh22cag" right="end" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <note xml:id="s1l1_t2_1" dots="1" dur="2" pname="a" oct="4" />
+                           <note xml:id="nroz1zz" dots="1" dur="2" pname="a" oct="4" />
                         </layer>
                         <layer xml:id="m3s1l2" n="2">
-                           <note xml:id="s1l2_t2_1" dots="1" dur="2" pname="d" oct="4" />
+                           <note xml:id="n1bv0m8p" dots="1" dur="2" pname="d" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m3s2" n="2">
                         <layer xml:id="m3s2l1" n="1">
-                           <mRest xml:id="m3s2l1z1" />
+                           <mRest xml:id="m1mi1p3h" />
                         </layer>
                         <layer xml:id="m3s2l2" n="2">
-                           <note xml:id="s2l2_t2_1" dots="1" dur="2" pname="e" oct="4" />
+                           <note xml:id="n1cdjjz" dots="1" dur="2" pname="e" oct="4" />
                         </layer>
                      </staff>
                      <staff xml:id="m3s3" n="3">
                         <layer xml:id="m3s3l1" n="1">
-                           <mRest xml:id="m3s3l1z1" />
+                           <mRest xml:id="mlfrmsm" />
                         </layer>
                         <layer xml:id="m3s3l2" n="2">
-                           <note xml:id="s3l2_t2_1" dots="1" dur="2" pname="c" oct="3" />
+                           <note xml:id="ns3vmi7" dots="1" dur="2" pname="c" oct="3" />
                         </layer>
                      </staff>
                   </measure>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="tuplet-02-020113" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
             <title />
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-06-26-15:16:39" />
+            <date isodate="2023-09-03T20:51:50" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -29,99 +29,99 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <measure xml:id="m1" n="1">
+                  <measure xml:id="m1ojn091" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
-                           <tuplet xml:id="m1s1l1t1" num="3" numbase="2">
-                              <beam xml:id="m1s1l1b1">
-                                 <note xml:id="s1l1_t0_1" dur="8" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t1_12" dur="8" pname="d" oct="5" />
+                           <tuplet xml:id="t5y3x2o" num="3" numbase="2">
+                              <beam>
+                                 <note xml:id="n1dqj3sx" dur="8" pname="d" oct="5" />
+                                 <note xml:id="nhan0rh" dur="8" pname="d" oct="5" />
                               </beam>
-                              <beam xml:id="m1s1l1b2">
-                                 <note xml:id="s1l1_t1_6" type="mscore-beam-begin" dur="8" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t1_4" dur="8" pname="d" oct="5" />
+                              <beam>
+                                 <note xml:id="ntq17ct" type="mscore-beam-begin" dur="8" pname="d" oct="5" />
+                                 <note xml:id="no0gyzw" dur="8" pname="d" oct="5" />
                               </beam>
-                              <rest xml:id="s1l1_t1_3" dur="2" />
-                              <note xml:id="s1l1_t2_3" dur="4" pname="d" oct="5" />
-                              <note xml:id="s1l1_t5_6" dur="4" pname="d" oct="5" />
+                              <rest xml:id="rciclit" dur="2" />
+                              <note xml:id="n1nmnwzk" dur="4" pname="d" oct="5" />
+                              <note xml:id="n1vwstsu" dur="4" pname="d" oct="5" />
                            </tuplet>
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m2" n="2">
+                  <measure xml:id="m1fhxz5u" n="2">
                      <staff xml:id="m2s1" n="1">
                         <layer xml:id="m2s1l1" n="1">
-                           <beam xml:id="m2s1l1b1">
-                              <tuplet xml:id="m2s1l1t1" num="3" numbase="2">
-                                 <note xml:id="s1l1_t1_1" dur="16" pname="c" oct="5" />
-                                 <note xml:id="s1l1_t25_24" dur="16" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t13_12" dur="16" pname="c" oct="5" />
+                           <beam>
+                              <tuplet xml:id="t1gns7vh" num="3" numbase="2">
+                                 <note xml:id="nkwfl0l" dur="16" pname="c" oct="5" />
+                                 <note xml:id="n19wnkgq" dur="16" pname="d" oct="5" />
+                                 <note xml:id="n2y3jks" dur="16" pname="c" oct="5" />
                               </tuplet>
                            </beam>
-                           <beam xml:id="m2s1l1b2">
-                              <tuplet xml:id="m2s1l1t2" num="3" numbase="2">
-                                 <note xml:id="s1l1_t9_8" type="mscore-beam-begin" dur="16" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t7_6" dur="16" pname="e" oct="5" />
-                                 <note xml:id="s1l1_t29_24" dur="16" pname="d" oct="5" />
+                           <beam>
+                              <tuplet xml:id="t79eijo" num="3" numbase="2">
+                                 <note xml:id="njdiz7p" type="mscore-beam-begin" dur="16" pname="d" oct="5" />
+                                 <note xml:id="nppnkf9" dur="16" pname="e" oct="5" />
+                                 <note xml:id="n1g7ghhh" dur="16" pname="d" oct="5" />
                               </tuplet>
                            </beam>
-                           <beam xml:id="m2s1l1b3">
-                              <tuplet xml:id="m2s1l1t3" num="3" numbase="2">
-                                 <note xml:id="s1l1_t5_4" dur="16" pname="c" oct="5" />
-                                 <note xml:id="s1l1_t31_24" dur="16" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t4_3" dur="16" pname="c" oct="5" />
+                           <beam>
+                              <tuplet xml:id="tlkatlp" num="3" numbase="2">
+                                 <note xml:id="n1e7ct2a" dur="16" pname="c" oct="5" />
+                                 <note xml:id="n1kfqmqf" dur="16" pname="d" oct="5" />
+                                 <note xml:id="n1hvoo3o" dur="16" pname="c" oct="5" />
                               </tuplet>
-                              <tuplet xml:id="m2s1l1t4" num="3" numbase="2">
-                                 <note xml:id="s1l1_t11_8" dur="16" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t17_12" dur="16" pname="e" oct="5" />
-                                 <note xml:id="s1l1_t35_24" dur="16" pname="d" oct="5" />
+                              <tuplet xml:id="tkir093" num="3" numbase="2">
+                                 <note xml:id="n4aqmvb" dur="16" pname="d" oct="5" />
+                                 <note xml:id="n1vflalh" dur="16" pname="e" oct="5" />
+                                 <note xml:id="n2zvopm" dur="16" pname="d" oct="5" />
                               </tuplet>
                            </beam>
-                           <beam xml:id="m2s1l1b4">
-                              <tuplet xml:id="m2s1l1t5" num="3" numbase="2">
-                                 <note xml:id="s1l1_t3_2" dur="16" pname="e" oct="5" />
-                                 <note xml:id="s1l1_t37_24" dur="16" pname="f" oct="5" />
-                                 <note xml:id="s1l1_t19_12" dur="16" pname="e" oct="5" />
+                           <beam>
+                              <tuplet xml:id="tf1ykmo" num="3" numbase="2">
+                                 <note xml:id="nknxabu" dur="16" pname="e" oct="5" />
+                                 <note xml:id="n1ajy14f" dur="16" pname="f" oct="5" />
+                                 <note xml:id="nih53s7" dur="16" pname="e" oct="5" />
                               </tuplet>
-                              <note xml:id="s1l1_t13_8" dur="8" pname="d" oct="5" />
+                              <note xml:id="n112owun" dur="8" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m2s1l1b5">
-                              <note xml:id="s1l1_t7_4" dur="8" pname="e" oct="5" />
-                              <tuplet xml:id="m2s1l1t6" num="3" numbase="2">
-                                 <note xml:id="s1l1_t15_8" dur="16" pname="f" oct="5" />
-                                 <note xml:id="s1l1_t23_12" dur="16" pname="g" oct="5" />
-                                 <note xml:id="s1l1_t47_24" dur="16" pname="f" oct="5" />
+                           <beam>
+                              <note xml:id="n1o6jzlh" dur="8" pname="e" oct="5" />
+                              <tuplet xml:id="t8ca1gb" num="3" numbase="2">
+                                 <note xml:id="n1fdaj9c" dur="16" pname="f" oct="5" />
+                                 <note xml:id="n3s2xhf" dur="16" pname="g" oct="5" />
+                                 <note xml:id="n16klj56" dur="16" pname="f" oct="5" />
                               </tuplet>
                            </beam>
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m3" right="end" n="3">
+                  <measure xml:id="m19ein8c" right="end" n="3">
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
-                           <beam xml:id="m3s1l1b1">
-                              <note xml:id="s1l1_t2_1" dur="8" pname="e" oct="5" />
-                              <note xml:id="s1l1_t17_8" dur="16" pname="d" oct="5" />
-                              <note xml:id="s1l1_t35_16" dur="16" pname="d" oct="5" />
+                           <beam>
+                              <note xml:id="n1l4o2b8" dur="8" pname="e" oct="5" />
+                              <note xml:id="n14orh9c" dur="16" pname="d" oct="5" />
+                              <note xml:id="nynrecm" dur="16" pname="d" oct="5" />
                            </beam>
-                           <beam xml:id="m3s1l1b2">
-                              <note xml:id="s1l1_t9_4" dur="8" pname="c" oct="5" />
-                              <tuplet xml:id="m3s1l1t1" num="3" numbase="2">
-                                 <note xml:id="s1l1_t19_8" dur="16" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t29_12" dur="16" pname="e" oct="5" />
-                                 <note xml:id="s1l1_t59_24" dur="16" pname="d" oct="5" />
+                           <beam>
+                              <note xml:id="n1b4ep12" dur="8" pname="c" oct="5" />
+                              <tuplet xml:id="ta7pyek" num="3" numbase="2">
+                                 <note xml:id="ncce4su" dur="16" pname="d" oct="5" />
+                                 <note xml:id="n13n3hf7" dur="16" pname="e" oct="5" />
+                                 <note xml:id="n16dmyvt" dur="16" pname="d" oct="5" />
                               </tuplet>
-                              <tuplet xml:id="m3s1l1t2" num="3" numbase="2">
-                                 <note xml:id="s1l1_t5_2" type="mscore-beam-mid" dur="16" pname="c" oct="5" />
-                                 <note xml:id="s1l1_t61_24" dur="16" pname="d" oct="5" />
-                                 <note xml:id="s1l1_t31_12" dur="16" pname="c" oct="5" />
+                              <tuplet xml:id="tutcc40" num="3" numbase="2">
+                                 <note xml:id="n165p3tv" type="mscore-beam-mid" dur="16" pname="c" oct="5" />
+                                 <note xml:id="nezcs62" dur="16" pname="d" oct="5" />
+                                 <note xml:id="no7ebm6" dur="16" pname="c" oct="5" />
                               </tuplet>
-                              <note xml:id="s1l1_t21_8" dur="8" pname="b" oct="4" />
+                              <note xml:id="nr6bqe8" dur="8" pname="b" oct="4" />
                            </beam>
-                           <beam xml:id="m3s1l1b3">
-                              <note xml:id="s1l1_t11_4" dur="8" pname="d" oct="5" />
-                              <note xml:id="s1l1_t23_8" dur="8" pname="c" oct="5">
-                                 <accid xml:id="m3s1l1a1" accid="s" />
+                           <beam>
+                              <note xml:id="n13kohhy" dur="8" pname="d" oct="5" />
+                              <note xml:id="n85lfui" dur="8" pname="c" oct="5">
+                                 <accid accid="s" />
                               </note>
                            </beam>
                         </layer>

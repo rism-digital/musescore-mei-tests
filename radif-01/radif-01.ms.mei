@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="radif-01-224923" meiversion="5.0-dev+basic">
    <meiHead>
       <fileDesc>
          <titleStmt>
             <title>Daramad</title>
          </titleStmt>
          <pubStmt>
-            <date isodate="2023-08-26T17:57:48" />
+            <date isodate="2023-09-03T20:50:27" />
          </pubStmt>
       </fileDesc>
    </meiHead>
@@ -31,209 +31,208 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <pb />
-                  <measure xml:id="m1od7vii" right="end" metcon="false">
+                  <measure xml:id="m1enoqxf" right="end" metcon="false">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
                            <beam>
-                              <note xml:id="n1hdlzlz" dur="16" pname="a" oct="3" />
-                              <note xml:id="n1cmwuqh" dur="16" pname="a" oct="3" />
+                              <note xml:id="nefxy7y" dur="16" pname="a" oct="3" />
+                              <note xml:id="nwlu4c" dur="16" pname="a" oct="3" />
                            </beam>
                            <beam>
-                              <note xml:id="nmeiefm" type="mscore-beam-begin" dur="8" pname="g" oct="3" />
-                              <note xml:id="n94g7pk" dur="8" pname="a" oct="3" />
+                              <note xml:id="n6x59bk" type="mscore-beam-begin" dur="8" pname="g" oct="3" />
+                              <note xml:id="n2ov43w" dur="8" pname="a" oct="3" />
                            </beam>
-                           <note xml:id="n19fejfj" dur="4" pname="g" oct="3" />
-                           <note xml:id="n1sdzyw6" dur="4" pname="a" oct="3" />
+                           <note xml:id="na609t8" dur="4" pname="g" oct="3" />
+                           <note xml:id="n1507nv2" dur="4" pname="a" oct="3" />
                            <beam>
-                              <note xml:id="n1ad2rkm" dur="8" pname="g" oct="3" />
-                              <note xml:id="n196qsul" dur="8" pname="a" oct="3" />
+                              <note xml:id="nz8sopw" dur="8" pname="g" oct="3" />
+                              <note xml:id="nw83iv1" dur="8" pname="a" oct="3" />
                            </beam>
-                           <note xml:id="n6wo615" dur="4" pname="c" oct="4" />
+                           <note xml:id="nopwztd" dur="4" pname="c" oct="4" />
                            <beam>
-                              <note xml:id="no27aws" dur="16" pname="a" oct="3" />
-                              <note xml:id="n1wtuj78" dur="8" pname="c" oct="4" />
+                              <note xml:id="n96lajs" dur="16" pname="a" oct="3" />
+                              <note xml:id="n1wnwiv" dur="8" pname="c" oct="4" />
                            </beam>
-                           <note xml:id="n1lyculf" dur="2" pname="c" oct="4" />
+                           <note xml:id="n1c5hp" dur="2" pname="c" oct="4" />
                            <beam>
-                              <note xml:id="n1gzm6tt" dur="8" pname="c" oct="4" />
-                              <note xml:id="ntgu26w" dur="8" pname="d" oct="4" />
-                              <note xml:id="ndxnxk2" dur="8" pname="c" oct="4" />
-                              <note xml:id="nobs128" dur="8" pname="b" oct="3" />
+                              <note xml:id="n1dr3qtb" dur="8" pname="c" oct="4" />
+                              <note xml:id="nu6howl" dur="8" pname="d" oct="4" />
+                              <note xml:id="n18fo2pp" dur="8" pname="c" oct="4" />
+                              <note xml:id="n1l7pnra" dur="8" pname="b" oct="3" />
                            </beam>
-                           <note xml:id="ngwix4e" dur="2" pname="a" oct="3" />
+                           <note xml:id="n4j9crh" dur="2" pname="a" oct="3" />
                            <beam>
-                              <note xml:id="ne2qrl1" dur="16" pname="g" oct="3" />
-                              <note xml:id="n145vfxl" dur="16" pname="a" oct="3" />
-                           </beam>
-                           <beam>
-                              <note xml:id="nmei8p2" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
-                              <note xml:id="n1uw973g" dur="16" pname="c" oct="4" />
-                              <note xml:id="nn2pznp" dur="16" pname="c" oct="4" />
+                              <note xml:id="nph760f" dur="16" pname="g" oct="3" />
+                              <note xml:id="nk5n5ay" dur="16" pname="a" oct="3" />
                            </beam>
                            <beam>
-                              <note xml:id="n1ss6lqr" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
-                              <note xml:id="nic8tah" dur="8" pname="c" oct="4" />
-                           </beam>
-                           <note xml:id="n1g2j525" dur="2" pname="a" oct="3" />
-                           <beam>
-                              <note xml:id="n1yubype" dur="16" pname="a" oct="3" />
-                              <note xml:id="n1cs719j" dur="16" pname="b" oct="3" />
-                           </beam>
-                           <note xml:id="n15t7py7" type="mscore-beam-begin" dur="16" pname="a" oct="3" />
-                           <note xml:id="n1uw5qlj" dur="2" pname="b" oct="3" />
-                           <beam>
-                              <note xml:id="nqkbqgf" dur="16" pname="a" oct="3" />
-                              <note xml:id="n1uzh3ce" dur="16" pname="b" oct="3" />
+                              <note xml:id="n1bq59b6" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
+                              <note xml:id="n1j1i3h1" dur="16" pname="c" oct="4" />
+                              <note xml:id="nr707pb" dur="16" pname="c" oct="4" />
                            </beam>
                            <beam>
-                              <note xml:id="np3ye7s" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
-                              <note xml:id="nrebofh" dur="16" pname="d" oct="4" />
+                              <note xml:id="n1sxkdh6" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
+                              <note xml:id="nai3pg2" dur="8" pname="c" oct="4" />
                            </beam>
-                           <note xml:id="n1ufsgcl" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
-                           <note xml:id="nebvh0m" dur="2" pname="d" oct="4" />
+                           <note xml:id="nac8p6c" dur="2" pname="a" oct="3" />
                            <beam>
-                              <note xml:id="n14igozz" dur="16" pname="d" oct="4" />
-                              <note xml:id="n1343xs" dur="16" pname="c" oct="4" />
+                              <note xml:id="n1q62ki1" dur="16" pname="a" oct="3" />
+                              <note xml:id="n185lh1p" dur="16" pname="b" oct="3" />
                            </beam>
+                           <note xml:id="n18j91a8" type="mscore-beam-begin" dur="16" pname="a" oct="3" />
+                           <note xml:id="n1541tf1" dur="2" pname="b" oct="3" />
                            <beam>
-                              <note xml:id="np5trqa" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
-                              <note xml:id="n14oqfa1" dur="16" pname="c" oct="4" />
-                              <note xml:id="n1lcnewg" dur="16" pname="c" oct="4" />
-                           </beam>
-                           <note xml:id="n192eh7t" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
-                           <note xml:id="nakhabt" dur="2" pname="c" oct="4" />
-                           <beam>
-                              <note xml:id="n1v9s87f" dur="16" pname="b" oct="3" />
-                              <note xml:id="n192m0kh" dur="16" pname="c" oct="4" />
+                              <note xml:id="n1wx6bnn" dur="16" pname="a" oct="3" />
+                              <note xml:id="n15ykyb8" dur="16" pname="b" oct="3" />
                            </beam>
                            <beam>
-                              <note xml:id="n14ruiqk" type="mscore-beam-begin" dur="16" pname="d" oct="4" />
-                              <note xml:id="npxcq0g" dur="16" pname="e" oct="4" />
+                              <note xml:id="n9ws82e" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
+                              <note xml:id="n1dt23e5" dur="16" pname="d" oct="4" />
                            </beam>
-                           <note xml:id="nzv8hvn" type="mscore-beam-begin" dur="16" pname="d" oct="4" />
-                           <note xml:id="nwtkcg" dur="2" pname="e" oct="4" />
+                           <note xml:id="n1p4njzn" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
+                           <note xml:id="n1dt54mp" dur="2" pname="d" oct="4" />
                            <beam>
-                              <note xml:id="nv8kvr7" dur="16" pname="e" oct="4" />
-                              <note xml:id="n15zxnx4" dur="16" pname="d" oct="4" />
-                           </beam>
-                           <beam>
-                              <note xml:id="n1ti5viw" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
-                              <note xml:id="n1hmcou7" dur="16" pname="d" oct="4" />
+                              <note xml:id="nrewwcv" dur="16" pname="d" oct="4" />
+                              <note xml:id="nddr3hy" dur="16" pname="c" oct="4" />
                            </beam>
                            <beam>
-                              <note xml:id="n42aaul" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
-                              <note xml:id="nysgjdc" dur="8" pname="d" oct="4" />
-                              <note xml:id="nc9bqy2" dur="8" pname="d" oct="4" />
+                              <note xml:id="nbudgz0" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
+                              <note xml:id="nqk22a3" dur="16" pname="c" oct="4" />
+                              <note xml:id="n1499mjm" dur="16" pname="c" oct="4" />
                            </beam>
-                           <note xml:id="n24wkse" dur="4" pname="c" oct="4" />
+                           <note xml:id="n9ru0mz" type="mscore-beam-begin" dur="16" pname="b" oct="3" />
+                           <note xml:id="n1dyr668" dur="2" pname="c" oct="4" />
                            <beam>
-                              <note xml:id="n3k0isu" dur="16" pname="d" oct="4" />
-                              <note xml:id="n1feat7l" dur="16" pname="c" oct="4" />
-                           </beam>
-                           <note xml:id="nb77w78" dur="4" pname="b" oct="3" />
-                           <note xml:id="n1p19ppn" dur="4" pname="c" oct="4" />
-                           <note xml:id="n17ckyk9" dur="4" pname="d" oct="4" />
-                           <note xml:id="n1qf9hl8" dur="2" pname="e" oct="4" />
-                           <beam>
-                              <note xml:id="nd429oz" dur="16" pname="e" oct="4" />
-                              <note xml:id="n15ver5m" dur="16" pname="d" oct="4" />
+                              <note xml:id="npfcmvz" dur="16" pname="b" oct="3" />
+                              <note xml:id="n1izc2bf" dur="16" pname="c" oct="4" />
                            </beam>
                            <beam>
-                              <note xml:id="nep8nkk" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
-                              <note xml:id="n1jm35yk" dur="16" pname="d" oct="4" />
+                              <note xml:id="nnhftdc" type="mscore-beam-begin" dur="16" pname="d" oct="4" />
+                              <note xml:id="nk3hp5u" dur="16" pname="e" oct="4" />
+                           </beam>
+                           <note xml:id="n5q9k9e" type="mscore-beam-begin" dur="16" pname="d" oct="4" />
+                           <note xml:id="ndi8zeo" dur="2" pname="e" oct="4" />
+                           <beam>
+                              <note xml:id="nnvsfjm" dur="16" pname="e" oct="4" />
+                              <note xml:id="n1ftmbyc" dur="16" pname="d" oct="4" />
                            </beam>
                            <beam>
-                              <note xml:id="ne65zdw" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
-                              <note xml:id="n87h21x" dur="8" pname="d" oct="4" />
-                              <note xml:id="noifnnt" dur="8" pname="d" oct="4" />
+                              <note xml:id="n1306j8w" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
+                              <note xml:id="n3zo5d2" dur="16" pname="d" oct="4" />
                            </beam>
-                           <note xml:id="n1s7w3pe" dur="4" pname="c" oct="4" />
-                           <note xml:id="n1d30yeo" dur="2" pname="a" oct="3" />
-                           <note xml:id="n1hlmbe8" dur="4" pname="c" oct="4" />
                            <beam>
-                              <note xml:id="n1lf0p6z" dur="16" pname="a" oct="3" />
-                              <note xml:id="n1u2fteu" dur="8" pname="c" oct="4" />
+                              <note xml:id="n1bp5e5y" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
+                              <note xml:id="ng8t7n8" dur="8" pname="d" oct="4" />
+                              <note xml:id="na9dyr4" dur="8" pname="d" oct="4" />
                            </beam>
-                           <note xml:id="n14jo3ul" dur="2" pname="c" oct="4" />
+                           <note xml:id="n19db5v0" dur="4" pname="c" oct="4" />
+                           <beam>
+                              <note xml:id="n154fta3" dur="16" pname="d" oct="4" />
+                              <note xml:id="nc155gm" dur="16" pname="c" oct="4" />
+                           </beam>
+                           <note xml:id="n1l453oa" dur="4" pname="b" oct="3" />
+                           <note xml:id="ngfz66e" dur="4" pname="c" oct="4" />
+                           <note xml:id="n10iy0ip" dur="4" pname="d" oct="4" />
+                           <note xml:id="n1oe90di" dur="2" pname="e" oct="4" />
+                           <beam>
+                              <note xml:id="n1gwfzyq" dur="16" pname="e" oct="4" />
+                              <note xml:id="n9gvm3s" dur="16" pname="d" oct="4" />
+                           </beam>
+                           <beam>
+                              <note xml:id="ntam7tg" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
+                              <note xml:id="n1l5ro79" dur="16" pname="d" oct="4" />
+                           </beam>
+                           <beam>
+                              <note xml:id="n1j1tlpq" type="mscore-beam-begin" dur="16" pname="c" oct="4" />
+                              <note xml:id="n1il8ovc" dur="8" pname="d" oct="4" />
+                              <note xml:id="n1irsona" dur="8" pname="d" oct="4" />
+                           </beam>
+                           <note xml:id="n1jghtk9" dur="4" pname="c" oct="4" />
+                           <note xml:id="nec4k76" dur="2" pname="a" oct="3" />
+                           <note xml:id="nl6clpf" dur="4" pname="c" oct="4" />
+                           <beam>
+                              <note xml:id="ntbz4wo" dur="16" pname="a" oct="3" />
+                              <note xml:id="n1k0yow4" dur="8" pname="c" oct="4" />
+                           </beam>
+                           <note xml:id="n1kmpyh6" dur="2" pname="c" oct="4" />
                         </layer>
                      </staff>
-                     <harm xml:id="hp9yw8d" startid="#n1cmwuqh">v</harm>
-                     <harm xml:id="h1yqhgik" startid="#nmeiefm">[</harm>
-                     <harm xml:id="h63z1sx" startid="#n94g7pk">]</harm>
-                     <harm xml:id="h1gozi62" startid="#n94g7pk">2</harm>
-                     <harm xml:id="h1yef5mn" startid="#n19fejfj">[</harm>
-                     <harm xml:id="h2ytzpb" startid="#n19fejfj">....</harm>
-                     <harm xml:id="h1vcfkfa" startid="#n1sdzyw6">]</harm>
-                     <harm xml:id="ha1syfd" startid="#n1sdzyw6">2</harm>
-                     <harm xml:id="hc3ccnq" startid="#n1sdzyw6">....</harm>
-                     <harm xml:id="h11fepvs" startid="#no27aws">[</harm>
-                     <harm xml:id="h1ibbyhi" startid="#no27aws">v</harm>
-                     <harm xml:id="h11kjwv7" startid="#n1wtuj78">]</harm>
-                     <harm xml:id="h13o0vzf" startid="#n1wtuj78">2</harm>
-                     <harm xml:id="hnk9x0m" startid="#n1lyculf">....</harm>
-                     <harm xml:id="h17tcqi8" startid="#n1gzm6tt">..</harm>
-                     <harm xml:id="h7a4r8w" startid="#ngwix4e">....</harm>
-                     <harm xml:id="h2rfpte" startid="#n145vfxl">v</harm>
-                     <harm xml:id="hzv25bo" startid="#nmei8p2">[</harm>
-                     <harm xml:id="hdg6jkj" startid="#nn2pznp">v</harm>
-                     <harm xml:id="h16ixqjs" startid="#nn2pznp">]</harm>
-                     <harm xml:id="h1ft1ez6" startid="#nn2pznp">4</harm>
-                     <harm xml:id="heexpqg" startid="#n1g2j525">....</harm>
-                     <harm xml:id="h1oardae" startid="#n1yubype">[</harm>
-                     <harm xml:id="h2y43ck" startid="#n1cs719j">v</harm>
-                     <harm xml:id="h9263aq" startid="#n1cs719j">]</harm>
-                     <harm xml:id="htlwjlk" startid="#n1cs719j">8</harm>
-                     <harm xml:id="h177ly21" startid="#n1uw5qlj">....</harm>
-                     <harm xml:id="hdwthfi" startid="#n1uzh3ce">v</harm>
-                     <harm xml:id="hl95gfq" startid="#np3ye7s">[</harm>
-                     <harm xml:id="h1rq7c4t" startid="#nrebofh">v</harm>
-                     <harm xml:id="hs3sgno" startid="#nrebofh">]</harm>
-                     <harm xml:id="h1xywy2l" startid="#nrebofh">7</harm>
-                     <harm xml:id="h8t0wnp" startid="#nebvh0m">....</harm>
-                     <harm xml:id="h1kzudfc" startid="#n14igozz">[</harm>
-                     <harm xml:id="h9yp52p" startid="#n1343xs">v</harm>
-                     <harm xml:id="hmf84hq" startid="#n1343xs">]</harm>
-                     <harm xml:id="h1cb1t4v" startid="#n1343xs">2</harm>
-                     <harm xml:id="hp01bsz" startid="#np5trqa">[</harm>
-                     <harm xml:id="h1jq769m" startid="#n1lcnewg">v</harm>
-                     <harm xml:id="h1uwp9ip" startid="#n1lcnewg">]</harm>
-                     <harm xml:id="h14kpst7" startid="#n1lcnewg">3</harm>
-                     <harm xml:id="h1a66af0" startid="#nakhabt">....</harm>
-                     <harm xml:id="hikx2fr" startid="#n192m0kh">v</harm>
-                     <harm xml:id="hq3990v" startid="#n14ruiqk">[</harm>
-                     <harm xml:id="hi862g9" startid="#npxcq0g">v</harm>
-                     <harm xml:id="himwg2k" startid="#npxcq0g">]</harm>
-                     <harm xml:id="h1gfb46c" startid="#npxcq0g">8</harm>
-                     <harm xml:id="h11lgsz1" startid="#nwtkcg">....</harm>
-                     <harm xml:id="hy2uldk" startid="#nv8kvr7">[</harm>
-                     <harm xml:id="h11m9pe4" startid="#n15zxnx4">v</harm>
-                     <harm xml:id="h1jsfnou" startid="#n15zxnx4">]</harm>
-                     <harm xml:id="h1s7qfiv" startid="#n15zxnx4">2</harm>
-                     <harm xml:id="h1r5f1jd" startid="#n1ti5viw">[</harm>
-                     <harm xml:id="h13t5ub1" startid="#n1hmcou7">v</harm>
-                     <harm xml:id="h1rh5qbq" startid="#n1hmcou7">]</harm>
-                     <harm xml:id="h1u3xqos" startid="#n1hmcou7">3</harm>
-                     <harm xml:id="hns7ci6" startid="#nysgjdc">»</harm>
-                     <harm xml:id="h159d7ad" startid="#nc9bqy2">»</harm>
-                     <harm xml:id="hd94r99" startid="#n3k0isu">[</harm>
-                     <harm xml:id="h13z7qfg" startid="#n1feat7l">v</harm>
-                     <harm xml:id="h1fl1zdt" startid="#n1feat7l">]</harm>
-                     <harm xml:id="h1ulmj04" startid="#n1feat7l">2</harm>
-                     <harm xml:id="h62gbxh" startid="#nb77w78">....</harm>
-                     <harm xml:id="h1wfk8ba" startid="#n1p19ppn">....</harm>
-                     <harm xml:id="hcql2rp" startid="#n17ckyk9">....</harm>
-                     <harm xml:id="h15x9pfy" startid="#n1qf9hl8">....</harm>
-                     <harm xml:id="h1g4d8d0" startid="#n1qf9hl8">»</harm>
-                     <harm xml:id="hygsmcy" startid="#n15ver5m">v</harm>
-                     <harm xml:id="h1b6ibe0" startid="#nep8nkk">[</harm>
-                     <harm xml:id="h1f05t6v" startid="#n1jm35yk">v</harm>
-                     <harm xml:id="hgiyr3y" startid="#n1jm35yk">]</harm>
-                     <harm xml:id="h1itn5db" startid="#n1jm35yk">3</harm>
-                     <harm xml:id="hhbbn7w" startid="#n87h21x">»</harm>
-                     <harm xml:id="he9eihm" startid="#noifnnt">»</harm>
-                     <harm xml:id="h283l7f" startid="#n1d30yeo">....</harm>
-                     <harm xml:id="h1ky42nh" startid="#n1lf0p6z">v</harm>
+                     <harm xml:id="h1jv4uu8" startid="#nwlu4c">v</harm>
+                     <harm xml:id="h1uko4av" startid="#n6x59bk">[</harm>
+                     <harm xml:id="h5zzfh8" startid="#n2ov43w">]</harm>
+                     <harm xml:id="h1bkuf2i" startid="#n2ov43w">2</harm>
+                     <harm xml:id="hjxdphn" startid="#na609t8">[</harm>
+                     <harm xml:id="h10vinuc" startid="#na609t8">....</harm>
+                     <harm xml:id="h13wduyx" startid="#n1507nv2">]</harm>
+                     <harm xml:id="hdgp7y9" startid="#n1507nv2">2</harm>
+                     <harm xml:id="h2dfcnp" startid="#n1507nv2">....</harm>
+                     <harm xml:id="hqaw66h" startid="#n96lajs">[</harm>
+                     <harm xml:id="h1ma7s97" startid="#n96lajs">v</harm>
+                     <harm xml:id="h5ge2zy" startid="#n1wnwiv">]</harm>
+                     <harm xml:id="h15jct1r" startid="#n1wnwiv">2</harm>
+                     <harm xml:id="hr53kzs" startid="#n1c5hp">....</harm>
+                     <harm xml:id="h11jddo" startid="#n1dr3qtb">..</harm>
+                     <harm xml:id="htnfqgr" startid="#n4j9crh">....</harm>
+                     <harm xml:id="hwl1p7q" startid="#nk5n5ay">v</harm>
+                     <harm xml:id="h1x1vkw" startid="#n1bq59b6">[</harm>
+                     <harm xml:id="h1by09sl" startid="#nr707pb">v</harm>
+                     <harm xml:id="h14hi3ho" startid="#nr707pb">]</harm>
+                     <harm xml:id="hvpsjvu" startid="#nr707pb">4</harm>
+                     <harm xml:id="h13kfg4m" startid="#nac8p6c">....</harm>
+                     <harm xml:id="h19j51o2" startid="#n1q62ki1">[</harm>
+                     <harm xml:id="heqo9st" startid="#n185lh1p">v</harm>
+                     <harm xml:id="h1s0gd5a" startid="#n185lh1p">]</harm>
+                     <harm xml:id="htpuwwv" startid="#n185lh1p">8</harm>
+                     <harm xml:id="he3j26c" startid="#n1541tf1">....</harm>
+                     <harm xml:id="he52lr" startid="#n15ykyb8">v</harm>
+                     <harm xml:id="h1xte842" startid="#n9ws82e">[</harm>
+                     <harm xml:id="h1f2awhe" startid="#n1dt23e5">v</harm>
+                     <harm xml:id="hqiybti" startid="#n1dt23e5">]</harm>
+                     <harm xml:id="h1a8o9ub" startid="#n1dt23e5">7</harm>
+                     <harm xml:id="hhufkwb" startid="#n1dt54mp">....</harm>
+                     <harm xml:id="h1vyg12o" startid="#nrewwcv">[</harm>
+                     <harm xml:id="h3mo1xs" startid="#nddr3hy">v</harm>
+                     <harm xml:id="h6ux19w" startid="#nddr3hy">]</harm>
+                     <harm xml:id="h8un9e8" startid="#nddr3hy">2</harm>
+                     <harm xml:id="h1n4e2pm" startid="#nbudgz0">[</harm>
+                     <harm xml:id="hirak5u" startid="#n1499mjm">v</harm>
+                     <harm xml:id="h4b4mss" startid="#n1499mjm">]</harm>
+                     <harm xml:id="hhwz9f2" startid="#n1499mjm">3</harm>
+                     <harm xml:id="h1bug8bq" startid="#n1dyr668">....</harm>
+                     <harm xml:id="hegg4t6" startid="#n1izc2bf">v</harm>
+                     <harm xml:id="h19829l1" startid="#nnhftdc">[</harm>
+                     <harm xml:id="h1ifietn" startid="#nk3hp5u">v</harm>
+                     <harm xml:id="htwjrk3" startid="#nk3hp5u">]</harm>
+                     <harm xml:id="hcdcypw" startid="#nk3hp5u">8</harm>
+                     <harm xml:id="hfoeej" startid="#ndi8zeo">....</harm>
+                     <harm xml:id="h2gtsix" startid="#nnvsfjm">[</harm>
+                     <harm xml:id="h1tw239" startid="#n1ftmbyc">v</harm>
+                     <harm xml:id="h1um11p3" startid="#n1ftmbyc">]</harm>
+                     <harm xml:id="hae5z1" startid="#n1ftmbyc">2</harm>
+                     <harm xml:id="h187c69s" startid="#n1306j8w">[</harm>
+                     <harm xml:id="hhyb924" startid="#n3zo5d2">v</harm>
+                     <harm xml:id="h1znj2b" startid="#n3zo5d2">]</harm>
+                     <harm xml:id="h1efpeqf" startid="#n3zo5d2">3</harm>
+                     <harm xml:id="hjsiq6z" startid="#ng8t7n8">»</harm>
+                     <harm xml:id="hr9o50f" startid="#na9dyr4">»</harm>
+                     <harm xml:id="h1lxordf" startid="#n154fta3">[</harm>
+                     <harm xml:id="h1ohj66h" startid="#nc155gm">v</harm>
+                     <harm xml:id="h3u41ve" startid="#nc155gm">]</harm>
+                     <harm xml:id="htfs5mm" startid="#nc155gm">2</harm>
+                     <harm xml:id="hxf2o29" startid="#n1l453oa">....</harm>
+                     <harm xml:id="h1rp7z18" startid="#ngfz66e">....</harm>
+                     <harm xml:id="h1ajrijf" startid="#n10iy0ip">....</harm>
+                     <harm xml:id="hsunc6c" startid="#n1oe90di">....</harm>
+                     <harm xml:id="h1ee1zfr" startid="#n1oe90di">»</harm>
+                     <harm xml:id="h161yidw" startid="#n9gvm3s">v</harm>
+                     <harm xml:id="hnrdabk" startid="#ntam7tg">[</harm>
+                     <harm xml:id="h1bov54r" startid="#n1l5ro79">v</harm>
+                     <harm xml:id="hvm7ygu" startid="#n1l5ro79">]</harm>
+                     <harm xml:id="h3qqnki" startid="#n1l5ro79">3</harm>
+                     <harm xml:id="h670994" startid="#n1il8ovc">»</harm>
+                     <harm xml:id="hipijyv" startid="#n1irsona">»</harm>
+                     <harm xml:id="h17kzx1r" startid="#nec4k76">....</harm>
+                     <harm xml:id="h1m8s4zp" startid="#ntbz4wo">v</harm>
                   </measure>
                </section>
             </score>
