@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead xml:id="mx1ylih">
+      <fileDesc xml:id="frv7d8o">
+         <titleStmt xml:id="t14cy9om">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1thvbgt">
+            <date isodate="2023-09-18" type="encoding-date">2023-09-18</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="ebnx7cw">
+         <appInfo xml:id="a1sbias2">
+            <application xml:id="a1s27z6z" isodate="2023-09-18T16:38:29" version="4.0.1">
+               <name xml:id="n1uq36h4">Verovio</name>
+               <p xml:id="pjcsrdj">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mme6zsr">
+            <score xml:id="s1xvuy8m">
+               <scoreDef xml:id="s1dwcest">
+                  <pgHead xml:id="p5lcc4x">
+                     <rend xml:id="r1ykpijv" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="r1x9hu4n" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1ca5q8u" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1hrzn0p">
+                     <staffGrp xml:id="P1" bar.thru="true" symbol="brace">
+                        <label xml:id="l1htwjzv">Piano</label>
+                        <labelAbbr xml:id="l1jk7nw9">Pno.</labelAbbr>
+                        <instrDef xml:id="i1o6fz08" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="stkfee4" n="1" lines="5" ppq="1" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4" />
+                        <staffDef xml:id="s1rgzmat" n="2" lines="5" ppq="1" clef.shape="F" clef.line="4" keysig="0" meter.count="4" meter.unit="4" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="su87bfy">
+                  <measure xml:id="m1sxxbeb" n="1">
+                     <staff xml:id="s1fjbren" n="1">
+                        <layer xml:id="lnc8gy1" n="1">
+                           <chord xml:id="cuiuf76" dur="2" stem.dir="up">
+                              <note xml:id="na9e137" oct="4" pname="e" />
+                              <note xml:id="nrd3j1a" oct="4" pname="a" />
+                              <note xml:id="n1cekzdu" oct="5" pname="c" />
+                           </chord>
+                           <chord xml:id="c1wjgbkn" dur="2" stem.dir="up">
+                              <note xml:id="n1b12it2" oct="4" pname="e" />
+                              <note xml:id="n11yvqt6" oct="4" pname="a" />
+                              <note xml:id="ngj18vh" oct="5" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="scsw9nw" n="2">
+                        <layer xml:id="l22ejx6" n="5">
+                           <chord xml:id="c1elwgte" dur="2" stem.dir="down">
+                              <note xml:id="n192vpc3" oct="2" pname="a" />
+                              <note xml:id="n12fkimv" oct="3" pname="e" />
+                              <note xml:id="n132xc0f" oct="3" pname="a" />
+                           </chord>
+                           <chord xml:id="c9v566" dur="2" stem.dir="down">
+                              <note xml:id="njb090h" oct="2" pname="a" />
+                              <note xml:id="n1an4k8g" oct="3" pname="e" />
+                              <note xml:id="n1mqg7lu" oct="3" pname="a" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <arpeg xml:id="a1j10k0s" plist="#cuiuf76 #c1elwgte" />
+                     <arpeg xml:id="a1swiigw" plist="#c1wjgbkn #c9v566" order="up" arrow="true" />
+                  </measure>
+                  <measure xml:id="mc4x18z" right="end" n="2">
+                     <staff xml:id="s158ydh4" n="1">
+                        <layer xml:id="l1f72ti8" n="1">
+                           <chord xml:id="c1rd0w68" dur="4" stem.dir="up">
+                              <note xml:id="n18wm8i3" oct="4" pname="e" />
+                              <note xml:id="n1ouj1hb" oct="4" pname="a" />
+                              <note xml:id="n16itmqt" oct="5" pname="c" />
+                           </chord>
+                           <chord xml:id="c1v8s7jk" dur="4" stem.dir="up">
+                              <note xml:id="n1k5w588" oct="4" pname="e" />
+                              <note xml:id="nx5ba5d" oct="4" pname="a" />
+                              <note xml:id="nm33wko" oct="5" pname="c" />
+                           </chord>
+                           <chord xml:id="cg7own7" dur="4" stem.dir="up">
+                              <note xml:id="n17uf8py" oct="4" pname="e" />
+                              <note xml:id="n1wkkujl" oct="4" pname="a" />
+                              <note xml:id="nsxcwxc" oct="5" pname="c" />
+                           </chord>
+                           <chord xml:id="csxswpp" dur="4" stem.dir="up">
+                              <note xml:id="n73rj7s" oct="4" pname="e" />
+                              <note xml:id="n1xcc4f" oct="4" pname="a" />
+                              <note xml:id="ntsvro9" oct="5" pname="c" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s13vmxve" n="2">
+                        <layer xml:id="lhbdlei" n="5">
+                           <chord xml:id="c1clasks" dur="4" stem.dir="down">
+                              <note xml:id="nbgwdia" oct="2" pname="a" />
+                              <note xml:id="n1etlsxl" oct="3" pname="e" />
+                              <note xml:id="nl32eqq" oct="3" pname="a" />
+                           </chord>
+                           <chord xml:id="c1892opd" dur="4" stem.dir="down">
+                              <note xml:id="n157xxd8" oct="2" pname="a" />
+                              <note xml:id="nl8xaz2" oct="3" pname="e" />
+                              <note xml:id="n1wrdjp0" oct="3" pname="a" />
+                           </chord>
+                           <chord xml:id="cet8f6l" dur="4" stem.dir="down">
+                              <note xml:id="n11wxkw8" oct="2" pname="a" />
+                              <note xml:id="n1bw3t8q" oct="3" pname="e" />
+                              <note xml:id="n1xqifiy" oct="3" pname="a" />
+                           </chord>
+                           <chord xml:id="c1br0xi8" dur="4" stem.dir="down">
+                              <note xml:id="n1hwg6tf" oct="2" pname="a" />
+                              <note xml:id="nhodf87" oct="3" pname="e" />
+                              <note xml:id="nnjezry" oct="3" pname="a" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <arpeg xml:id="a198hjh8" plist="#c1rd0w68" />
+                     <arpeg xml:id="afzugej" plist="#c1v8s7jk" order="up" arrow="true" />
+                     <arpeg xml:id="a1cavfbu" plist="#cg7own7" order="nonarp" />
+                     <arpeg xml:id="az9be79" plist="#csxswpp #c1br0xi8" order="nonarp" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

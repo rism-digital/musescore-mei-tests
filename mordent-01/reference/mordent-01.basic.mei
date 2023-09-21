@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev+basic">
+   <meiHead xml:id="mv8qmjz">
+      <fileDesc xml:id="fp9zice">
+         <titleStmt xml:id="td4gz1b">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pncc60d">
+            <date isodate="2023-09-09" type="encoding-date">2023-09-09</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1yelqpx">
+         <appInfo xml:id="a8f2hjb">
+            <application xml:id="a1l76aix" isodate="2023-09-09T16:14:44" version="3.16.0">
+               <name xml:id="nenuat4">Verovio</name>
+               <p xml:id="p1retwj9">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1bckxb8">
+            <score xml:id="s18pyttx">
+               <scoreDef xml:id="s4my6ra">
+                  <pgHead xml:id="p173ea3r">
+                     <rend xml:id="rdp1g0z" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="r1hpbs39" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="r1f4d7an" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sdg73n9">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="li2w21v">Violin</label>
+                        <labelAbbr xml:id="ld592b2">Vln.</labelAbbr>
+                        <instrDef xml:id="i17rhjke" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="srelvmb">
+                  <measure xml:id="mj83ma" n="1">
+                     <staff xml:id="s153715p" n="1">
+                        <layer xml:id="l1ynpk5o" n="1">
+                           <note xml:id="ntu1m1p" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n148fl4s" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n1n8yzjy" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="n8jwi7p" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <mordent xml:id="m1ln6ehg" staff="1" startid="#ntu1m1p" form="upper" />
+                     <mordent xml:id="m1i3ao7a" staff="1" startid="#n148fl4s" form="lower" />
+                     <mordent xml:id="m8qd4y0" staff="1" startid="#n1n8yzjy" form="upper" long="true" />
+                     <mordent xml:id="m89y4b1" staff="1" startid="#n8jwi7p" form="lower" long="true" />
+                  </measure>
+                  <measure xml:id="m1wmwt43" n="2">
+                     <staff xml:id="s1mj3f6k" n="1">
+                        <layer xml:id="l1cxfnmw" n="1">
+                           <note xml:id="nnx3z8u" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nt8jn4t" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n1hqxmo1" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="n12vnsew" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <mordent xml:id="mruh889" staff="1" startid="#nnx3z8u" glyph.auth="smufl" glyph.num="U+E5B5" form="upper" long="true" />
+                     <mordent xml:id="m1qxuspr" staff="1" startid="#nt8jn4t" glyph.auth="smufl" glyph.num="U+E5C6" form="upper" long="true" />
+                     <mordent xml:id="m1ewusa5" staff="1" startid="#n1hqxmo1" glyph.auth="smufl" glyph.num="U+E5B8" form="lower" long="true" />
+                     <mordent xml:id="mwkmx4f" staff="1" startid="#n12vnsew" glyph.auth="smufl" glyph.num="U+E5C7" form="lower" long="true" />
+                  </measure>
+                  <measure xml:id="m13kgcfv" n="3">
+                     <staff xml:id="s1nfu2gq" n="1">
+                        <layer xml:id="l1ay4g0w" n="1">
+                           <note xml:id="n164kdap" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n1yy2w8j" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="nxti9zz" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nbe68ae" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <mordent xml:id="m1m0zh07" staff="1" startid="#n164kdap" glyph.auth="smufl" glyph.num="U+E5C8" form="upper" long="true" />
+                     <mordent xml:id="m1jmqr35" staff="1" startid="#n1yy2w8j" glyph.auth="smufl" glyph.num="U+E5BB" form="upper" long="true" />
+                     <mordent xml:id="mobirp1" staff="1" startid="#nxti9zz" glyph.auth="smufl" glyph.num="U+E5C6" form="upper" long="true" />
+                     <mordent xml:id="m1iwzs8d" staff="1" startid="#nbe68ae" glyph.auth="smufl" glyph.num="U+E587" />
+                  </measure>
+                  <measure xml:id="m19bgur9" right="end" n="4">
+                     <staff xml:id="so9hywh" n="1">
+                        <layer xml:id="l1k0sdrj" n="1">
+                           <note xml:id="ntahx4y" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n11paso" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n1ndn2kg" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="n6etawf" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

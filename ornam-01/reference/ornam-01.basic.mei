@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead xml:id="m1xjzvn5">
+      <fileDesc xml:id="flw3kam">
+         <titleStmt xml:id="telkjyq">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1ba2w9q">
+            <date isodate="2023-09-12" type="encoding-date">2023-09-12</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="ebqcvr1">
+         <appInfo xml:id="a9l4xuo">
+            <application xml:id="a6qqc6t" isodate="2023-09-12T13:40:12" version="4.0.1">
+               <name xml:id="nt3i1qg">Verovio</name>
+               <p xml:id="pqm0e08">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="me7mugv">
+            <score xml:id="s1c61c66">
+               <scoreDef xml:id="s96eypb">
+                  <pgHead xml:id="p5e2ml0">
+                     <rend xml:id="r1mt0nas" halign="center" valign="top">Untitled score</rend>
+                     <rend xml:id="rflo09f" halign="center" valign="top">Subtitle</rend>
+                     <rend xml:id="rnpd546" halign="right" valign="bottom">Composer / arranger</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sakb7jh">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4">
+                        <label xml:id="l4l465o">Violin</label>
+                        <labelAbbr xml:id="l13oha76">Vln.</labelAbbr>
+                        <instrDef xml:id="i1it31dm" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="scmhjpe">
+                  <measure xml:id="mvzy4dm" n="1">
+                     <staff xml:id="szaq8l3" n="1">
+                        <layer xml:id="ldmw4xb" n="1">
+                           <note xml:id="n6b3k3w" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n3bzohd" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n1ehu8b7" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="np62mn6" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <turn xml:id="tlmkpk7" staff="1" startid="#n6b3k3w" form="lower" />
+                     <turn xml:id="t119av95" staff="1" startid="#n3bzohd" form="upper" />
+                     <trill xml:id="tr6wdn7" staff="1" startid="#n1ehu8b7" />
+                     <mordent xml:id="mra5h2o" staff="1" startid="#np62mn6" form="upper" />
+                  </measure>
+                  <measure xml:id="m19p5kj0" n="2">
+                     <staff xml:id="spwhgzh" n="1">
+                        <layer xml:id="l1ejdbt0" n="1">
+                           <note xml:id="n3hb5uk" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nezvnxa" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="nl61xr" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="ntxr90d" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <mordent xml:id="m1yopu36" staff="1" startid="#n3hb5uk" form="lower" />
+                     <turn xml:id="taflarz" staff="1" startid="#nezvnxa" glyph.auth="smufl" glyph.num="U+E569" form="upper" />
+                     <mordent xml:id="m1xddxh8" staff="1" startid="#nl61xr" form="upper" long="true" />
+                     <mordent xml:id="mjm858s" staff="1" startid="#ntxr90d" form="lower" long="true" />
+                  </measure>
+                  <measure xml:id="mtqcf37" n="3">
+                     <staff xml:id="skihu9w" n="1">
+                        <layer xml:id="l17j99jk" n="1">
+                           <note xml:id="n1a78drl" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nt0x81r" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n1uagx27" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nngwz0j" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <turn xml:id="t3ukp7c" staff="1" startid="#n1a78drl" form="lower" />
+                     <turn xml:id="tp8ftb4" staff="1" startid="#nt0x81r" form="upper" />
+                     <trill xml:id="t1fk362r" staff="1" startid="#n1uagx27" />
+                     <mordent xml:id="milxtd9" staff="1" startid="#nngwz0j" form="upper" />
+                  </measure>
+                  <measure xml:id="m176hfn9" right="end" n="4">
+                     <staff xml:id="s1c8mlym" n="1">
+                        <layer xml:id="l1p206sh" n="1">
+                           <note xml:id="n1gd6m8f" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n1siuk2f" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n16d9ogc" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="ndbr01h" dur="4" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <trill xml:id="t1w36t3a" staff="1" startid="#n1gd6m8f" />
+                     <trill xml:id="t1njxrql" staff="1" startid="#n1siuk2f" />
+                     <mordent xml:id="mo9vyk5" staff="1" startid="#n16d9ogc" form="upper" />
+                     <mordent xml:id="m11im6qb" staff="1" startid="#ndbr01h" form="lower" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
